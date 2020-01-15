@@ -22,4 +22,4 @@ Preparation
 Notes
 =====
 
-Any personal annotations and advises go here
+Adjust for salmon
