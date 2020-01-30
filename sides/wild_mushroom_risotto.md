@@ -12,7 +12,7 @@ Ingredients
 ===========
 
 * 9 1/2 tablespoons butter, divided
-* 1 1/2 pounds fresh wild mushrooms (such as cèpe [porcini], hen of the woods, chanterelle, or stemmed shiitake); large mushrooms sliced, small mushrooms halved or quartered
+* 1 1/2 pounds mix of normal and fresh wild mushrooms  (such as cèpe [porcini], hen of the woods, chanterelle, or stemmed shiitake); large mushrooms sliced, small mushrooms halved or quartered
 * 7 cups (about) low-salt chicken broth
 * 1 tablespoon extra-virgin olive oil
 * 3/4 cup finely chopped leek (white and pale green parts only)
