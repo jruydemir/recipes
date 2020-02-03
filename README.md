@@ -3,6 +3,7 @@ A curated list of Recipes
 
 ## Table of Contents
 
++ [Breads](breads) :bread:
 + [Breakfast](breakfast) :egg:
 + [Dumplings](dumplings) :sushi:
 + [Entrees](entrees) :spaghetti:
