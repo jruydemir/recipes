@@ -11,8 +11,9 @@ Ingredients
 
 * [ ] 1/4 cup Butter
 * [ ] 3 Chicken Breast
-* [ ] 1 medium Onion
+* [ ] 1 lg Shallot
 * [ ] 4 Garlic Cloves
+* [ ] 2 Tbsp. Tomato Paste
 * [ ] 1 28 oz can San Marano Tomatoes
 * [ ] 1/2 cup Vodka
 * [ ] 1/2 tsp. Kosher Salt

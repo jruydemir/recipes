@@ -1,5 +1,5 @@
 ---
-title: Breakfast Strata
+title: Breakfast Strata Lorraine
 source:
 img: an\_image.png
 tags: any, tags, for, this, recipe
@@ -35,4 +35,3 @@ Notes
 =====
 
 Instructions are not complete.
-Quiche lorraine but in a as a strata
