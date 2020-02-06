@@ -12,26 +12,26 @@ Ingredients
 ===========
 
 ##### Cake
-* 1 cup Cake Flour
-* 1.5 tsp Baking Powder
-* 1/4 cup Granulated Sugar
-* 1/2 tsp Salt
-* 4 Egg Yolks
-* 1/4 cup Canola oil
-* 1/3 cup Milk
-* 1/4 cup Ube Halaya, Ube Jam
-* 2 tsp Ube Extract
-* 1/2 tsp Purple Food Coloring
-* 4 Egg Whites
-* 1/2 tsp Cream of tartar
-* 2 tsp Sugar
+* [ ] 1 cup Cake Flour
+* [ ] 1.5 tsp Baking Powder
+* [ ] 1/4 cup Granulated Sugar
+* [ ] 1/2 tsp Salt
+* [ ] 4 Egg Yolks
+* [ ] 1/4 cup Canola oil
+* [ ] 1/3 cup Milk
+* [ ] 1/4 cup Ube Halaya, Ube Jam
+* [ ] 2 tsp Ube Extract
+* [ ] 1/2 tsp Purple Food Coloring
+* [ ] 4 Egg Whites
+* [ ] 1/2 tsp Cream of tartar
+* [ ] 2 tsp Sugar
 
 ###### Frosting
-1 cup Heavy Cream, very cold
-1 cup Coconut Cream, very cold
-8 oz Cream Cheese, cold
-1/4 cup Granulated Sugar
-1 tsp Vanilla Extract
+* [ ]  cup Heavy Cream, very cold
+* [ ] 1 cup Coconut Cream, very cold
+* [ ] 8 oz Cream Cheese, cold
+* [ ] 1/4 cup Granulated Sugar
+* [ ] 1 tsp Vanilla Extract
 
 Preparation
 ===========

@@ -11,9 +11,9 @@ category: dessert
 Ingredients
 ===========
 
-* Ingredient 1
-* Ingredient 2
-* ecc.
+* [ ] Ingredient 1
+* [ ] Ingredient 2
+* [ ] ecc.
 
 Preparation
 ===========

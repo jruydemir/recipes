@@ -11,14 +11,14 @@ Core Recipe here, you can take this so many directions.
 Ingredients
 ===========
 
-* 250 g Coconut Cream (top of can)
-* 100 ml Coconut Cream (bottom of can)
-* 200 ml Heavy Cream
-* 40 g Sugar
-* 4 g Gelatin
+* [ ] 250 g Coconut Cream (top of can)
+* [ ] 100 ml Coconut Cream (bottom of can)
+* [ ] 200 ml Heavy Cream
+* [ ] 40 g Sugar
+* [ ] 4 g Gelatin
 
-* 1 sm can Pineapple Juice
-* 1/2 tsp Gelatin
+* [ ] 1 sm can Pineapple Juice
+* [ ] 1/2 tsp Gelatin
 
 Preparation
 ===========

@@ -11,15 +11,15 @@ Beautiful dish. Especially with chantrelles and homemade chicken stock.
 Ingredients
 ===========
 
-* 9 1/2 tablespoons butter, divided
-* 1 1/2 pounds mix of normal and fresh wild mushrooms  (such as cèpe [porcini], hen of the woods, chanterelle, or stemmed shiitake); large mushrooms sliced, small mushrooms halved or quartered
-* 7 cups (about) low-salt chicken broth
-* 1 tablespoon extra-virgin olive oil
-* 3/4 cup finely chopped leek (white and pale green parts only)
-* 1 1/4 cups arborio rice
-* 1/4 cup dry white wine
-* 1/2 cup Gruyere, grated
-* 1/4 cup grated Parmesan cheese plus additional for serving (optional)
+* [ ] 9 1/2 tablespoons butter, divided
+* [ ] 1 1/2 pounds mix of normal and fresh wild mushrooms  (such as cèpe [porcini], hen of the woods, chanterelle, or stemmed shiitake); large mushrooms sliced, small mushrooms halved or quartered
+* [ ] 7 cups (about) low-salt chicken broth
+* [ ] 1 tablespoon extra-virgin olive oil
+* [ ] 3/4 cup finely chopped leek (white and pale green parts only)
+* [ ] 1 1/4 cups arborio rice
+* [ ] 1/4 cup dry white wine
+* [ ] 1/2 cup Gruyere, grated
+* [ ] 1/4 cup grated Parmesan cheese plus additional for serving (optional)
 
 Preparation
 ===========

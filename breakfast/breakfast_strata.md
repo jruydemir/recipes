@@ -11,17 +11,17 @@ This would be the description of the recipe. Any info or history about the recip
 Ingredients
 ===========
 
-* 1 lb Bacon
-* 1 1/2 cups finely sliced onion (1 large)
-* 3 tablespoons unsalted butter
-* 1 teaspoon salt
-* 1/2 teaspoon black pepper
-* 8 cups cubed (1 inch) Rustic loaf (1/2 lb)
-* 6 oz coarsely grated Gruyère (2 cups)
-* 2 oz finely grated Parmigiano-Reggiano (1 cup)
-* 2 3/4 cups milk
-* 9 large eggs
-* 2 tablespoons Dijon mustard
+* [ ] 1 lb Bacon
+* [ ] 1 1/2 cups finely sliced onion (1 large)
+* [ ] 3 tablespoons unsalted butter
+* [ ] 1 teaspoon salt
+* [ ] 1/2 teaspoon black pepper
+* [ ] 8 cups cubed (1 inch) Rustic loaf (1/2 lb)
+* [ ] 6 oz coarsely grated Gruyère (2 cups)
+* [ ] 2 oz finely grated Parmigiano-Reggiano (1 cup)
+* [ ] 2 3/4 cups milk
+* [ ] 9 large eggs
+* [ ] 2 tablespoons Dijon mustard
 
 Preparation
 ===========
@@ -35,3 +35,4 @@ Notes
 =====
 
 Instructions are not complete.
+Quiche lorraine but in a as a strata

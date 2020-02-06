@@ -12,20 +12,20 @@ Ingredients
 ===========
 
 ##### Biscuits
-* 2 and 1/2 cups (312g) all-purpose flour, (spoon & leveled)*
-* 2 Tablespoons baking powder (yes, Tablespoons!)
-* 1 teaspoon salt
-* 1/2 cup (115g) unsalted butter, very cold and cubed*
-* 1 cup + 2 Tablespoons (270ml) cold buttermilk, divided
-* 1 egg
+* [ ] 2 and 1/2 cups (312g) all-purpose flour, (spoon & leveled)*
+* [ ] 2 Tablespoons baking powder (yes, Tablespoons!)
+* [ ] 1 teaspoon salt
+* [ ] 1/2 cup (115g) unsalted butter, very cold and cubed*
+* [ ] 1 cup + 2 Tablespoons (270ml) cold buttermilk, divided
+* [ ] 1 egg
 
 ##### Gravy
-* 1/4 cup Butter
-* 1 pound Country Sausage
-* 1/4 cup all-purpose flour
-* 2 cups whole milk
-* 1/8 teaspoon salt
-* 1/8 teaspoon ground black pepper
+* [ ] 1/4 cup Butter
+* [ ] 1 pound Country Sausage
+* [ ] 1/4 cup all-purpose flour
+* [ ] 2 cups whole milk
+* [ ] 1/8 teaspoon salt
+* [ ] 1/8 teaspoon ground black pepper
 
 Preparation
 ===========

@@ -11,19 +11,19 @@ One of my all time favorite meals. A bit easier than xao long bao.
 Ingredients
 ===========
 
-* Wonton wrappers
-* 6 medium dried Shiitake Mushrooms
-* 1/2 lb (250 g) shelled and deveined medium-size raw Shrimp, chopped
-* 10 oz (330 g) Ground Pork (20% fat)
-* 1 small Carrot, grated (yields about 1/3 cup)
-* 4 Green Onions, finely chopped
-* 1 teaspoon Ginger, grated
-* 1 Egg
-* 1 tsp Sesame Oil, toasted
-* 1 tsp Shaoxing Wine (or dry sherry)
-* 1 tsp Salt
-* 2 tsp. Cornstarch
-* 1/8 tsp White Pepper, ground
+* [ ] Wonton wrappers
+* [ ] 6 medium dried Shiitake Mushrooms
+* [ ] 1/2 lb (250 g) shelled and deveined medium-size raw Shrimp, chopped
+* [ ] 10 oz (330 g) Ground Pork (20% fat)
+* [ ] 1 small Carrot, grated (yields about 1/3 cup)
+* [ ] 4 Green Onions, finely chopped
+* [ ] 1 teaspoon Ginger, grated
+* [ ] 1 Egg
+* [ ] 1 tsp Sesame Oil, toasted
+* [ ] 1 tsp Shaoxing Wine (or dry sherry)
+* [ ] 1 tsp Salt
+* [ ] 2 tsp. Cornstarch
+* [ ] 1/8 tsp White Pepper, ground
 
 Preparation
 ===========

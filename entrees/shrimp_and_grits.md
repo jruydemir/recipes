@@ -11,20 +11,20 @@ Surprisingly delicious.
 Ingredients
 ===========
 
-* 4 1/2 cups water
-* 1 teaspoon salt
-* 1 cup stone-ground white grits
-* 2 Tbsp unsalted butter
-* 1 cup white cheddar cheese, shredded
-* 4 thick slices bacon
-* 1 cup chopped white or yellow onion
-* 1 cup chopped green pepper
-* 2 garlic cloves, minced
-* 1 to 1 1/2 pounds shrimp, peeled and deveined
-* 1 cup chicken stock
-* 3 green onions, chopped (white and light green parts only)
-* 2 Tbsp chopped parsley
-* Juice of a lemon, about 1-2 Tbsp
+* [ ] 4 1/2 cups water
+* [ ] 1 teaspoon salt
+* [ ] 1 cup stone-ground white grits
+* [ ] 2 Tbsp unsalted butter
+* [ ] 1 cup white cheddar cheese, shredded
+* [ ] 4 thick slices bacon
+* [ ] 1 cup chopped white or yellow onion
+* [ ] 1 cup chopped green pepper
+* [ ] 2 garlic cloves, minced
+* [ ] 1 to 1 1/2 pounds shrimp, peeled and deveined
+* [ ] 1 cup chicken stock
+* [ ] 3 green onions, chopped (white and light green parts only)
+* [ ] 2 Tbsp chopped parsley
+* [ ] Juice of a lemon, about 1-2 Tbsp
 
 Preparation
 ===========

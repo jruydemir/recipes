@@ -12,32 +12,32 @@ Ingredients
 ===========
 
 ##### For the Meat
-* 1 tsp Salt
-* 1 tsp Ground Pepper
-* 1 tsp Anaheim Chile Powder
-* 1/2 tsp Ground Cumin
-* 3 lbs Roast meat, (beef, pork, chicken)
-* 6 cloves Garlic
-* 2 dried Arbol Chiles
-* 2 dried Bay Leaves
-* 1 quart Beef or chicken Broth, preferrably homemade, match light or dark meat
+* [ ] 1 tsp Salt
+* [ ] 1 tsp Ground Pepper
+* [ ] 1 tsp Anaheim Chile Powder
+* [ ] 1/2 tsp Ground Cumin
+* [ ] 3 lbs Roast meat, (beef, pork, chicken)
+* [ ] 6 cloves Garlic
+* [ ] 2 dried Arbol Chiles
+* [ ] 2 dried Bay Leaves
+* [ ] 1 quart Beef or chicken Broth, preferrably homemade, match light or dark meat
 
 ##### For the Sauce
-* 4 dried New Mexico Chiles
-* 4 dried Guajillo Chiles
-* 2 dried Pasilla Chiles
-* 4 cloves garlic
-* 1 Onion, quartered
-* 3 Tomatoes, quartered
-* 1/2 tsp Salt
-* 1 tsp Cumin
-* 1 1/2 tsp Mexican Oregano
+* [ ] 4 dried New Mexico Chiles
+* [ ] 4 dried Guajillo Chiles
+* [ ] 2 dried Pasilla Chiles
+* [ ] 4 cloves garlic
+* [ ] 1 Onion, quartered
+* [ ] 3 Tomatoes, quartered
+* [ ] 1/2 tsp Salt
+* [ ] 1 tsp Cumin
+* [ ] 1 1/2 tsp Mexican Oregano
 
 ##### For the Masa
-* 3 cups Masa
-* 3 cups au jus
-* 3 cups lard
-* 1 tsp Chile powder
+* [ ] 3 cups Masa
+* [ ] 3 cups au jus
+* [ ] 3 cups lard
+* [ ] 1 tsp Chile powder
 
 Preparation
 ===========

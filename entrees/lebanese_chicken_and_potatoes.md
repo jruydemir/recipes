@@ -11,13 +11,13 @@ Perfect if served with fresh bread or Arab Rice
 Ingredients
 ===========
 
-* 8 cut up chicken pieces, dark preferred, cut in big chunks
-* 8 medium potatoes, thick slices or quartered
-* salt & ground white pepper to taste
-* 4 cloves garlic
-* 1/2 cup extra virgin olive oil
-* 1/2 cup chicken broth
-* 1/2 cup fresh lemon juice
+* [ ] 8 cut up chicken pieces, dark preferred, cut in big chunks
+* [ ] 8 medium potatoes, thick slices or quartered
+* [ ] salt & ground white pepper to taste
+* [ ] 4 cloves garlic
+* [ ] 1/2 cup extra virgin olive oil
+* [ ] 1/2 cup chicken broth
+* [ ] 1/2 cup fresh lemon juice
 
 
 Preparation

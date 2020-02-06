@@ -11,15 +11,15 @@ First fell in love with this at Schultzy's in U-District.
 Ingredients
 ===========
 
-* 2 pounds red potatoes
-* 1/2 pound thick-cut bacon
-* 3/4 cup finely chopped onion
-* 1/3 cup cider vinegar
-* 1/4 cup sugar
-* 2 tablespoon Dijon mustard
-* 1 teaspoon salt
-* 1/4 teaspoon celery seed
-* 2 tablespoons minced chives or scallions, for garnish
+* [ ] 2 pounds red potatoes
+* [ ] 1/2 pound thick-cut bacon
+* [ ] 3/4 cup finely chopped onion
+* [ ] 1/3 cup cider vinegar
+* [ ] 1/4 cup sugar
+* [ ] 2 tablespoon Dijon mustard
+* [ ] 1 teaspoon salt
+* [ ] 1/4 teaspoon celery seed
+* [ ] 2 tablespoons minced chives or scallions, for garnish
 
 Preparation
 ===========

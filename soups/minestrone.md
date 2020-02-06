@@ -11,21 +11,21 @@ category: Entree
 Ingredients
 ===========
 
-* Butter & Olive Oil
-* 4 Carrots
-* 4 stalks Celery
-* 1 large Onion
-* 5 cloves Garlic
-* 2 medium Zucchini
-* 1 bunch Kale
-* 1/2 bunch Parsley
-* 2 cans Kidney Beans
-* 1 cans Norther White Beans
-* 1 28oz can diced tomatoes
-* 4 Tbsp Tomato Paste
-* 4 cans Chicken Broth
-* 1 pkg Spicy Italian Sausage (In Casings)
-* 1 1/2 cup pasta (macaroni or shells)
+* [ ] Butter & Olive Oil
+* [ ] 4 Carrots
+* [ ] 4 stalks Celery
+* [ ] 1 large Onion
+* [ ] 5 cloves Garlic
+* [ ] 2 medium Zucchini
+* [ ] 1 bunch Kale
+* [ ] 1/2 bunch Parsley
+* [ ] 2 cans Kidney Beans
+* [ ] 1 cans Norther White Beans
+* [ ] 1 28oz can diced tomatoes
+* [ ] 4 Tbsp Tomato Paste
+* [ ] 4 cans Chicken Broth
+* [ ] 1 pkg Spicy Italian Sausage (In Casings)
+* [ ] 1 1/2 cup pasta (macaroni or shells)
 
 Preparation
 ===========

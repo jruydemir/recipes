@@ -11,21 +11,21 @@ Tarik can suck it, white meat is the best for this recipe.
 Ingredients
 ===========
 
-* 4 boneless, skinless chicken breasts cut into cubes
-* 2 cups flour
-* 2 tsp salt
-* 1 tsp black pepper
-* 1/2 tsp cayenne
-* 1 tbsp paprika
-* 2 tsp onion powder
-* 1/2 tsp celery salt
-* 1/2 tsp dried sage (optional)
-* 1/2 tsp garlic powder
-* 1/2 tsp dried oregano (optional)
-* 1/2 tsp dried basil (optional)
-* 1/2 tsp dried marjoram (optional)
-* 2 eggs
-* 1 Tbsp milk
+* [ ] 4 boneless, skinless chicken breasts cut into cubes
+* [ ] 2 cups flour
+* [ ] 2 tsp salt
+* [ ] 1 tsp black pepper
+* [ ] 1/2 tsp cayenne
+* [ ] 1 tbsp paprika
+* [ ] 2 tsp onion powder
+* [ ] 1/2 tsp celery salt
+* [ ] 1/2 tsp dried sage (optional)
+* [ ] 1/2 tsp garlic powder
+* [ ] 1/2 tsp dried oregano (optional)
+* [ ] 1/2 tsp dried basil (optional)
+* [ ] 1/2 tsp dried marjoram (optional)
+* [ ] 2 eggs
+* [ ] 1 Tbsp milk
 
 ##### For The Sauce
 2/3 cup Franks Hot Sauce

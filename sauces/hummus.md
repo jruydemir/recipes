@@ -9,11 +9,11 @@ category: sauces
 Ingredients
 ===========
 
-* 1 1/4 cup dried Chickpeas
-* 1 tsp Baking Soda
-* 400g Tahini
-* 4 cloves Garlic
-* 2 Lemons
+* [ ] 1 1/4 cup dried Chickpeas
+* [ ] 1 tsp Baking Soda
+* [ ] 400g Tahini
+* [ ] 4 cloves Garlic
+* [ ] 2 Lemons
 
 Preparation
 ===========

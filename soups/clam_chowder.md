@@ -11,9 +11,9 @@ This would be the description of the recipe. Any info or history about the recip
 Ingredients
 ===========
 
-* Ingredient 1
-* Ingredient 2
-* ecc.
+* [ ] Ingredient 1
+* [ ] Ingredient 2
+* [ ] ecc.
 
 Preparation
 ===========

@@ -12,32 +12,32 @@ Ingredients
 ===========
 
 ##### Egg Pasta
-* 280 g All-purpose flour, plus more for dusting
-* 2 whole large eggs
-* 4 yolks from 4 large eggs
-* 1 teaspoon kosher salt, plus more for salting water
+* [ ] 280 g All-purpose flour, plus more for dusting
+* [ ] 2 whole large eggs
+* [ ] 4 yolks from 4 large eggs
+* [ ] 1 teaspoon kosher salt, plus more for salting water
 
 ##### Mushroom Filling
-* 1 tbsp olive oil
-* 17.5 oz (500g) Chestnut mushrooms (crimini) , sliced
-* 2 shallots finely chopped
-* 3 cloves garlic
-* 2 sprig thyme
-* 3 heaped tbsp ricotta
-* 2 tbsp parmesan freshly grated
-* salt and pepper to season
+* [ ] 1 tbsp olive oil
+* [ ] 17.5 oz (500g) Chestnut mushrooms (crimini) , sliced
+* [ ] 2 shallots finely chopped
+* [ ] 3 cloves garlic
+* [ ] 2 sprig thyme
+* [ ] 3 heaped tbsp ricotta
+* [ ] 2 tbsp parmesan freshly grated
+* [ ] salt and pepper to season
 
 ##### Gorgonzola Sauce
-* 1/3 cup butter
-* 3 cloves garlic, minced
-* 1/3 cup flour
-* 2 cups milk
-* 2 cups heavy cream
-* 3 to 4 ounces crumbly Gorgonzola (not creamy or "dolce")
-* 3 tablespoons freshly grated Parmesan
-* 3/4 teaspoon kosher salt
-* 3/4 teaspoon freshly ground black pepper
-* 3 tablespoons minced fresh parsley
+* [ ] 1/3 cup butter
+* [ ] 3 cloves garlic, minced
+* [ ] 1/3 cup flour
+* [ ] 2 cups milk
+* [ ] 2 cups heavy cream
+* [ ] 3 to 4 ounces crumbly Gorgonzola (not creamy or "dolce")
+* [ ] 3 tablespoons freshly grated Parmesan
+* [ ] 3/4 teaspoon kosher salt
+* [ ] 3/4 teaspoon freshly ground black pepper
+* [ ] 3 tablespoons minced fresh parsley
 
 Preparation
 ===========

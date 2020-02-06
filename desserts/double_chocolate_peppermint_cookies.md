@@ -11,17 +11,17 @@ Light Fluffy, crack cookies
 Ingredients
 ===========
 
-* 1 cup unsalted butter
-* 1 1/2 cup sugar
-* 2 large egg
-* 1 tsp natural peppermint extract
-* 2 1/2 cup unbleached all-purpose flour (or whole-wheat pastry)
-* 2/3 cup cocoa powder
-* 1/2 tsp salt
-* 1 tsp baking soda
-* 1/2 tsp baking powder
-* 2 candy cane (finely crushed)
-* 1 cup dark, bittersweet and semisweet chocolate chips
+* [ ] 1 cup unsalted butter
+* [ ] 1 1/2 cup sugar
+* [ ] 2 large egg
+* [ ] 1 tsp natural peppermint extract
+* [ ] 2 1/2 cup unbleached all-purpose flour (or whole-wheat pastry)
+* [ ] 2/3 cup cocoa powder
+* [ ] 1/2 tsp salt
+* [ ] 1 tsp baking soda
+* [ ] 1/2 tsp baking powder
+* [ ] 2 candy cane (finely crushed)
+* [ ] 1 cup dark, bittersweet and semisweet chocolate chips
 
 Preparation
 ===========

@@ -12,36 +12,36 @@ Ingredients
 ===========
 
 ##### Chicken
-* ½ pound chicken breast (about 230 grams), cut into bite size small pieces
-* ½ teaspoon minced ginger
-* 1 teaspoon soy sauce
-* ¼ teaspoon ground black pepper
-* ½ cup potato starch
-* 1 egg white (If you use 1 pound chicken, use 1 whole egg)
+* [ ] ½ pound chicken breast (about 230 grams), cut into bite size small pieces
+* [ ] ½ teaspoon minced ginger
+* [ ] 1 teaspoon soy sauce
+* [ ] ¼ teaspoon ground black pepper
+* [ ] ½ cup potato starch
+* [ ] 1 egg white (If you use 1 pound chicken, use 1 whole egg)
 
 ##### Spicy garlic- and leek-infused oil
-* ¼ cup vegetable or corn oil
-* ½ cup thinly shredded leek
-* 4 garlic cloves, cut into halves
-* 1 tablespoon coarse red chili flakes
+* [ ] ¼ cup vegetable or corn oil
+* [ ] ½ cup thinly shredded leek
+* [ ] 4 garlic cloves, cut into halves
+* [ ] 1 tablespoon coarse red chili flakes
 
 ##### Vegetables and seasonings
-* 1 green chili pepper, deseeded, sliced thinly
-* 1 fresh red chili pepper, deseeded, sliced thinly
-* 1 green onion, chopped
-* ½ medium sized onion, chopped
-* 3-4 small dried red chili peppers
+* [ ] 1 green chili pepper, deseeded, sliced thinly
+* [ ] 1 fresh red chili pepper, deseeded, sliced thinly
+* [ ] 1 green onion, chopped
+* [ ] ½ medium sized onion, chopped
+* [ ] 3-4 small dried red chili peppers
 
 ##### Sweet and sour sauce (all mixed together in a small bowl)
-* 1 tablespoon soy sauce
-* 2 tablespoons water
-* 2 tablespoons rice syrup (or sugar)
-* 1 tablespoon white vinegar
-* 1 teaspoon potato starch
+* [ ] 1 tablespoon soy sauce
+* [ ] 2 tablespoons water
+* [ ] 2 tablespoons rice syrup (or sugar)
+* [ ] 1 tablespoon white vinegar
+* [ ] 1 teaspoon potato starch
 
 ##### Oil
-* 1 cup cooking oil (grapeseed oil, vegetable oil, or corn oil)
-* 1 teaspoon sesame oil
+* [ ] 1 cup cooking oil (grapeseed oil, vegetable oil, or corn oil)
+* [ ] 1 teaspoon sesame oil
 
 Preparation
 ===========

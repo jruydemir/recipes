@@ -11,21 +11,21 @@ This needs work but was very tasty,
 Ingredients
 ===========
 
-* 2 Tbsp. Butter
-* 1 brown Onion, minced
-* 2 cloves Garlic, minced
-* 16 oz Crimini Mushrooms, quartered
-* 16 oz Chantrell Mushrooms, sliced
-* 5 Tbsp. Butter
-* 5 Tbsp. Flour
-* 2 1/2 Tbsp. Hungarian paprika
-* 1 cup Whole Milk
-* 2 cups Chicken/Beef Broth
-* 1 1/2 Tbsp. Soy Sauce
-* 1 tsp Salt
-* 1/4 tsp Black Pepper
-* 4 tsp Fresh Dill, chopped
-* 1/2 cup Sour Cream
+* [ ] 2 Tbsp. Butter
+* [ ] 1 brown Onion, minced
+* [ ] 2 cloves Garlic, minced
+* [ ] 16 oz Crimini Mushrooms, quartered
+* [ ] 16 oz Chantrell Mushrooms, sliced
+* [ ] 5 Tbsp. Butter
+* [ ] 5 Tbsp. Flour
+* [ ] 2 1/2 Tbsp. Hungarian paprika
+* [ ] 1 cup Whole Milk
+* [ ] 2 cups Chicken/Beef Broth
+* [ ] 1 1/2 Tbsp. Soy Sauce
+* [ ] 1 tsp Salt
+* [ ] 1/4 tsp Black Pepper
+* [ ] 4 tsp Fresh Dill, chopped
+* [ ] 1/2 cup Sour Cream
 
 Preparation
 ===========
@@ -37,4 +37,4 @@ Preparation
 Notes
 =====
 Could be thicker (more flour). Could have more mushrooms.
-Other Recipes suggest adding lemon and parsley at the end. 
+Other Recipes suggest adding lemon and parsley at the end.

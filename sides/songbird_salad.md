@@ -11,21 +11,21 @@ Credit for this recipe goes to my first employer, the gingerbread factory.
 Ingredients
 ===========
 
-* 1 lb. Orzo Pasta
-* 1 14oz can quartered Artichokes
-* 1 bunch Green Onions
-* 1/2 cup Mini Sweet Peppers (Red, Orange, Yellow)
-* 1/2 medium Red Onion
-* 1 medium Cucumber
-* 1 1/2 cups Cherry Tomatoes
-* 1/2 cup dried Cranberries
-* 1/3 cup Gorgonzola
-* 1/2 cup Pine Nuts
-* 1/4 cup Sliced Almonds
-* 3/4 cup Extra Virgin Olive Oil
-* 2/3 cup White Wine Vinegar
-* 1/2 tsp Salt
-* 1 Tbsp Sugar (optional, if taste is off)
+* [ ] 1 lb. Orzo Pasta
+* [ ] 1 14oz can quartered Artichokes
+* [ ] 1 bunch Green Onions
+* [ ] 1/2 cup Mini Sweet Peppers (Red, Orange, Yellow)
+* [ ] 1/2 medium Red Onion
+* [ ] 1 medium Cucumber
+* [ ] 1 1/2 cups Cherry Tomatoes
+* [ ] 1/2 cup dried Cranberries
+* [ ] 1/3 cup Gorgonzola
+* [ ] 1/2 cup Pine Nuts
+* [ ] 1/4 cup Sliced Almonds
+* [ ] 3/4 cup Extra Virgin Olive Oil
+* [ ] 2/3 cup White Wine Vinegar
+* [ ] 1/2 tsp Salt
+* [ ] 1 Tbsp Sugar (optional, if taste is off)
 
 Preparation
 ===========

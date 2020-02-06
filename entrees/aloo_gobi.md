@@ -12,20 +12,20 @@ Ingredients
 ===========
 
 ##### For the deep frying:
-* 700 ml olive or sunflower oil, to deep fry
-* 600 g florets of cauliflower, about 1-inch wide, and stalk and leaves, chopped
-* 450 g (2 medium) waxy potatoes, peeled and roughly chopped
+* [ ] 700 ml olive or sunflower oil, to deep fry
+* [ ] 600 g florets of cauliflower, about 1-inch wide, and stalk and leaves, chopped
+* [ ] 450 g (2 medium) waxy potatoes, peeled and roughly chopped
 ##### For the aloo gobi:
-* 2 tbsp olive or sunflower oil
-* 1 medium onion, finely chopped
-* ½ tsp cumin seeds
-* 1 tsp garlic, finely puree
-* 1 tbsp fresh ginger, puree
-* 1 can diced tomatoes (or diced fresh tomatoes)
-* 3 hot green chillies, finely chopped
-* 1 tsp dried fenugreek leaves
-* ¼ tsp turmeric
-* 2 tbsp coriander leaves, finely chopped
+* [ ] 2 tbsp olive or sunflower oil
+* [ ] 1 medium onion, finely chopped
+* [ ] ½ tsp cumin seeds
+* [ ] 1 tsp garlic, finely puree
+* [ ] 1 tbsp fresh ginger, puree
+* [ ] 1 can diced tomatoes (or diced fresh tomatoes)
+* [ ] 3 hot green chillies, finely chopped
+* [ ] 1 tsp dried fenugreek leaves
+* [ ] ¼ tsp turmeric
+* [ ] 2 tbsp coriander leaves, finely chopped
 
 Preparation
 ===========

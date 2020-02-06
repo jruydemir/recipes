@@ -11,18 +11,18 @@ F'ing delicious. Blew everyone away.
 Ingredients
 ===========
 
-* 1/2 cup butter (1 stick), at room temperature, plus more to grease pan
-* 5 medium sweet potatoes
-* 2 large eggs
-* 1 cup granulated sugar
-* 1 1/2 teaspoons vanilla extract
-* 1/2 cup milk
-* Pinch of salt
+* [ ] 1/2 cup butter (1 stick), at room temperature, plus more to grease pan
+* [ ] 5 medium sweet potatoes
+* [ ] 2 large eggs
+* [ ] 1 cup granulated sugar
+* [ ] 1 1/2 teaspoons vanilla extract
+* [ ] 1/2 cup milk
+* [ ] Pinch of salt
 
-* 1 cup finely chopped pecans
-* 1 cup brown sugar, packed
-* 1/2 cup all-purpose flour
-* 1/4 cup butter (1/2 stick), softened
+* [ ] 1 cup finely chopped pecans
+* [ ] 1 cup brown sugar, packed
+* [ ] 1/2 cup all-purpose flour
+* [ ] 1/4 cup butter (1/2 stick), softened
 
 Preparation
 ===========

@@ -11,22 +11,22 @@ Tarik and Sean Approved.
 Ingredients
 ===========
 
-* 500 g chicken thigh fillets , cut into bite size pieces
-* 3 - 4 cups green cabbage or Chinese cabbage , finely shredded
-* 1 1/2 tbsp neutral oil
-* 2 cloves garlic , finely chopped
-* 2 pkg chow mein noodles
-* 3 carrots, julienned
-* 3 shallot/scallions/green onions , cut into 5cm/2" pieces
-* 1/4 cup / 65 ml water
+* [ ] 500 g chicken thigh fillets , cut into bite size pieces
+* [ ] 3 - 4 cups green cabbage or Chinese cabbage , finely shredded
+* [ ] 1 1/2 tbsp neutral oil
+* [ ] 2 cloves garlic , finely chopped
+* [ ] 2 pkg chow mein noodles
+* [ ] 3 carrots, julienned
+* [ ] 3 shallot/scallions/green onions , cut into 5cm/2" pieces
+* [ ] 1/4 cup / 65 ml water
 ##### Sauce
-* 2 tsp cornflour / cornstarch
-* 1 1/2 tbsp soy sauce , all purpose or light (Note 4)
-* 1 1/2 tbsp oyster sauce
-* 1 1/2 tbsp Chinese cooking wine (Note 5)
-* 2 tsp sugar
-* 1/2 tsp sesame oil
-* White pepper
+* [ ] 2 tsp cornflour / cornstarch
+* [ ] 1 1/2 tbsp soy sauce , all purpose or light (Note 4)
+* [ ] 1 1/2 tbsp oyster sauce
+* [ ] 1 1/2 tbsp Chinese cooking wine (Note 5)
+* [ ] 2 tsp sugar
+* [ ] 1/2 tsp sesame oil
+* [ ] White pepper
 
 Preparation
 ===========

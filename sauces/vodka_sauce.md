@@ -9,15 +9,15 @@ category: sauces
 Ingredients
 ===========
 
-* 1/4 cup Butter
-* 3 Chicken Breast
-* 1 medium Onion
-* 4 Garlic Cloves
-* 1 28 oz can San Marano Tomatoes
-* 1/2 cup Vodka
-* 1/2 tsp. Kosher Salt
-* 1 cup Heavy Cream
-* 1/2 - 1 cup shredded parm.
+* [ ] 1/4 cup Butter
+* [ ] 3 Chicken Breast
+* [ ] 1 medium Onion
+* [ ] 4 Garlic Cloves
+* [ ] 1 28 oz can San Marano Tomatoes
+* [ ] 1/2 cup Vodka
+* [ ] 1/2 tsp. Kosher Salt
+* [ ] 1 cup Heavy Cream
+* [ ] 1/2 - 1 cup shredded parm.
 
 Preparation
 ===========

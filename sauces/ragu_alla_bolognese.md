@@ -11,18 +11,18 @@ Certainly not perfected yet.
 Ingredients
 ===========
 
-* 1/2 cup olive oil
-* 1 medium yellow onion, finely chopped
-* 4 medium garlic cloves, finely chopped
-* 2 medium carrots, finely chopped
-* 2 celery stalks, finely chopped
-* 1 bunch Italian parsley, finely chopped
-* 1 1/2 pounds ground veal (or ground pork)
-* 2 (28-ounce) cans chopped tomatoes
-* 1 (6-ounce) can tomato paste
-* 2 tablespoons unsalted butter (1/4 stick)
-* 1 1/2 tablespoons kosher salt
-* 1 cup whole milk
+* [ ] 1/2 cup olive oil
+* [ ] 1 medium yellow onion, finely chopped
+* [ ] 4 medium garlic cloves, finely chopped
+* [ ] 2 medium carrots, finely chopped
+* [ ] 2 celery stalks, finely chopped
+* [ ] 1 bunch Italian parsley, finely chopped
+* [ ] 1 1/2 pounds ground veal (or ground pork)
+* [ ] 2 (28-ounce) cans chopped tomatoes
+* [ ] 1 (6-ounce) can tomato paste
+* [ ] 2 tablespoons unsalted butter (1/4 stick)
+* [ ] 1 1/2 tablespoons kosher salt
+* [ ] 1 cup whole milk
 
 Preparation
 ===========

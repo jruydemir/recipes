@@ -11,16 +11,16 @@ This is a work in progress
 Ingredients
 ===========
 
-* 1 egg
-* 1/4 teaspoon salt
-* 2 tablespoons corn flour
-* 1/4 cup cold water
-* 4 cups chicken broth
-* 1/8 teaspoon ground ginger
-* 1/8 teaspoon minced fresh garlic
-* 2 tablespoons chopped green onion
-* 1/4 teaspoon sesame oil
-* 1 pinch white pepper
+* [ ] 1 egg
+* [ ] 1/4 teaspoon salt
+* [ ] 2 tablespoons corn flour
+* [ ] 1/4 cup cold water
+* [ ] 4 cups chicken broth
+* [ ] 1/8 teaspoon ground ginger
+* [ ] 1/8 teaspoon minced fresh garlic
+* [ ] 2 tablespoons chopped green onion
+* [ ] 1/4 teaspoon sesame oil
+* [ ] 1 pinch white pepper
 
 Preparation
 ===========

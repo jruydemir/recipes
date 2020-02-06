@@ -12,24 +12,24 @@ Ingredients
 ===========
 
 ##### Dough
-* 3 cups All-Purpose Flour
-* 1/4 tsp Salt
-* 1 cup Boiling Water
-* 1/4 cup tepid Water
+* [ ] 3 cups All-Purpose Flour
+* [ ] 1/4 tsp Salt
+* [ ] 1 cup Boiling Water
+* [ ] 1/4 cup tepid Water
 
 ##### Filling
-* 12 oz Ground Pork, high fat content
-* 8 oz Shrimp, peeled, deveined, coarsely chopped
-* 3 large cloves garlic, minced
-* 2 Tbs. Shaoxing (Chinese rice wine) or dry sherry
-* 1-1/2 Tbs. grated fresh ginger
-* 1 Tbs. soy sauce
-* 2 tsp. toasted Asian sesame oil
-* 1/2 tsp. granulated sugar
-* Freshly ground black pepper
-* 2 cups Napa Cabbage, finely chopped
-* Kosher Salt
-* 3 medium Scallions, finely chopped
+* [ ] 12 oz Ground Pork, high fat content
+* [ ] 8 oz Shrimp, peeled, deveined, coarsely chopped
+* [ ] 3 large cloves garlic, minced
+* [ ] 2 Tbs. Shaoxing (Chinese rice wine) or dry sherry
+* [ ] 1-1/2 Tbs. grated fresh ginger
+* [ ] 1 Tbs. soy sauce
+* [ ] 2 tsp. toasted Asian sesame oil
+* [ ] 1/2 tsp. granulated sugar
+* [ ] Freshly ground black pepper
+* [ ] 2 cups Napa Cabbage, finely chopped
+* [ ] Kosher Salt
+* [ ] 3 medium Scallions, finely chopped
 
 Preparation
 ===========

@@ -11,17 +11,17 @@ Fabulous side. Totally Terrible for you.
 Ingredients
 ===========
 
-* 2 tablespoons butter, plus more for the dish
-* 2 leeks, halved, thinly sliced and soaked in cold water for 30 minutes
-* 3 sprigs fresh thyme, leaves picked
-* Kosher salt and freshly ground black pepper
-* 2 pounds Yukon gold potatoes
-* 8 ounces cream cheese, softened
-* 1 cup heavy cream
-* 1 cup chicken stock
-* 2 cloves garlic, minced
-* 1/4 teaspoon paprika
-* 1 1/2 cups grated fontina cheese
+* [ ] 2 tablespoons butter, plus more for the dish
+* [ ] 2 leeks, halved, thinly sliced and soaked in cold water for 30 minutes
+* [ ] 3 sprigs fresh thyme, leaves picked
+* [ ] Kosher salt and freshly ground black pepper
+* [ ] 2 pounds Yukon gold potatoes
+* [ ] 8 ounces cream cheese, softened
+* [ ] 1 cup heavy cream
+* [ ] 1 cup chicken stock
+* [ ] 2 cloves garlic, minced
+* [ ] 1/4 teaspoon paprika
+* [ ] 1 1/2 cups grated fontina cheese
 
 Preparation
 ===========

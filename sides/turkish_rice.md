@@ -11,12 +11,12 @@ Recipe adapted from Tarik's mom's
 Ingredients
 ===========
 
-* 1 1/2 cups medium grain Rice, (two scoops from a rice maker cup)
-* 2 Tbsp Butter
-* 1/4 cup Vermicelli
-* 1/2 tsp Cinnamon
-* 1/2 tsp Salt
-* 3 cups Water
+* [ ] 1 1/2 cups medium grain Rice, (two scoops from a rice maker cup)
+* [ ] 2 Tbsp Butter
+* [ ] 1/4 cup Vermicelli
+* [ ] 1/2 tsp Cinnamon
+* [ ] 1/2 tsp Salt
+* [ ] 3 cups Water
 Preparation
 ===========
 1. Rice rice under cold water until water runs clear. Then soak rice in plenty of water for 20 minutes.

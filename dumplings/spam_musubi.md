@@ -11,26 +11,26 @@ Terrible for you but oh so good.
 Ingredients
 ===========
 ##### Rice
-* 2 cups sushi or short grain rice
-* 2 cups water, plus extra for rinsing rice
-* 2 tablespoons rice vinegar
-* 2 tablespoons sugar
-* 1 tablespoon kosher salt
+* [ ] 2 cups sushi or short grain rice
+* [ ] 2 cups water, plus extra for rinsing rice
+* [ ] 2 tablespoons rice vinegar
+* [ ] 2 tablespoons sugar
+* [ ] 1 tablespoon kosher salt
 
 ##### Tamagoyaki
-* 4 eggs
-* 1 tbsp soy sauce
-* 1 tbsp mirin
-* 1 tbsp sugar
-* pinch of salt
-* oil to cook
+* [ ] 4 eggs
+* [ ] 1 tbsp soy sauce
+* [ ] 1 tbsp mirin
+* [ ] 1 tbsp sugar
+* [ ] pinch of salt
+* [ ] oil to cook
 
 ##### Musubi
-* 12 ounces Spam
-* 1/4 cup oyster sauce
-* 1/4 cup soy sauce
-* 1/2 cup sugar
-* Nori roasted seaweed used for sushi, cut into halves or thirds (I cut it into thirds to make it go further)
+* [ ] 12 ounces Spam
+* [ ] 1/4 cup oyster sauce
+* [ ] 1/4 cup soy sauce
+* [ ] 1/2 cup sugar
+* [ ] Nori roasted seaweed used for sushi, cut into halves or thirds (I cut it into thirds to make it go further)
 
 
 Preparation

@@ -11,9 +11,9 @@ This stuff is very hot, and a little goes a long way. It goes well with almost a
 Ingredients
 ===========
 
-* 6 fresh habanero chillies sliced in half
-* 500 ml neutral oil
-* 1/4 tsp smoked hot paprika
+* [ ] 6 fresh habanero chillies sliced in half
+* [ ] 500 ml neutral oil
+* [ ] 1/4 tsp smoked hot paprika
 
 Preparation
 ===========
