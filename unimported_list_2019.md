@@ -29,6 +29,8 @@ https://www.chowhound.com/recipes/creamy-tomato-soup-10836
 https://www.wideopeneats.com/recipes/boneless-buffalo-chicken-bites/
 https://www.pressurecookrecipes.com/pressure-cooker-beef-curry-japanese/
 https://minimalistbaker.com/1-hour-vegan-shepherds-pie/
+https://www.foodnetwork.com/recipes/ree-drummond/blackberry-cheesecake-squares-2308484
+https://www.reddit.com/r/Veganforbeginners/comments/ew9vyd/vegan_chocolate_caramel_tart/
 
 Done
 https://www.delish.com/cooking/recipe-ideas/a26556220/penne-alla-vodka-recipe/
