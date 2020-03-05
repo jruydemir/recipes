@@ -32,5 +32,6 @@ Preparation
 
 Notes
 =====
-
 Optional: Splash with fish sauce and chile oil.
+
+Try with chicken bullion and dashi powder
