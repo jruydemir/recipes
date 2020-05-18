@@ -13,28 +13,25 @@ Ingredients
 
 ##### Filling
 * [ ] 1 1/2 tbsp olive oil
-* [ ] 2 garlic cloves, minced
+* [ ] 3 garlic cloves, minced
 * [ ] 1 onion, finely chopped
-* [ ] 1 carrot, finely chopped
-* [ ] 1 rib celery, finely chopped
+* [ ] 2 carrot, finely chopped
+* [ ] 2 rib celery, finely chopped
+* [ ] 1 head roasted cauliflower (minced)
 * [ ] 3/4 tsp each dried thyme
-* [ ] 1.5 lb ground lamb (mince) OR beef
-* [ ] ¼ cup flour, plain/all purpose
+* [ ] 1.5 lb ground  beef
+* [ ] ¼ cup heaping flour, plain/all purpose
 * [ ] ¼ cup tomato paste
-* [ ] 2 cups beef stock / broth
-* [ ] 1/2 cup red wine (or water)
+* [ ] 2 cups beef stock / broth (a little extra bullion is always helpful)
 * [ ] 1 beef bouillon cube, crumbled
-* [ ] 1 tbsp Worcestershire sauce
-* [ ] 2 dried bay leaves
+* [ ] 2 tbsp Worcestershire sauce
 * [ ] Salt and pepper
 * [ ] 1 cup frozen peas
 
 ##### Topping
 * [ ] 2.2 lb potatoes, peeled and cut into 2.5cm / 1" cubes
 * [ ] 2/3 cup whole milk
-* [ ] 2 tbsp butter
-* [ ] 1/4 cup parmesan, shredded
-* [ ] 1 cup cheddar cheese, shredded
+* [ ] 4 tbsp butter
 
 Preparation
 ===========
@@ -51,5 +48,4 @@ Preparation
 Notes
 =====
 
-We could lessen the meat and add more veggies. I think some more root vegetables would work well.
-Could sub meat for beyond beef or muchrooms, or both.
+Roast some MFing  cauliflower and profit.
