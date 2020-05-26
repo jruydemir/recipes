@@ -67,3 +67,5 @@ Serve with Dark vinegar, soy, and sliced ginger.
 
 
 Dough could still be smoother when cooked.
+
+Try using a pasta roller down to the second lowest setting. Then a 3.5 inch cookie cutter.
