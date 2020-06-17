@@ -17,7 +17,7 @@ Ingredients
 * [ ] 1 teaspoon salt
 * [ ] 1/2 teaspoon black pepper
 * [ ] 8 cups cubed (1 inch) Rustic loaf (1/2 lb)
-* [ ] 6 oz coarsely grated Gruyère (2 cups)
+* [ ] 6 oz coarsely grated Gruyère (2 cups)**
 * [ ] 2 oz finely grated Parmigiano-Reggiano (1 cup)
 * [ ] 2 3/4 cups milk
 * [ ] 9 large eggs
@@ -35,3 +35,4 @@ Notes
 =====
 
 Instructions are not complete.
+** Too much cheese last time. Reduce by two ounces

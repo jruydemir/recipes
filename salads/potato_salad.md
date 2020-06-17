@@ -11,7 +11,7 @@ Pretty much exactly what you remember your childhood potato salad at any family 
 Ingredients
 ===========
 
-* [ ] 5 pounds Yukon Gold potatoes or Klondike Goldust potatoes
+* [ ] 5 pounds Yukon Gold potatoes
 * [ ] 2 cups mayonnaise (your favorite brand)
 * [ ] 1 cup refrigerated sweet pickle relish
 * [ ] 1/4 cup yellow mustard, or 1 part yellow + 1 part dijon
