@@ -5,7 +5,6 @@ https://github.com/Donearm/Cooking-Recipes/blob/master/recipes/desserts/Biscotti
 https://www.google.com/search?q=veggie+grill+corn+bisque&rlz=1C5CHFA_enUS865US865&oq=veggie+grill+corn+&aqs=chrome.2.69i57j35i39j0l6.8004j0j7&sourceid=chrome&ie=UTF-8
 https://www.foodnetwork.com/recipes/ree-drummond/pumpkin-gingersnap-cheesecake-3166868
 https://www.myrecipes.com/recipe/apple-cider-brined-turkey-with-savory-herb-gravy
-https://www.recipetineats.com/beef-stroganoff/
 https://www.foodandwine.com/recipes/pappardelle-veal-ragu
 https://hadiaslebanesecuisine.com/newsite/recipe-items/mujadara-makbousa/
 https://www.goya.com/es/recipes/alfajores-south-american-dulce-de-leche-sandwich-cookies
@@ -26,7 +25,6 @@ https://itdoesnttastelikechicken.com/crunchy-roasted-chickpeas/
 https://www.chowhound.com/recipes/ragu-alla-bolognese-10835
 https://www.bonappetit.com/recipe/chicken-tikka-masala
 https://www.chowhound.com/recipes/creamy-tomato-soup-10836
-https://www.wideopeneats.com/recipes/boneless-buffalo-chicken-bites/
 https://www.pressurecookrecipes.com/pressure-cooker-beef-curry-japanese/
 https://minimalistbaker.com/1-hour-vegan-shepherds-pie/
 https://www.foodnetwork.com/recipes/ree-drummond/blackberry-cheesecake-squares-2308484
@@ -39,3 +37,5 @@ https://www.epicurious.com/recipes/food/views/wild-mushroom-risotto-361309
 https://www.yelp.com/menu/palomino-seattle/happy-hour
 https://www.seriouseats.com/recipes/2015/01/fresh-egg-pasta.html
 https://www.foodnetwork.com/recipes/ina-garten/gorgonzola-sauce-recipe-1940600
+https://www.recipetineats.com/beef-stroganoff/
+https://www.wideopeneats.com/recipes/boneless-buffalo-chicken-bites/
