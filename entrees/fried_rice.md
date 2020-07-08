@@ -18,7 +18,7 @@ Ingredients
 * [ ] 1/2 cup frozen peas
 * [ ] 3 cloves garlic, minced
 * [ ] salt and pepper
-* [ ] 4 cups cooked and chilled rice (I prefer short-grain white rice)
+* [ ] 4 cups cooked and chilled rice (Try just 2 scoops of dry rice this time)
 * [ ] 3 green onions, thinly sliced
 * [ ] 3–4 tablespoons soy sauce, or more to taste
 * [ ] 2 teaspoons oyster sauce (optional)

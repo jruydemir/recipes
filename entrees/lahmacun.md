@@ -11,14 +11,14 @@ This would be the description of the recipe. Any info or history about the recip
 Ingredients
 ===========
 ##### Dough
-* [ ] 390g Flour
-* [ ] 1 small spoon Yeast
-* [ ] 3/4 cup warm water
+* [ ] 300g flour
+* [ ] 1/2 tsp yeast
+* [ ] 1 cup warm water
 * [ ] 1/2 tsp salt
 
 ##### Filling
 * [ ] 1 medium onion
-* [ ] 2 cloves garlic
+* [ ] 3 cloves garlic
 * [ ] 1 tomato
 * [ ] 1 annehiem pepper
 * [ ] 1/2 bunch parsley

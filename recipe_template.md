@@ -1,7 +1,8 @@
 ---
 title: Recipe's title
 source: Recipe's source
-img: N/A
+cooking time:
+servings: 
 tags: any, tags, for, this, recipe
 category: dessert
 ---
