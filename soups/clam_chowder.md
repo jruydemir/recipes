@@ -13,17 +13,16 @@ Ingredients
 
 * [ ] 1 pkg bacon, sliced
 * [ ] 1 cup celery, finely diced
-* [ ] 1 cup leeks, finely sliced
-* [ ] 1/2 cup all-purpose flour
+* [ ] 2 cup leeks, finely sliced
+* [ ] 3/4 cup all-purpose flour
 * [ ] 5 cups russet potatoes, diced
-* [ ] 3 cups chicken broth or stock
+* [ ] 4 cups chicken broth or stock
 * [ ] 1 bottle clam juice
 * [ ] 1/2 tsp black pepper
 * [ ] 3/4 Tbsp thyme
 * [ ] 4 bay leaves
-* [ ] 3 cans clams
+* [ ] 4 cans clams
 * [ ] 2 1/2 cups heavy cream
-* [ ] 1 bunch green onion, thinly sliced
 
 Preparation
 ===========
