@@ -13,4 +13,4 @@ A curated list of Recipes approved/created/modified by Josh and Tarik Ruydemir.
 + [Sides](sides) :rice:
 + [Desserts](desserts) :custard:
 
-*NOTE*: Most of our recipes begin as someone elses. I've tried to give credit where it's due.
+**NOTE**: Most of our recipes begin as someone elses. I've tried to give credit where it's due.
