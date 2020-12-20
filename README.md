@@ -12,3 +12,5 @@ A curated list of Recipes approved/created/modified by Josh and Tarik Ruydemir.
 + [Soups](soups) :stew:
 + [Sides](sides) :rice:
 + [Desserts](desserts) :custard:
+
+*NOTE*: Most of our recipes begin as someone elses. I've tried to give credit where it's due.

@@ -7,7 +7,7 @@ tags: any, tags, for, this, recipe
 category: dessert
 ---
 
-This would be the description of the recipe. Any info or history about the recipe goes here
+If not obvious, this isn't complete. Just ongoing notes for myself.
 
 Ingredients
 ===========
