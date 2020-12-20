@@ -16,6 +16,7 @@ Ingredients
 * [ ] 2 tablespoons rice vinegar
 * [ ] 2 tablespoons sugar
 * [ ] 1 tablespoon kosher salt
+* [ ] 1 tablespoon furikake seasoning
 
 ##### Tamagoyaki
 * [ ] 4 eggs
@@ -62,4 +63,4 @@ Preparation
 Notes
 =====
 
-Any personal annotations and advises go here
+You can also serve this, deconstructed as an easy breakfast.
