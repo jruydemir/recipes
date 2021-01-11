@@ -4,7 +4,8 @@ source: originally delish.com
 cooking time: 15 min
 servings: 6-8 but lets be honest
 tags: cocktail, wine, fruit
-category: cocktails
+category: drinks
+
 ---
 
 Is there anything better on a hot sunny day?
