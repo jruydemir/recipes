@@ -10,7 +10,7 @@ A curated list of Recipes approved/created/modified by Josh and Tarik Ruydemir.
 + [Dumplings](dumplings) :sushi:
 + [Entrees](entrees) :spaghetti:
 + [Salads](salads) :leaves:
-+ [Sauces](sauces) :custard:
++ [Sauces](sauces) :butter:
 + [Sides](sides) :rice:
 + [Soups](soups) :stew:
 
