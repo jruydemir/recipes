@@ -27,7 +27,7 @@ Preparation
 ===========
 1. Dice up beef and dry with a paper towel. Add flour, salt, and pepper. Toss until well distributed. Heat up dutch oven. Add oil. Working in batches, cook the meat. Allow sides to brown nicely before starting next batch.
 
-2. Once all the meat is cooked, place meat back in pot. Add a bit of the broth to deglaze the pot. Then add the rest of the broth. Bring to a slight simmer. Cover and cook for 90 minutes.
+2. Once all the meat is cooked, place meat back in pot. Add a bit of the broth to deglaze the pot. Then add the rest of the broth. Bring to a slight simmer. Cover and cook for 90 minutes. Alternatively pressure cook with broth for 45 min and let naturally release pressure.
 
 3. Bring a large pot of water to a boil. Salt well.
 

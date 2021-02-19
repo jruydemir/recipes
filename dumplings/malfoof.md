@@ -62,3 +62,5 @@ Preparation
 
 Notes
 =====
+
+Careful not to use too many lemons. Either two in the broth or one in the broth and one slice up over the malfoof.

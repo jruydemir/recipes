@@ -20,7 +20,7 @@ Ingredients
 * [ ] 1 head roasted cauliflower (minced)
 * [ ] 3/4 tsp each dried thyme
 * [ ] 1.5 lb ground  beef
-* [ ] ¼ cup heaping flour, plain/all purpose
+* [ ] 1/3 cup heaping flour, plain/all purpose
 * [ ] ¼ cup tomato paste
 * [ ] 2 cups beef stock / broth (a little extra bullion is always helpful)
 * [ ] 1 beef bouillon cube, crumbled
@@ -49,3 +49,4 @@ Notes
 =====
 
 Roast some MFing  cauliflower and profit.
+Can sub meat for 1 1/2 cup of lentils and two packages of mushrooms and two extra cups of broth. Cook in broth. 3/4 green 1/4 red. Brown mushrooms well. 2 tbsp soy sauce.
