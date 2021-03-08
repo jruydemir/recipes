@@ -64,3 +64,4 @@ Notes
 =====
 
 Careful not to use too many lemons. Either two in the broth or one in the broth and one slice up over the malfoof.
+Also bottom malfoof were mushy the last time. Look into what could cause that.

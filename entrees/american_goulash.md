@@ -14,7 +14,7 @@ Ingredients
 * [ ] 2 tbsp. extra-virgin olive oil
 * [ ] 1 medium yellow onion, chopped
 * [ ] 2 cloves garlic, minced
-* [ ] 1/2 lb. ground beef
+* [ ] 1 lb. ground beef
 * [ ] Kosher salt
 * [ ] Freshly ground black pepper
 * [ ] 1 tbsp. tomato paste
@@ -23,7 +23,7 @@ Ingredients
 * [ ] 1 can san marzano tomatoes
 * [ ] 1 tsp. Italian seasoning
 * [ ] 1 tsp. paprika
-* [ ] 1 1/2 c. elbow macaroni, uncooked
+* [ ] 2 cups elbow macaroni, uncooked
 
 Preparation
 ===========
