@@ -22,6 +22,7 @@ Ingredients
 * [ ] 1 Cinnamon Stick
 * [ ] 1 tsp Black Peppercorns
 * [ ] 1 Star Anise
+* [ ] 2 tbsp Sugar
 
 Preparation
 ===========
