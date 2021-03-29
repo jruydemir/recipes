@@ -12,11 +12,11 @@ Simple, Savory, and s-quick... I suck at alliterations. Anyway—make this.
 Ingredients
 ===========
 
-* [ ] 10 ounces  Soba Buckwheat Noodles
+* [ ] 10 ounces  Soba Buckwheat Noodles (Do Not Salt Water)
 * [ ] 1/3 cup Premium Soy Sauce
 * [ ] 2 tablespoons Rice Vinegar
 * [ ] 3 tablespoons Toasted Sesame Oil
-* [ ] 1/4 teaspoon Freshly Ground Black Pepper
+* [ ] 1/4 teaspoon Freshly Ground White Pepper
 * [ ] 1 tablespoon Sugar
 * [ ] 1 tablespoon Canola Oil
 * [ ] 1/2 cup Green Onions minced
