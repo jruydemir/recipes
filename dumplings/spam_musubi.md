@@ -15,7 +15,7 @@ Ingredients
 * [ ] 2 cups water, plus extra for rinsing rice
 * [ ] 2 tablespoons rice vinegar
 * [ ] 2 tablespoons sugar
-* [ ] 1 tablespoon kosher salt
+* [ ] 1 teaspoon kosher salt
 * [ ] 1 tablespoon furikake seasoning
 
 ##### Tamagoyaki
