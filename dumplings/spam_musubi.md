@@ -11,8 +11,8 @@ Terrible for you but oh so good.
 Ingredients
 ===========
 ##### Rice
-* [ ] 2 cups sushi or short grain rice
-* [ ] 2.2 cups water, plus extra for rinsing rice
+* [ ] 2 scoops sushi or short grain rice
+* [ ] Enough water for a rice cooker, plus extra for rinsing rice
 * [ ] 2 tablespoons rice vinegar
 * [ ] 1 tablespoons sugar
 * [ ] 1 teaspoon kosher salt
