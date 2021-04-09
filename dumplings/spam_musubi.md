@@ -12,16 +12,16 @@ Ingredients
 ===========
 ##### Rice
 * [ ] 2 cups sushi or short grain rice
-* [ ] 2 cups water, plus extra for rinsing rice
+* [ ] 2.2 cups water, plus extra for rinsing rice
 * [ ] 2 tablespoons rice vinegar
-* [ ] 2 tablespoons sugar
+* [ ] 1 tablespoons sugar
 * [ ] 1 teaspoon kosher salt
 * [ ] 1 tablespoon furikake seasoning
 
 ##### Tamagoyaki
-* [ ] 4 eggs
-* [ ] 1 tbsp soy sauce
-* [ ] 1 tbsp mirin
+* [ ] 5 eggs
+* [ ] 1 tbsp soy sauce [heaping]
+* [ ] 1 tbsp mirin [heaping]
 * [ ] 1 tbsp sugar
 * [ ] pinch of salt
 * [ ] oil to cook
@@ -30,7 +30,7 @@ Ingredients
 * [ ] 12 ounces Spam
 * [ ] 1/4 cup oyster sauce
 * [ ] 1/4 cup soy sauce
-* [ ] 1/2 cup sugar
+* [ ] 1/4 cup sugar
 * [ ] Nori roasted seaweed used for sushi, cut into halves or thirds (I cut it into thirds to make it go further)
 
 
@@ -50,7 +50,7 @@ Preparation
 7. Your tamagoyaki is now finished so remove from the pan and wait to cool before slicing it up into thin pieces with a sharp knife.
 
 ##### Musubi
-1. Slice the SPAM into about 8-10 slices (depending on how thick you like it) and put in a Ziplock bag.
+1. Slice the SPAM into about 10 slices and put in a Ziplock bag.
 2. Mix oyster sauce, soy sauce and sugar until sugar is dissolved and add to the bag with the SPAM. Marinate for about 15 minutes.
 3. Drain off marinade and fry SPAM on each side over medium heat until slightly crispy or until desired doneness. Some people like to glaze the SPAM with the marinade/sauce AFTER frying, either way tastes great!
 4. Place a strip of nori on a cutting board or clean surface (shiny side down).
@@ -64,3 +64,5 @@ Notes
 =====
 
 You can also serve this, deconstructed as an easy breakfast.
+
+You can bake the eggs at 350 F. for 12-15 minutes in a 2-quart pyrex (7x11")
