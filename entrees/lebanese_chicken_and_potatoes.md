@@ -1,33 +1,33 @@
 ---
 title: Lebanese Chicken and Potatoes
 source: Tarik's Aunt Nabila
-img:
-tags: Lebanese, chicken
+cooking time: 2 hours
+servings: 6
+tags: Lebanese, chicken, easy
 category: entree
 ---
 
-Perfect if served with fresh bread or Arab Rice
+Super easy meal. I mean it. Couldn't be easier.
 
 Ingredients
 ===========
 
 * [ ] 8 cut up chicken pieces, dark preferred, cut in big chunks
-* [ ] 8 medium potatoes, thick slices or quartered
+* [ ] 4 large russet potatoes, sliced about 1/4 inch
+* [ ] 10 cloves garlic, roughly chopped
+* [ ] 3 tbsp. fresh lemon juice
+* [ ] 1/2 cup neutral oil
+* [ ] 1 1/2 cup chicken broth
+* [ ] 1 tsp 7 spice
 * [ ] salt & ground white pepper to taste
-* [ ] 4 cloves garlic
-* [ ] 1/2 cup extra virgin olive oil
-* [ ] 1/2 cup chicken broth
-* [ ] 1/2 cup fresh lemon juice
-
 
 Preparation
 ===========
-1. Preheat oven to 425 degrees F (220 degrees C).
-2. Place chicken and potatoes in a large baking dish. Season generously with salt and white pepper.
+1. Preheat oven to 400 degrees F.
+2. Place chicken and potatoes in a large baking dish. Season generously with 7 spice, salt, and pepper.
 3. In a bowl, stir together garlic, olive oil, chicken broth, and lemon juice. Pour over chicken and potatoes. Cover dish with foil.
-4. Bake in preheated oven for 30 minutes. Remove foil, increase heat to 475 degrees F (245 degrees C), and cook until chicken and potatoes are golden, about 30 minutes.
+4. Bake in preheated oven for 30 minutes. Remove foil, and cook until chicken and potatoes are golden, about 30 minutes.
+5. Let cool and serve with rice.
 
 Notes
 =====
-
-Any personal annotations and advises go here
