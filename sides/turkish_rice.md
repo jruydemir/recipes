@@ -1,7 +1,8 @@
 ---
 title: Turkish Rice
 source: Adalet (Tarik's Mom)
-img:
+cooking time: 1 hour
+servings: 6
 tags: family, sides, rice, Turkish
 category: sides
 ---
@@ -12,7 +13,7 @@ Ingredients
 ===========
 
 * [ ] 1 1/2 cups medium grain Rice, (two scoops from a rice maker cup)
-* [ ] 2 Tbsp Butter
+* [ ] 2 tbsp Butter
 * [ ] 1/4 cup Vermicelli
 * [ ] 1/2 tsp Cinnamon
 * [ ] 1/2 tsp Salt
@@ -26,4 +27,5 @@ Preparation
 Notes
 =====
 
-Can add fried onions.
+* Can add fried onions.
+* Don't use a cinnamon stick. Tarik says it overpowers the rice.
