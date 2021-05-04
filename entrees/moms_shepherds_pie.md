@@ -17,11 +17,12 @@ Ingredients
 * [ ] 1 onion, finely chopped
 * [ ] 2 carrot, finely chopped
 * [ ] 2 rib celery, finely chopped
-* [ ] 1 head roasted cauliflower (minced)
-* [ ] 3/4 tsp each dried thyme
-* [ ] 1.5 lb ground  beef
+* [ ] 3/4 tsp each dried thyme, oregano
+* [ ] 1 lb ground beef
 * [ ] 1/3 cup heaping flour, plain/all purpose
 * [ ] ¼ cup tomato paste
+* [ ] 1 tbsp nutritional yeast
+* [ ] 1/2 tsp fennel seed, ground
 * [ ] 2 cups beef stock / broth (a little extra bullion is always helpful)
 * [ ] 1 beef bouillon cube, crumbled
 * [ ] 2 tbsp Worcestershire sauce
@@ -29,7 +30,7 @@ Ingredients
 * [ ] 1 cup frozen peas
 
 ##### Topping
-* [ ] 2.2 lb potatoes, peeled and cut into 2.5cm / 1" cubes
+* [ ] 2.2 lb red potatoes, peeled quartered
 * [ ] 2/3 cup whole milk
 * [ ] 4 tbsp butter
 
