@@ -20,7 +20,7 @@ Ingredients
 * [ ] 1 tbsp furikake seasoning (optional, but encouraged)
 
 ##### Musubi
-* [ ] 1 12 ounce can Spam (preferr 25% less sodium version)
+* [ ] 1 12oz can Spam (preferr 25% less sodium version)
 * [ ] 3 tbsp oyster sauce
 * [ ] 3 tbsp soy sauce
 * [ ] 3 tbsp sugar
