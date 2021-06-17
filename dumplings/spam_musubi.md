@@ -31,7 +31,6 @@ Ingredients
 * [ ] 1 tbsp sugar
 * [ ] pinch of salt
 * [ ] oil to cook
-
 * [ ] Nori roasted seaweed used for sushi, cut into thirds.
 
 Preparation
