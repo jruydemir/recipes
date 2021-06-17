@@ -1,7 +1,8 @@
 ---
 title: Songbird Salad
 source: Gingerbread Factory
-img:
+cooking time: 90 minutes
+servings: 10
 tags: sides, spring, potluck meal
 category: sides
 ---
@@ -26,6 +27,7 @@ Ingredients
 * [ ] 2/3 cup apple cider vinegar
 * [ ] 1/2 tsp salt
 * [ ] 1 Tbsp sugar (optional, if taste is off)
+* [ ] 1/4 cup basil (cut into ribbons)
 
 Preparation
 ===========
