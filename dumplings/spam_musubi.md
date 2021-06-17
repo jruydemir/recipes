@@ -21,14 +21,14 @@ Ingredients
 
 ##### Musubi
 * [ ] 1 12 ounce can Spam (preferr 25% less sodium version)
-* [ ] 1/4 cup oyster sauce
-* [ ] 1/4 cup soy sauce
-* [ ] 1/4 cup sugar
+* [ ] 3 tbsp oyster sauce
+* [ ] 3 tbsp soy sauce
+* [ ] 3 tbsp sugar
 
 ##### Tamagoyaki (Optional)
 * [ ] 5 eggs
-* [ ] 1 tbsp soy sauce [heaping]
-* [ ] 1 tbsp mirin [heaping]
+* [ ] 1 tbsp soy sauce
+* [ ] 1 tbsp mirin
 * [ ] 1 tbsp sugar
 * [ ] pinch of salt
 * [ ] neutral oil to cook
@@ -38,7 +38,7 @@ Preparation
 ===========
 ##### Rice
 1. Rince the rice until the water is clear. Allow to soak for 20 minutes. Cook rice in rice cooker.
-2. Combine the rice vinegar, sugar and salt in a small bowl and heat in the microwave on high for 30 to 45 seconds. Add the vinegar mixture, and furikake to the rice. Fold thoroughly to combine and coat each grain of rice with the mixture. Allow to cool to room temperature before using to make sushi or sashimi.
+2. Combine the rice vinegar, sugar and salt in a small bowl and heat in the microwave on high for 30 to 45 seconds. Add the vinegar mixture, and furikake to the rice. Fold thoroughly to combine and coat each grain of rice with the mixture. Allow to cool to room temperature before using to form musubi.
 
 ##### Musubi
 1. Slice the SPAM into about 10 slices and put in a Ziplock bag. Rince out the can an keep it.
@@ -60,7 +60,7 @@ Preparation
 1. Place a sheet of plastic wrap on the counter.
 2. Add about 1/3 cup Sushi Rice to the middle of the platic wrap. Press into roughly the shape of the SPAM can. Layer with egg (optional), and spam. 
 3. Wrap the plastic wrap around the rice and spam. Then place into the spam can press down on the bottom of the can to form the shape.
-4. Unwrap the Musubi and wrap the nori around the outside (shiny side out). 
+4. Unwrap the musubi and wrap the nori around the outside (shiny side out). 
 
 Notes
 =====
