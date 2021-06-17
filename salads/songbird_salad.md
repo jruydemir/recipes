@@ -11,21 +11,21 @@ Credit for this recipe goes to my first employer, the gingerbread factory.
 Ingredients
 ===========
 
-* [ ] 1 lb. Orzo Pasta
-* [ ] 1 14oz can quartered Artichokes
-* [ ] 1 bunch Green Onions
-* [ ] 1/2 cup Mini Sweet Peppers (Red, Orange, Yellow)
-* [ ] 1/2 medium Red Onion
-* [ ] 1 medium Cucumber
-* [ ] 1 1/2 cups Cherry Tomatoes
-* [ ] 1/2 cup dried Cranberries
-* [ ] 1/3 cup Gorgonzola
-* [ ] 1/2 cup Pine Nuts
-* [ ] 1/4 cup Sliced Almonds
-* [ ] 3/4 cup Extra Virgin Olive Oil
-* [ ] 2/3 cup White Wine Vinegar
-* [ ] 1/2 tsp Salt
-* [ ] 1 Tbsp Sugar (optional, if taste is off)
+* [ ] 1 lb. orzo pasta
+* [ ] 1 14oz can quartered artichokes
+* [ ] 1 bunch green onions
+* [ ] 1 bell pepper (Red, Orange, or Yellow)
+* [ ] 1/2 medium red onion
+* [ ] 1 medium cucumber
+* [ ] 1 1/2 cups cherry tomatoes
+* [ ] 3/4 cup dried cranberries, or other dried fruit
+* [ ] 1/3 cup crumbled feta
+* [ ] 1/2 cup pine nuts
+* [ ] 1/4 cup sliced or slivered almonds
+* [ ] 3/4 cup evoo
+* [ ] 2/3 cup apple cider vinegar
+* [ ] 1/2 tsp salt
+* [ ] 1 Tbsp sugar (optional, if taste is off)
 
 Preparation
 ===========
@@ -37,4 +37,5 @@ Preparation
 Notes
 =====
 
-This recipe is pretty flexible. Adjust amounts of veggies to your desire. Eg. Apples, carrots. I also have a feeling apple cider vinegar would taste pretty great in here if you did half cider, half wine vinegar.
+This recipe is pretty flexible. Adjust amounts of veggies to your desire. Add any veggies you think might taste good. Ex. Apples, carrots.
+Still playing with the dried fruit. It may need a full cup.
