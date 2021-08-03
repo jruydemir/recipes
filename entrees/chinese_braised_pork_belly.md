@@ -32,4 +32,4 @@ Preparation
 Notes
 =====
 
-While the Pork belly is braising, sauté the leafy vegetables in the braising liquid.
+While the Pork belly is broiling, sauté the leafy vegetables in the braising liquid.
