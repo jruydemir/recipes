@@ -2,7 +2,7 @@
 title: Recipe's title
 source: Recipe's source
 cooking time:
-servings: 
+servings:
 tags: any, tags, for, this, recipe
 category: dessert
 ---
@@ -12,7 +12,7 @@ This would be the description of the recipe. Any info or history about the recip
 Ingredients
 ===========
 
-* [ ]
+* [ ] 
 
 Preparation
 ===========
