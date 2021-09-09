@@ -7,7 +7,7 @@ tags: ramadan, dessert, arab, pastry
 category: dessert
 ---
 
-These are cheesy, sweet, aromatic and fluffy.
+Atayef for those who don't know, an arab sweet traditionally made during Ramadan. Think a small pancake folded in half like a calzone, stuffed with sweet cream cheeses, and drizzled with a floral syrup. They really are quite delicious.
 
 Ingredients
 ===========
