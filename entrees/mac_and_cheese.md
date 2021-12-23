@@ -1,10 +1,10 @@
 ---
-title: Recipe's title
-source: Recipe's source
-cooking time:
-servings:
-tags: any, tags, for, this, recipe
-category: dessert
+title: Mac & Cheese
+source: Mash up
+cooking time: 90 minutes
+servings: 10
+tags: pasta, dairy, flexible
+category: entree
 ---
 
 If not obvious, this isn't complete. Just ongoing notes for myself.
@@ -13,7 +13,14 @@ Ingredients
 ===========
 
 * [ ] 1 stick Butter
-* [ ] 1/2 heaping cup All-purpose flour
+* [ ] 1/3 cup All-purpose flour
+* [ ] 3 cups milk
+* [ ] 2 eggs
+* [ ] 8 oz Sharp Cheddar Cheese
+* [ ] 8 oz colby jack cheese
+* [ ] shallots
+
+
 
 Preparation
 ===========
