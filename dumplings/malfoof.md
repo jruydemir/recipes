@@ -1,7 +1,8 @@
 ---
 title: Malfoof
 source: Adalet and Youtube
-img:
+cooking time: 3 hours
+servings: 12
 tags: Middle Eastern/Turkish, Cabbage, Dolma
 category: entree
 ---
@@ -22,7 +23,7 @@ Ingredients
 * [ ] 1/2 Onion, Minced
 * [ ] 20 Cloves Garlic
 * [ ] 1 lb Ground Beef
-* [ ] 4 Lemons
+* [ ] 2 Lemons
 * [ ] 1 Tbsp. Dried Mint
 * [ ] 4 cups Chicken Broth, bullion in fine
 * [ ] 1/2 cup EVOO
@@ -47,12 +48,12 @@ Preparation
 3. Slice up remaining garlic and put in separate bowl.
 
 ##### Form the Rolls
-1. Place unused thick cuttings to form a layer on the bottom of large pot. This will keep the rolls from burning when cooked.
+1. Place unused thick cuttings to form a layer on the bottom of large pot (or lemon slices). This will keep the rolls from burning when cooked.
 2. One at a time, place a few tsp of the filling onto a leaf in a thin line. Place in such a way that you will be able to roll it a few times around. Just a single layer or two of cabbage will easily break.
 3. Place rolls into pot in a tight layer. Once a layer is complete, sprinkle some dried mint and a slices of garlic around.
 
 ##### Cooking
-1. In a bowl mix together boiling broth, the juice of two lemons, and the olive oil. Pour over rolls until just covering the top of the pile.
+1. In a bowl mix together boiling broth, the juice of 1 lemon, and the olive oil. Pour over rolls until just covering the top of the pile.
 2. Place a plate on top of the rolls to weigh them down. Cover pot.
 3. Cook on medium high heat for 25 minutes. Then on medium low heat for another 30 minutes, until all or almost all the liquid is absorbed.
 4. Flip pot over onto serving plate, let cool for a few minutes and enjoy.
@@ -63,5 +64,4 @@ Preparation
 Notes
 =====
 
-Careful not to use too many lemons. Either two in the broth or one in the broth and one slice up over the malfoof.
-Also bottom malfoof were mushy the last time. Look into what could cause that.
+You can change out cabbage for grape leaves for dolma.
