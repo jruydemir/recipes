@@ -31,4 +31,6 @@ Preparation
 Notes
 =====
 
-To make Manakeesh - once the dough is rolled out, poke with then end of a fork. Add toppings right after placing on the pan.
+* To make Manakeesh - once the dough is rolled out, poke with then end of a fork. Add toppings right after placing on the pan.
+* Can sub milk powder and water for 1 cup of whole milk + necessary water to reach weight.
+* Can partially proof for an hour then divide into 100g balls. Cover and Freeze.
