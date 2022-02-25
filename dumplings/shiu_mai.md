@@ -1,5 +1,5 @@
 ---
-title: Shiu Mai
+title: Siu Mai
 source: Experimentation
 img:
 tags: dumplings, asian, entrees, favorites
@@ -19,18 +19,19 @@ Ingredients
 * [ ] 4 Green Onions, finely chopped
 * [ ] 1 teaspoon Ginger, grated
 * [ ] 1 Egg
-* [ ] 1 tsp Sesame Oil, toasted
-* [ ] 1 tsp Shaoxing Wine (or dry sherry)
+* [ ] 1 1/2 tsp Sesame Oil, toasted
+* [ ] 1 1/2 tsp Shaoxing Wine (or dry sherry)
 * [ ] 1 tsp Salt
+* [ ] 1/2 tsp MSG
 * [ ] 2 tsp. Cornstarch
 * [ ] 1/8 tsp White Pepper, ground
 
 Preparation
 ===========
 1. Soak the dried mushrooms in warm water for 30 minutes. Mince, or process.
-2. In bowl, mix all ingredients except wonton wrappers. Cover and rest in fridge for 30 minutes.
+2. In bowl, add all ingredients except wonton wrappers. Stir with chopsticks in one direction until very sticky. Cover and rest in fridge for 30 minutes.
 3. Place wonton in palm of non-dominant hand. Scoop about about 1 1/2 tbsp of filling in middle of wonton. Tightly wrap wonton around sides of mixture. Give a few taps to flatten bottom. Repeat.
-4. Steam for 13 minutes. Serve immediately.
+4. Steam for 8 minutes (13 if frozen). Serve immediately.
 
 Notes
 =====
