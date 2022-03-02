@@ -18,7 +18,7 @@ Ingredients
 * [ ] 2 stalks celery, chopped
 * [ ] 2 tbsps garlic, minced
 * [ ] 1 tsp kosher salt
-* [ ] 1/2 tsp cayenne pepper
+* [ ] 1/4 tsp cayenne pepper
 * [ ] 1 tsp dried thyme
 * [ ] 3/4 tsp dried sage
 * [ ] 1 tbsp dried parsley
