@@ -9,6 +9,7 @@ A curated list of Recipes approved/created/modified by Josh and Tarik Ruydemir.
 + [Drinks](drinks) :cocktail:
 + [Dumplings](dumplings) :sushi:
 + [Entrees](entrees) :spaghetti:
++ [Pickles](pickles) :green_apple:
 + [Salads](salads) :leaves:
 + [Sauces](sauces) :butter:
 + [Sides](sides) :rice:
