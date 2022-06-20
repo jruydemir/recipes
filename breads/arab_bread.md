@@ -16,7 +16,7 @@ Ingredients
 * [ ] 1/4 cup milk powder
 * [ ] 1 tsp salt
 * [ ] 1 tsp instant yeast
-* [ ] 300 g water
+* [ ] 320 g water
 * [ ] 2 tbps EVOO
 
 

@@ -35,4 +35,4 @@ Preparation
 Notes
 =====
 
-I might have also added thyme?
+Another great variation is sliced asparigus instead of mushrooms and Thyme
