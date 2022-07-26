@@ -1,10 +1,10 @@
 ---
 title: Etouffee
 source: Multiple
-cooking time:
-servings:
-tags: any, tags, for, this, recipe
-category:
+cooking time: 1 hour
+servings: 8
+tags: rice, shrimp, cajun, spice
+category: entrees
 ---
 
 WIP here. It's pretty good, but could be better.
