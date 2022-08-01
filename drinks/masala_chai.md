@@ -1,6 +1,6 @@
 ---
 title: Masala Chai
-source: [Kevin Wilson](https://www.buymeacoffee.com/ccchristian)
+source: Kevin Wilson - https://www.buymeacoffee.com/ccchristian
 cooking time: 10 minutes
 servings: 2
 tags: indian, tea, spices
