@@ -64,4 +64,6 @@ Preparation
 Notes
 =====
 
-You can change out cabbage for grape leaves for dolma.
+Want to try different filling recipe. I feel it could be better.
+
+You can change out cabbage for grape leaves.
