@@ -21,4 +21,4 @@ Preparation
 Notes
 =====
 
-Any personal annotations and advises go here
+Needs more apple than it suggests. Also don't do too much chicken, makes it too dry. Get weight of chicken.
