@@ -1,6 +1,6 @@
 ---
-title: Köfte
-source: ruydemir
+title: Kofte
+source: jruydemir
 cooking time: 1 hour
 servings: 8
 tags: meat, italian
@@ -12,14 +12,12 @@ category: entree
 Ingredients
 ===========
 
-* [ ] 1 large yellow onion, coursely chopped
+* [ ] 1 yellow onion, coursely chopped
 * [ ] 1 bunch parsley, coursely chopped
-* [ ] 3 cloves garlic, coursely chopped
-* [ ] 2 lb ground beef, 20% fat
+* [ ] 2 cloves garlic, coursely chopped
+* [ ] 1 1/2 lb ground beef, 20% fat
 * [ ] 1 lg egg
-* [ ] 1 tsp 7 spice
-* [ ] 1 tsp cinnamon
-* [ ] 1 tsp cardamom
+* [ ] 2 1/2 tsp 7 spice
 * [ ] 1/4 tsp fresh ground black pepper
 * [ ] 1 1/4 tsp salt
 * [ ] pinch msg
@@ -32,5 +30,4 @@ Preparation
 
 Notes
 =====
-
-Can be served in pyrex with layer of potatoes and tomatoes baked at 350 until browned then pour over [Tahini Sauce](../sauces/tahini_sauce.md) and bake again for 15 minutes.
+This is very much WIP.
