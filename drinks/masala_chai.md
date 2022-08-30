@@ -26,9 +26,8 @@ Ingredients
 Preparation
 ===========
 1. In a dry hot pot, add cardamom, cloves, black pepper, star anise, and cinnamon. Swirl and roast spices for a few minutes, until there are some browned spots on the cardamom and cinnamon.
-2. Remove and crush spices. Combined water, and all spice ingredients in pot.
-3. Once water is steaming, add tea leaves, and sugar. Bring just below a simmer.
-4. Add milk and bring back to just under a simmer.
+2. Remove spices. Combined water, and tea leaves. Crush spices and add to tea. Crush ginger add to tea. Add sugar.
+4. Bring to a simmer. Add milk and bring back to just under a simmer.
 5. Strain and serve!
 
 Notes
