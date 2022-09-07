@@ -12,12 +12,13 @@ category: entree
 Ingredients
 ===========
 
-* [ ] 1 yellow onion, coursely chopped
+* [ ] 1 large yellow onion, coursely chopped
 * [ ] 1 bunch parsley, coursely chopped
 * [ ] 2 cloves garlic, coursely chopped
-* [ ] 1 1/2 lb ground beef, 20% fat
+* [ ] 2 lb ground beef, 20% fat
 * [ ] 1 lg egg
-* [ ] 2 1/2 tsp 7 spice
+* [ ] 1 1/2 tsp 7 spice
+* [ ] 1/4 tsp cinnamon
 * [ ] 1/4 tsp fresh ground black pepper
 * [ ] 1 1/4 tsp salt
 * [ ] pinch msg
