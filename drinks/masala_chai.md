@@ -13,8 +13,8 @@ Ingredients
 ===========
 
 * [ ] 4 green cardamom pods
-* [ ] 4 tbsp cloves
-* [ ] 8 tbsp black pepper corns
+* [ ] 4 cloves
+* [ ] 8 black pepper corns
 * [ ] 4 single seed pod star anise
 * [ ] 1/2 cinnamon stick
 * [ ] 2 1/4 cups water
