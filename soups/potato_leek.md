@@ -32,5 +32,6 @@ Preparation
 
 Notes
 =====
+Honestly this didn't come out the way I wanted it. First it was too thick so lower the potatoes.
 
-\* I like 2/3 russets and 1/3 yukon gold
+\* I like 2/3 russets and 1/3 yukon gold. This is a hotly dissagreed upon topic. Credit to this blogger who made an [in-depth post](https://botanistinthekitchen.blog/2013/03/07/a-very-close-look-at-potato-leek-soup/) about this in 2013.
