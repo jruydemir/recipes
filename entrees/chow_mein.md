@@ -13,34 +13,32 @@ Ingredients
 
 * [ ] 500 g chicken thigh fillets , cut into bite size pieces
 * [ ] 3 - 4 cups green cabbage or Chinese cabbage , finely shredded
-* [ ] 1 1/2 tbsp neutral oil
+* [ ] 2 tbsp neutral oil
+* [ ] 1/2 onion sliced
+* [ ] 1/2 small head cabbage, sliced
 * [ ] 2 cloves garlic , finely chopped
 * [ ] 2 pkg chow mein noodles
-* [ ] 3 carrots, julienned
-* [ ] 3 shallot/scallions/green onions , cut into 5cm/2" pieces
-* [ ] 1/4 cup / 65 ml water
+* [ ] 3 green onions, sliced
+
 ##### Sauce
-* [ ] 2 tsp cornflour / cornstarch
-* [ ] 1 1/2 tbsp soy sauce , all purpose or light (Note 4)
-* [ ] 1 1/2 tbsp oyster sauce
-* [ ] 1 1/2 tbsp Chinese cooking wine (Note 5)
-* [ ] 2 tsp sugar
-* [ ] 1/2 tsp sesame oil
-* [ ] White pepper
+* [ ] 3 tbsp soy sauce
+* [ ] 2 1/2 tbsp oyster sauce
+* [ ] 1 tbsp sesame oil
+* [ ] 2 tbsp sugar
+* [ ] 2 tbsp black vinegar
+* [ ] 1/2 tsp white pepper
 
 Preparation
 ===========
 ##### Sauce
-1. Mix together cornflour and soy sauce, then mix in remaining ingredients.
-2. Marinate Chicken: Pour 2 tbsps of Sauce over the chicken, mix to coat, set aside to marinate for 20 minutes.
-3. Noodles: Prepare the noodles according to the packet instructions (my pack says soak in boiled water for 1 minute), then drain.
+1. Mix together sauce ingredients ingredients.
+2. Noodles: Prepare the noodles according to the packet instructions (my pack says soak in boiled water for 1 minute), then drain.
 ##### COOKING
 1. Heat oil in wok or large fry pan over high heat.
-2. Add garlic and stir fry for 10 seconds or until it starts to turn golden - don't let it burn!
-3. Add chicken and stir fry until the surface gets a tinge of browning but inside is still raw - about 1 minute.
-4. Add the cabbage, carrot, and the white pieces of shallots (i.e. from the base of the stalk). Stir fry for 1 1/2 minutes until the cabbage is mostly wilted.
-5. Add the noodles, Sauce and water*. Stir fry for 1 minute, tossing constantly.
-6. Add bean sprouts and remaining shallots/scallions. Toss through for 30 seconds or until the bean sprouts just start to wilt.
+2. Add chicken and stir fry until the surface gets browned. Remove.
+4. Add the onion and stir fry until translucent. Add cabbage and garlic. Stir fry for 1 1/2 minutes until the cabbage is mostly wilted.
+5. Add the noodles, chicken, and sauce. Stir fry for 3 minute, tossing constantly.
+6. Add green onions. Toss through for 30 seconds..
 7. Remove from heat and serve immediately.
 
 Notes
