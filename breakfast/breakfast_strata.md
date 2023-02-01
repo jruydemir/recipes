@@ -13,6 +13,7 @@ Ingredients
 
 * [ ] 1 lb Bacon
 * [ ] 1 1/2 cups finely sliced onion (1 large)
+* [ ] 1 tsp thyme
 * [ ] 3 tablespoons unsalted butter
 * [ ] 1 teaspoon salt
 * [ ] 1/2 teaspoon black pepper
@@ -29,7 +30,7 @@ Preparation
 2. Spread one third of bread cubes in a buttered 3-quart gratin dish or other shallow ceramic baking dish and top evenly with one third of spinach mixture. Sprinkle with one third of each cheese. Repeat layering twice (ending with cheeses).
 3. Whisk together milk, eggs, mustard, and remaining 1/2 teaspoon salt and 1/4 teaspoon pepper in a large bowl and pour evenly over strata. Chill strata, covered with plastic wrap, at least 8 hours (for bread to absorb custard).
 4. Preheat oven to 350°F. Let strata stand at room temperature 30 minutes.
-5. Bake strata, uncovered, in middle of oven until puffed, golden brown, and cooked through, 45 to 55 minutes. Let stand 5 minutes before serving.
+5. Bake strata, covered for 20 min then uncover, in middle of oven until puffed, golden brown, and cooked through, another 30 minutes. Let stand 5 minutes before serving.
 
 Notes
 =====
