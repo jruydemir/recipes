@@ -18,9 +18,9 @@ Ingredients
 * [ ] 3 star anise
 * [ ] 2 cinnamon stick
 * [ ] 8 cups water
-* [ ] 80g ginger, crushed
+* [ ] 80-90g ginger, crushed
 * [ ] 1/2 cup loose leaf black tea
-* [ ] 1/3 cup sugar
+* [ ] 1/3 heaping cup sugar
 
 Preparation
 ===========
