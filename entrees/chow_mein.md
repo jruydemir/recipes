@@ -11,12 +11,12 @@ Tarik and Sean Approved.
 Ingredients
 ===========
 
-* [ ] 500 g chicken thigh fillets , cut into bite size pieces
-* [ ] 3 - 4 cups green cabbage or Chinese cabbage , finely shredded
+* [ ] 500 g chicken, cut into bite size pieces
+* [ ] 3 - 4 cups green cabbage or Chinese cabbage, finely shredded
 * [ ] 2 tbsp neutral oil
 * [ ] 1/2 onion sliced
 * [ ] 1/2 small head cabbage, sliced
-* [ ] 2 cloves garlic , finely chopped
+* [ ] 2 cloves garlic, finely chopped
 * [ ] 2 pkg chow mein noodles
 * [ ] 3 green onions, sliced
 
