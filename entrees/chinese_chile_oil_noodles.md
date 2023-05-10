@@ -12,17 +12,17 @@ This is a simple recipe from tiktok that is quick, easy-to-make, delisous.
 Ingredients
 ===========
 
-* [ ] 2 tsp chopped garlic
+* [ ] 1 tbsp chopped garlic
 * [ ] 1 fresno chile, partially seeded, minced
-* [ ] 1 green onion, sliced
-* [ ] 2 tsp chile powder (I use gochugaru)
-* [ ] 1 tsp white sesame
-* [ ] 6 tbsp hot neutral oil, +300F.
-* [ ] 2 tsp light soy sauce
-* [ ] 1 tsp black vinegar
-* [ ] 2/3 tsp salt
-* [ ] 2/3 tsp bouillon
-* [ ] 2/3 tsp sugar
+* [ ] 3 green onion, sliced
+* [ ] 1 tbsp chile powder (I use gochugaru)
+* [ ] 1 tbsp white sesame
+* [ ] 1/2 cup hot neutral oil, +300F.
+* [ ] 1 tbsp light soy sauce
+* [ ] 1/2 tbsp black vinegar
+* [ ] 1 tsp salt
+* [ ] 1 tsp bouillon
+* [ ] 1 tsp sugar
 * [ ] 1 persian cucumber, julienned
 * [ ] 1/2 bunch cilantro, chopped
 * [ ] 1 carrot, julienned
