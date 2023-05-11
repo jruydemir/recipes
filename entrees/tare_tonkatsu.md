@@ -2,7 +2,7 @@
 title: Tare Tonkatsu
 source: Mulitple
 cooking time: 1 hour
-servings: 3
+servings: 6
 tags: japanese, don, pork
 category: entrees
 ---
@@ -12,7 +12,7 @@ We accidentally had this for our first meal in Tokyo, and were blown away. We ha
 Ingredients
 ===========
 
-* [ ] 2 scoops koshihikari rice (1 1/2 cup)
+* [ ] 4 scoops koshihikari rice (3 cup)
 * [ ] 90 g water
 * [ ] 80 g hon-mirin
 * [ ] 90 g soy sauce
@@ -23,9 +23,9 @@ Ingredients
 * [ ] 50 g water
 * [ ] 1 egg
 
-* [ ] 410 g pork loin (.9 lbs)
+* [ ] 2 cup panko
 
-* [ ] 1 1/2 cup panko
+* [ ] 800 g pork loin (1.8 lbs)
 
 Preparation
 ===========
@@ -40,5 +40,6 @@ Preparation
 Notes
 =====
 
-Still a work in progress.
-https://www.youtube.com/watch?v=oWYBsPNNq_A - only 1/3 of the batter, 1/2 the tare is necessary.
+Still a work in progress. Might be too much rice or pork. Also hammer the pork a little bit thinner than you think it should be.
+
+https://www.youtube.com/watch?v=oWYBsPNNq_A
