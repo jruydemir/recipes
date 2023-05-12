@@ -20,7 +20,7 @@ Ingredients
 * [ ] 1 med-lg green bell pepper, diced
 * [ ] 3 cloves garlic, minced
 * [ ] 2 tbsp tomato paste
-* [ ] 3 tbsp creole seasoning
+* [ ] 3 tbsp [cajun spice mix](../spice_mix/cajun_spice_mix.md)
 * [ ] 1 tsp salt
 * [ ] neutral oil
 * [ ] 2 cups white rice/farro, washed

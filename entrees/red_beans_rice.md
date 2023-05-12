@@ -22,7 +22,7 @@ Ingredients
 * [ ] 1 tsp dried thyme
 * [ ] 3/4 tsp dried sage
 * [ ] 1 tbsp dried parsley
-* [ ] 1 tbsp cajun seasoning
+* [ ] 1 tbsp [cajun spice mix](../spice_mix/cajun_spice_mix.md)
 * [ ] 1 tbsp chicken bouillon
 * [ ] 5 cups water
 * [ ] 1 pound dry red beans, rinsed*

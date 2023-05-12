@@ -15,7 +15,7 @@ Ingredients
 * [ ] 1 cup butter
 * [ ] 1/2 cup flour
 * [ ] 2 tbsp tomato paste
-* [ ] 1 tbsp cajun spice mix
+* [ ] 1 tbsp [cajun spice mix](../spice_mix/cajun_spice_mix.md)
 * [ ] 1/4 tsp cayanne pepper
 * [ ] 1/4 tsp black pepper
 * [ ] 2 medium onions, diced

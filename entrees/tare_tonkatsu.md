@@ -13,6 +13,7 @@ Ingredients
 ===========
 
 * [ ] 4 scoops koshihikari rice (3 cup)
+
 * [ ] 90 g water
 * [ ] 80 g hon-mirin
 * [ ] 90 g soy sauce

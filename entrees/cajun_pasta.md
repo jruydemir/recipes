@@ -11,17 +11,6 @@ Pretty delicious the first try. Going to have to expand on this.
 Ingredients
 ===========
 
-##### Spice Mix
-* [ ] 1 tbsp paprika
-* [ ] 2 tbsp smoked paprika
-* [ ] 2 tsp fine kosher salt
-* [ ] 2 tsp garlic powder
-* [ ] 1 tsp ground black pepper
-* [ ] 1/2 tbsp onion powder
-* [ ] 1/2 tbsp dried oregano
-* [ ] 1 tsp cayenne
-
-##### Main Dish
 * [ ] 1 lb. large shrimp (peeled and deveined)
 * [ ] 1 tsp spice mix
 * [ ] 2 tbsp Olive oil
@@ -29,7 +18,7 @@ Ingredients
 * [ ] 10 ounces fettuccine pasta
 * [ ] ½ yellow onion (thinly sliced)
 * [ ] 1 red bell pepper (thinly sliced)
-* [ ] 2 tbsp spice mix
+* [ ] 2 tbsp [cajun spice mix](../spice_mix/cajun_spice_mix.md) 
 * [ ] 2-3 cloves garlic (chopped)
 * [ ] 1 cup crushed tomatoes
 * [ ] 1 cup chicken broth sodium free
@@ -60,4 +49,4 @@ Preparation
 
 Notes
 =====
-Might need more spice mix.
+Might need more spice mix. But

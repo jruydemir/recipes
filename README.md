@@ -14,5 +14,6 @@ A curated list of Recipes approved/created/modified by Josh and Tarik Ruydemir.
 + [Sauces](sauces) :butter:
 + [Sides](sides) :rice:
 + [Soups](soups) :stew:
++ [Spice Mixes](spice_mix) :fire:
 
 **NOTE**: Most of our recipes begin as someone elses. I've tried to give credit where it's due.
