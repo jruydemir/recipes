@@ -17,8 +17,8 @@ Ingredients
 ===========
 
 * [ ] 300g steel cut oats
-* [ ] 7 cups water
-* [ ] 2 tbsp boullion
+* [ ] 1600g cups water
+* [ ] 60g tbsp boullion
 
 Preparation
 ===========

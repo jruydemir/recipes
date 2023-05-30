@@ -29,3 +29,9 @@ Preparation
 Notes
 =====
 
+**10 cup Concentrate**
+* 30 green cardamom pods
+* 20 cloves
+* 10 cups water
+* 1/2 cup black tea, heaping
+* 1/3 cup sugar
