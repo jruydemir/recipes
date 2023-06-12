@@ -24,7 +24,7 @@ Ingredients
 * [ ] 1 tsp salt
 * [ ] neutral oil
 * [ ] 2 cups white rice/farro, washed
-* [ ] 4 1/2 cups chicken broth
+* [ ] 5 cups chicken broth
 * [ ] 1/2 lb frozen okra
 * [ ] 3 stalks green onion, sliced
 
