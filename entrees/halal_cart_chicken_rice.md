@@ -50,7 +50,7 @@ Use either Kofte or the Kebab.
 * [ ] 3 cup basmati rice
 * [ ] 1 1/2 tsp turmeric
 * [ ] 1 tsp cumin, scant
-* [ ] 3 tbsp ghee
+* [ ] 4 tbsp ghee
 * [ ] 2 tsp salt
 * [ ] 4 cups veggie stock
 
@@ -66,8 +66,8 @@ Use either Kofte or the Kebab.
 * [ ] 2 tbsp mint, finely minced
 
 **Salad**
-* [ ] 5 medium tomatoes, seeded
-* [ ] 5 persian cucumbers
+* [ ] 6 medium tomatoes, seeded
+* [ ] 6 persian cucumbers
 * [ ] 4 green onions, sliced
 * [ ] 2 tbsp mint leaves, sliced
 * [ ] 1/2 lemon, juiced
@@ -76,11 +76,11 @@ Use either Kofte or the Kebab.
 
 Preparation
 ===========
-1. Combind all ingredients for the kofte or kebabs in a bowl. Cover and rest in fridge.
+1. Combined all ingredients for the kofte or kebabs in a bowl. Cover and rest in fridge.
 2. Rince the rice. Then in a hot pan melt the ghee. Add the drained rice, tumeric, cumin, and salt. Fry in hot pan until lightly toasted.
 3. Add rice to rice cooker with necessary ammount of broth.
 4. For the sauce, mix together all ingredients in a small bowl, cover and rest in fridge.
-5. Mix together all ingredients in bowl. Cover and rest in fridge.
+5. For the salad, mix together all ingredients in bowl. Add more lemon, oil, and salt to taste. Cover and rest in fridge.
 6. For Kofte
     1. On a baking sheet divide kofte mix into 16 pieces (~80g). Roll between hands into 6" logs, then flatten on the parchment paper. 
     2. Freeze any that you won't use today. Cook in air fryer for 10 min at 400 F. degrees. I suggest to start by cooking them on the parchment paper, remove the paper half way throught he cook, turning to brown evenly.
@@ -90,7 +90,7 @@ Preparation
 Notes
 =====
 
-This is fully still a work in progress.
+Getting very close on the purportions
 
 Does the kebab recipe need yogurt?
 
