@@ -3,7 +3,7 @@ title: Mushroom & Wild Rice Soup
 source: pinchofyum.com
 cooking time: 1 1/2 hour
 servings: 4
-tags: soup, mushroom, creamy
+tags: soup, mushroom, creamy, flawless
 category: soup
 ---
 

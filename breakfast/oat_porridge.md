@@ -3,7 +3,7 @@ title: Oat Porridge (Savory Oatmeal)
 source: ruydemir
 cooking time: 2 hours
 servings: 8 meals
-tags: mealprep, bowl, oats, healthy, breakfast, easy, cheap
+tags: mealprep, bowl, oats, healthy, breakfast, easy, cheap, flawless
 category: breakfast
 ---
 

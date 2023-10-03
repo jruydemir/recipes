@@ -3,7 +3,7 @@ title: Tare Tonkatsu
 source: Mulitple
 cooking time: 1 hour
 servings: 6
-tags: japanese, don, pork
+tags: japanese, don, pork, flawless
 category: entrees
 ---
 
@@ -40,7 +40,5 @@ Preparation
 
 Notes
 =====
-
-Still a work in progress. Might be too much rice or pork. Also hammer the pork a little bit thinner than you think it should be.
 
 https://www.youtube.com/watch?v=oWYBsPNNq_A

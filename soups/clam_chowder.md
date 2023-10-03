@@ -2,7 +2,7 @@
 title: Thicc Clam Chowder
 source: https://www.thechunkychef.com/
 img: an\_image.png
-tags: chowder, clams, feel_good
+tags: chowder, clams, feel_good, unhealthy, flawless
 category: soups
 ---
 
@@ -34,8 +34,7 @@ Preparation
 
 Notes
 =====
-
 Serve with Bread or Oyster crackers.
 A vinegarette salad also pares well with this.
 
-Not 100% on the flour yet. But I needed to add a lot of corn starch this last time to get the desired thicc-ness
+Can increase flour and broth to feed more folks.

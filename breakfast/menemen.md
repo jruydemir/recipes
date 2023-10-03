@@ -3,7 +3,7 @@ title: Menemen
 source: Adalet
 cooking time: 20 min
 servings: 4-5
-tags: turkish, egg, healthy, bread
+tags: turkish, egg, healthy, bread, flawless
 category: breakfast
 ---
 
