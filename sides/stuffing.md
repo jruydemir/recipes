@@ -3,7 +3,7 @@ title: Stuffing
 source: myself
 cooking time: 90 minutes
 servings: 10
-tags: bread, thanksgiving, american
+tags: bread, thanksgiving, casserole, tarik fav
 category: sides
 ---
 
@@ -14,14 +14,14 @@ Ingredients
 
 * [ ] 1 loaf chewey bread, diced small and dried
 * [ ] 1 cup unsalted butter
-* [ ] 2 lg onion, diced
-* [ ] 5 stalks celery, diced
+* [ ] 3 cups onion, diced
+* [ ] 2 cups celery, diced
 * [ ] 6 garlic cloves, minced
 * [ ] kosher salt and pepper
 * [ ] 2 tablespoons chopped fresh sage
 * [ ] 2 tablespoons chopped fresh oregano
-* [ ] 2 tablespoons chopped fresh rosemary
-* [ ] 4 cups chicken or vegetable stock
+* [ ] 1/4 cup chopped fresh parlsey
+* [ ] 2.5 cups chicken or vegetable stock
 * [ ] 2 large eggs
 
 Preparation
@@ -40,5 +40,6 @@ Variations
 ==========
 * Add cranberries and walnuts
 * Sausage
+* Bacon
 * Pineapple
 * Try french onion soup style with caramelized onions, beef broth, and gruyere cheese on top.
