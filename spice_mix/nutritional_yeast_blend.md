@@ -30,3 +30,4 @@ Notes
 =====
 
 Maybe more paprika? Maybe less dry mustard?
+Also calls for half tsp celery seeds, but Tarik doesn't like those
