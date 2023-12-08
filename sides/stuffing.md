@@ -36,6 +36,8 @@ Notes
 
 You can really go anywhere with this recipe, but Tarik wanted to keep it simple this year.
 
+Add an egg to a few cups of leftovers and cook in a waffle maker. Eat with gravy.
+
 Variations
 ==========
 * Add cranberries and walnuts
