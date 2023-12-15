@@ -76,3 +76,62 @@ Concerns:
 * Type of dried chiles used.
 * Too much lard?
 * Too long to steam
+
+
+---
+Experimental 
+============
+
+Trying recipes from Mexican Home Kitchen book
+
+Chicken Verde Tamales
+============
+
+* 1.5 lbs (675g) chicken breast
+* 1/2 medium onion
+* 4 cloves garlic
+* salt
+
+* 1.5 lbs (675g) tomatillos (1.75 lbs)
+* 6 serrano peppers (7 or 8? want spicier)
+* 2 cloves garlic (3)
+* salt
+
+* 1 3/4 cups (360g) lard
+* 5 cups (615g) masa
+* 1 tsp baking powder
+* 6 cups chicken broth (use cooking liquid, add boullion)
+* salt
+
+1. Cover the chicken with water, add onions, garlic and salt. Cook 40.
+2. Boil veggies 15 min. Blend  (food processor for chunks?).
+3. Whip lard well (5min). Mix Masa and cooled broth. Mix together. Should float in water.
+
+* Double chicken and sauce (1.2x sauce?)
+* you accidentally doubled the lard in this last time, it was pretty bland. My assumptions could be off.
+* maybe hatch chiles in there? Hatch chile Bonache hot sauce was soooooo good.
+
+Pork Tamales
+============
+* 1 lb (450g) pork shoulder
+* 2 cloves garlic
+* 1/4 white onion
+* 1 bay leaf
+* 1 tsp salt
+* 4 cups water
+
+* 2 dried ancho chiles, seeded
+* 3 dried guijillo chiles, seeded
+* 2 garlic cloves
+* 1/3 tsp cumin
+* 1 tbsp oil
+
+* 1 1/3 lb (275g) lard
+* 3 cups (370g) masa
+* 1 tsp baking powder
+
+* saute the chiles and garlic for a few minutes in oil add cumin. soak chiles in as little water as possible.
+* 1.5 - 2x the meat and sauce
+* could use some heat.
+
+* oxuacan cheese in these?
