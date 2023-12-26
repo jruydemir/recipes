@@ -12,28 +12,29 @@ A friend introduced us to this recipe. Been craving it ever since.
 Ingredients
 ===========
 
+* [ ] 12 cups chicken broth
+* [ ] 2 boneless skinless chicken breasts
 * [ ] 3 tablespoon olive oil
 * [ ] 8 cloves garlic, minced
 * [ ] 1 yellow onion, sliced
-* [ ] 10 cups chicken broth
-* [ ] 2 boneless skinless chicken breasts
+* [ ] 1 teaspoons crushed red pepper
 * [ ] 2 large lemon, zested
+* [ ] 2 cups pearl couscous or basmati rice
 * [ ] 1 large lemon, juiced
-* [ ] 1/2 teaspoons crushed red pepper
-* [ ] 2 cups pearl couscous
-* [ ] 2 ounces crumbled feta
-* [ ] 1/3 cup chopped chive
+* [ ] 1/3 cup chopped chive (optional)
+* [ ] 2 ounces crumbled feta (optional)
 * [ ] Salt and pepper
 
 
 Preparation
 ===========
-1. Place the olive oil in a large 6-8 quart sauce pot over medium-low heat. Once the oil is hot, saute the onion and minced garlic for 3-4 minutes to soften.
-2. Add the chicken broth, raw chicken breasts, lemon zest, and crushed red pepper to the pot. Raise the heat to high, cover, and bring to a boil. Once boiling, reduce the heat to medium, then simmer for 15 minutes. Using tongs, remove the two chicken breasts from the pot. Use a fork and the tongs to shred the chicken. Set aside.
-3. Stir in the couscous, 1 teaspoon salt, and black pepper to taste. Simmer another 10 minutes. Then turn the heat off.
-4. Then place chicken back in the pot. Stir in the crumbled feta cheese and chopped chive. Taste and salt and pepper as needed. Serve warm.
+1. In a pot add chickent and chicken broth. Bring to a boil. Lower to a simmer for 45 minutes.
+2. Place the olive oil in a large pan over high heat. Once the oil is hot, saute the onion for 3-4 minutes to soften, add garlic and crushed red pepper then saute for another 30 seconds.
+3. After the chicken has been simmering for 20 min, add onion mixture and lemon zest.
+4. After 45 minutes, check if chicken is ready by pulling apart with two forks. If it gives you much resistence pull into 4-6 large chunks and cook further checking every 5 minutes until it's easy to shread.
+5. Remove the chicken and add the couscous/rice. Simmer another 10-15 minutes until tender. 
+4. Add chicken back in the pot along with lemon juice and chive. Add salt and pepper as needed. Serve warm with feta.
 
 Notes
 =====
 
-Chicken will probably need to cook longer. 

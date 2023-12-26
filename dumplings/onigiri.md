@@ -12,7 +12,8 @@ This would be the description of the recipe. Any info or history about the recip
 Ingredients
 ===========
 
-* [ ] 
+* [ ] 3 rice scoops sushi rice
+* [ ] 2 cans tuna
 
 Preparation
 ===========
