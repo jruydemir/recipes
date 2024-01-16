@@ -29,3 +29,5 @@ Notes
 Preferrably made a few hours ahead of time to allow flavors to mix and settle.
 
 Great when served over [köfte](../entrees/kofte.md).
+
+Or this one, parsley was really good: https://www.themediterraneandish.com/tahini-sauce-recipe-how-to-make-tahini/ 

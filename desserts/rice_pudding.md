@@ -29,4 +29,4 @@ Preparation
 Notes
 =====
 
-Could be flavored with cinnamon, or anything your heart desires.
+* Could be flavored with cinnamon, or anything your heart desires.

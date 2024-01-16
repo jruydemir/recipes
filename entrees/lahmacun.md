@@ -27,7 +27,7 @@ Ingredients
 * [ ] 1 tbsp tomato paste
 * [ ] 1/4 tsp black pepper
 * [ ] 1 tsp aleppo pepper
-* [ ] 1 15oz can tomato sauce
+* [ ] 1/2 15oz can tomato sauce
 
 ##### Toppings
 * [ ] tomatoes, chopped

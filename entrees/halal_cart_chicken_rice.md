@@ -7,7 +7,7 @@ tags: mealprep, healthy, chicken
 category: entrees
 ---
 
-Been wanting to try this recipe for a while now. Turned out better than expected. Great for mealprep. 
+Been wanting to try this recipe for a while now. Turned out better than expected. Great for mealprep.
 
 Ingredients
 ===========
@@ -15,17 +15,17 @@ Ingredients
 Use either Kofte or the Kebab.
 
 **Kebab**
-* [ ] 3 lb chicken breast, cubed
-* [ ] 1 1/2 tsp garlic powder
-* [ ] 1 1/2 tsp coriander
-* [ ] 1 1/2 tsp oregano
-* [ ] 1 1/2 tsp salt
-* [ ] 1/2 scant tsp paprika
-* [ ] 1/2 scant tsp tumeric
-* [ ] 1/2 scant tsp cumin
-* [ ] 1/2 tsp pepper
-* [ ] 1 tsp lemon juice/vinegar
-* [ ] 3 tbsp olive oil
+* [ ] 4 lb chicken breast, cubed
+* [ ] 2 tsp garlic powder
+* [ ] 2 tsp coriander
+* [ ] 2 tsp oregano
+* [ ] 2 tsp salt
+* [ ] 3/4 scant tsp paprika
+* [ ] 3/4 scant tsp tumeric
+* [ ] 3/4 scant tsp cumin
+* [ ] 3/4 tsp pepper
+* [ ] 2 tsp lemon juice/vinegar
+* [ ] 4 tbsp olive oil
 
 **Kofte**
 * [ ] 2 lb ground chicken
