@@ -23,10 +23,10 @@ Ingredients
 * [ ] 1 tsp thyme
 * [ ] 2 tsp oregano
 * [ ] Salt & Pepper to taste
-* [ ] 2 cans diced tomato
+* [ ] 1 can diced tomato
 * [ ] neutral oil
 * [ ] 2 cups long grain rice/farro, washed & drained
-* [ ] 5 cups chicken broth
+* [ ] 6 cups chicken broth
 * [ ] 1 lb andoulli sausage, sliced into half moons
 * [ ] 1/2 lb frozen okra
 * [ ] 4 stalks green onion, sliced

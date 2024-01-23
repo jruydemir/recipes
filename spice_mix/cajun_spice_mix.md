@@ -18,7 +18,7 @@ Ingredients
 * [ ] 1 tsp ground white pepper
 * [ ] 1/2 tbsp onion powder
 * [ ] 1/2 tbsp dried oregano
-* [ ] 1/2 tbsp cayenne
+* [ ] 1 tsp cayenne
 
 Preparation
 ===========
