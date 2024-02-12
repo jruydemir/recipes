@@ -26,14 +26,16 @@ Ingredients
 * [ ] 1 tbsp Italian seasoning
 * [ ] 1 tsp granulated sugar
 * [ ] 1 cup chicken, or beef stock
+* [ ] Parm 
 
 Preparation
 ===========
 1. In a hot pan add the oil, saute carrot, celery, and onion for 5 minutes until tender. Add garlic.
 2. Push ingredients to a corner of the pan and brown beef. Mix together.
-3. Add remaining ingredients. Lower to a simmer and cook until reduced by about half. ~1 hour.
+3. Add remaining ingredients. Lower to a simmer and cook until reduced by about half. ~60-90 minutes. Should decently stick to the back of a spoon.
+4. Add fresh grated parm to taste. Sauce should be slightly salty.
 
-Notes
+Noteas
 =====
 
 
