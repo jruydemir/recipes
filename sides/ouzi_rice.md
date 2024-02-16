@@ -37,3 +37,4 @@ Preparation
 Notes
 =====
 
+Best when served with [braised lamb shanks](../entrees/braised_lamb_shanks.md).
