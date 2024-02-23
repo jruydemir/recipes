@@ -1,9 +1,9 @@
 ---
 title: Braised Lamb Shanks
-source: The Pantry - Palestinian Holiday Feast
+source: The Pantry - Palestinian Holiday Feast - Nadia
 cooking time: 3 hours
 servings: 4-6
-tags: arab, lamb, meat, main
+tags: arab, lamb, meat, main, class
 category: entree
 ---
 

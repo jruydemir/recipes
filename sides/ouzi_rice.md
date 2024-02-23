@@ -1,9 +1,9 @@
 ---
 title: Ouzi Rice
-source: The Pantry - Palestinian Holiday Feast
+source: The Pantry - Palestinian Holiday Feast - Nadia
 cooking time: 1 hour
 servings: 4-6
-tags: arab, palestine, side, rice
+tags: arab, palestine, side, rice, class
 category: sides
 ---
 

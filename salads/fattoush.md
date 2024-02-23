@@ -1,9 +1,9 @@
 ---
 title: Fattoush
-source: The Pantry - Palestinian Holiday Feast
+source: The Pantry - Palestinian Holiday Feast - Nadia
 cooking time: 30 min
 servings: 6
-tags: arab, palestine, salad, healthy
+tags: arab, palestine, salad, healthy, class
 category: salad
 ---
 

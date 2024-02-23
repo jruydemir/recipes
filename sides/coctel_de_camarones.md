@@ -37,4 +37,6 @@ Serve with chips.
 Notes
 =====
 
+* Worcestershire Sauce?
+* Radish slivers
 * For the shrimp, I used cooked, frozen shrimp. If you want to cook the shrimp yourself, poach in salted boiling water for 2 minutes. Cool in ice water.

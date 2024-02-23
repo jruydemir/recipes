@@ -1,9 +1,9 @@
 ---
 title: Labneh bil Joz (Labneh, walnuts, and onion dip)
-source: The Pantry - Palestinian Holiday Feast
+source: The Pantry - Palestinian Holiday Feast - Nadia
 cooking time: 30 min
 servings: 6
-tags: arab, palestine, side, dip
+tags: arab, palestine, side, dip, class
 category: sides
 ---
 

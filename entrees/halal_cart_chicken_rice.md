@@ -54,16 +54,7 @@ Use either Kofte or the Kebab.
 * [ ] 2 tsp salt
 * [ ] 4 cups veggie stock
 
-**Yogurt Sauce**
-* [ ] 3/4 cup mayo
-* [ ] 1 cup whole fat yogurt
-* [ ] 1 clove garlic, grated 
-* [ ] 1/3 cup water
-* [ ] 1 tsp salt (more?)
-* [ ] 1 tsp sugar
-* [ ] 1/2 lemon (more?)
-* [ ] 1/4 cup parsley, finely minced
-* [ ] 2 tbsp mint, finely minced
+[**Yogurt Sauce**](../sauces/halal_cart_white_sauce.md)
 
 **Salad**
 * [ ] 6 medium tomatoes, seeded
@@ -79,7 +70,7 @@ Preparation
 1. Combined all ingredients for the kofte or kebabs in a bowl. Cover and rest in fridge.
 2. Rince the rice. Then in a hot pan melt the ghee. Add the drained rice, tumeric, cumin, and salt. Fry in hot pan until lightly toasted.
 3. Add rice to rice cooker with necessary ammount of broth.
-4. For the sauce, mix together all ingredients in a small bowl, cover and rest in fridge.
+4. Make [white sauce](../sauces/halal_cart_white_sauce.md).
 5. For the salad, mix together all ingredients in bowl. Add more lemon, oil, and salt to taste. Cover and rest in fridge.
 6. For Kofte
     1. On a baking sheet divide kofte mix into 16 pieces (~80g). Roll between hands into 6" logs, then flatten on the parchment paper. 

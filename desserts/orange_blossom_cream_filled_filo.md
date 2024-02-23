@@ -1,9 +1,9 @@
 ---
 title: Warbat bil Qashta (Filo Pastries with Orange Blossom Cream)
-source: The Pantry - Palestinian Holiday Feast
+source: The Pantry - Palestinian Holiday Feast - Nadia
 cooking time: 1 hour
 servings: 24
-tags: arab, palestine, sweet, filo, dessert
+tags: arab, palestine, sweet, filo, dessert, class
 category: dessert
 ---
 
