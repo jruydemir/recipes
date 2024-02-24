@@ -4,7 +4,7 @@ source: Everywhere
 cooking time: 1 hour
 servings: 10
 tags: potato, cold, hot, smooth
-category: soup
+category: soups
 ---
 
 Served hot or cold, this soup is simple but delicious. Serve with crusty bread.

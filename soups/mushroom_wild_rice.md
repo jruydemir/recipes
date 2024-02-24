@@ -4,7 +4,7 @@ source: pinchofyum.com
 cooking time: 1 1/2 hour
 servings: 4
 tags: soup, mushroom, creamy, flawless
-category: soup
+category: soups
 ---
 
 A friend of a friend brought us this recipe, and Tarik fell in love with it. Pro Tip: Do not use any version of normal rice in this recipe.

@@ -1,7 +1,8 @@
 ---
 title: Hungarian Mushroom Soup
 source: Multiple
-img: N/A
+cooking time: 1 hour
+servings: 8
 tags: soup, mushrooms, cream, paprika
 category: soups
 ---

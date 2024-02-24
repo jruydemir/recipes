@@ -4,7 +4,7 @@ source: Polo-san
 cooking time: 90 minutes
 servings: 6
 tags: beef, japanese, soup, cozy, healthy
-category: soup
+category: soups
 ---
 
 Effectivly this give the same cozy feeling as beef stew. However it's so much better.

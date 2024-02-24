@@ -1,7 +1,8 @@
 ---
 title: Healthy Pesto
 source: Inspired by https://pinchofyum.com/healthy-baked-pesto-rigatoni
-img:
+cooking time: 20 min
+servings: 4-5
 tags: pesto, basil, italian, sauce, nuts
 category: sauces
 ---

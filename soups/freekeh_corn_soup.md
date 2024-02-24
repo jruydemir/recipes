@@ -4,7 +4,7 @@ source: The Pantry - Arab Comfort Food - Nadia
 cooking time: 1 hour
 servings: 6
 tags: arab, class, freekeh, corn, vegetarian
-category: soup
+category: soups
 ---
 
 Oh man this soup is good. Creamy, smokey, sweet. This is a great soup.

@@ -1,7 +1,8 @@
 ---
 title: Leek & Potato Gratin
 source: https://www.recipetineats.com/potatoes-au-gratin/
-img:
+cooking time: 10 min
+servings: 8
 tags: potato, thanksgiving, unhealthy, delishous
 category: Sides
 ---

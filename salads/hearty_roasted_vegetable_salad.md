@@ -1,9 +1,9 @@
 ---
 title: Hearty Roasted Vegetable Salad
 source: Tasty
-img:
-tags: beets, healthy, salad, balsamic
+cooking time: 20 min
 servings: 4-6
+tags: beets, healthy, leafy, balsamic
 category: Salads
 ---
 

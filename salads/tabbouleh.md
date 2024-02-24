@@ -3,7 +3,7 @@ title: Tabbouleh
 source: Zaatoun
 cooking time: 30 min
 servings: 6
-tags: arab, lemon, salad
+tags: arab, lemon, healthy, vegetarian, vegan
 category: Salad
 ---
 

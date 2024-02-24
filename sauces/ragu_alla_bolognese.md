@@ -1,7 +1,8 @@
 ---
 title: Ragu alla Bolognese
 source: Can't remember
-img:
+cooking time: 3 hours
+servings: 8
 tags: sauces, healthy, hearty
 category: sauces
 ---

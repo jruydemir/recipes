@@ -1,7 +1,8 @@
 ---
 title: Vodka Sauce
 source: dunno
-img:
+cooking time: 10 min
+servings: 8
 tags: sauce, tomato, pasta
 category: sauces
 ---

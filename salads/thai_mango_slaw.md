@@ -1,10 +1,10 @@
 ---
 title: Thai Mango Slaw
 source: Bee
-cooking time:
-servings:
-tags: any, tags, for, this, recipe
-category: dessert
+cooking time: 30 min
+servings: 
+tags: thai, healhy, vegetarian, vegan, mango
+category: salad
 ---
 
 This would be the description of the recipe. Any info or history about the recipe goes here

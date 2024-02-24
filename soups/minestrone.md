@@ -1,9 +1,10 @@
 ---
 title: Minestrone
 source: Experimentation
-img:
+cooking time: 1 hour
+servings: 8
 tags: soup, italian
-category: Entree
+category: soups
 ---
 
 

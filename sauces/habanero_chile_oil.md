@@ -1,7 +1,8 @@
 ---
 title: Habanero Chile Oil
 source: Pomodoro
-img:
+cooking time: 20 min
+servings: 20
 tags: spicy, oil, italian
 category: Sauces
 ---

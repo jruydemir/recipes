@@ -1,7 +1,8 @@
 ---
 title: Yellow Taco Sauce
 source: La Capital
-img:
+cooking time: 10 min
+servings: 8
 tags: mexican, sauce, spicy
 category: sauces
 ---

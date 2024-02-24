@@ -4,7 +4,7 @@ source: Maangchi
 cooking time: 2 hours
 servings: 6
 tags: korean, stew, kimchi, spicy
-category: dessert
+category: soups
 ---
 
 Again, not entirely traditional, but very tasty.

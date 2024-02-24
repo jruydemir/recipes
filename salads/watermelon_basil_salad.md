@@ -1,7 +1,8 @@
 ---
 title: Watermelon Basil Salad
 source: Recipe's source
-img: an\_image.png
+cooking time: 30 min
+servings: 4-5
 tags: any, tags, for, this, recipe
 category: dessert
 ---

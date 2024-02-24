@@ -1,7 +1,8 @@
 ---
 title: Perfect Protein Salad
 source: PCC
-img:
+cooking time: 30 min
+servings: 4-5
 tags: salad, healthy, spring
 category: salads
 ---

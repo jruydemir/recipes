@@ -4,7 +4,7 @@ source: America's Test Kitchen
 cooking time: 30 minutes
 servings: 20
 tags: sauce, spicy, spanish
-category: sauce
+category: sauces
 ---
 
 This stuff is crack, hands down just put it on anything.

@@ -1,7 +1,8 @@
 ---
 title: Classic Potato Salad
 source: https://www.aspicyperspective.com/make-best-potato-salad-recipe/
-img: N/A
+cooking time: 60 min
+servings: 8
 tags: american, potato, summer
 category: salads
 ---

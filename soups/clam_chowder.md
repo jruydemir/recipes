@@ -1,7 +1,8 @@
 ---
 title: Thicc Clam Chowder
 source: https://www.thechunkychef.com/
-img: an\_image.png
+cooking time: 1 hour
+servings: 8
 tags: chowder, clams, feel_good, unhealthy, flawless
 category: soups
 ---

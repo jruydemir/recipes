@@ -1,7 +1,8 @@
 ---
 title: Harissa
 source: Various
-img: N/A
+cooking time: 20 min
+servings: 4-5
 tags: moroccan, sauce, spice
 category: sauces
 ---

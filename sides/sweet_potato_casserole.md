@@ -1,7 +1,8 @@
 ---
 title: Sweet Potato Casserole
 source: food.com
-img: N/A
+cooking time: 10 min
+servings: 8
 tags: thanksgiving
 category: Sides
 ---

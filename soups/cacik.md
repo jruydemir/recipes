@@ -4,7 +4,7 @@ source: Ruydemir
 cooking time: 15 minutes
 servings: 8
 tags: soup, cold, turkish
-category: soup
+category: soups
 ---
 
 Super common side dish in Turkye.

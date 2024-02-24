@@ -1,9 +1,10 @@
 ---
 title: Egg Drop Soup
 source: https://www.allrecipes.com/recipe/199091/one-egg-egg-drop-soup/
-img:
+cooking time: 30 min
+servings: 4
 tags: asian, egg, sick
-category: Soups
+category: soups
 ---
 
 This is a work in progress
