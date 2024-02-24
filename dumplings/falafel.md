@@ -3,8 +3,8 @@ title: Falafel
 source: Originally Falastin Cookbook
 cooking time: 30
 servings: 4
-tags: arab, vegan, fried, chickpeas, balls
-category: entree
+tags: arab, vegan, fried, chickpeas
+category: dumpling
 ---
 
 Ingredients

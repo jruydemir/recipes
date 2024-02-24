@@ -7,7 +7,7 @@ tags: mediterranean, vegan, vegetarian, chickpeas, tahini
 category: entree
 ---
 
-Surprisingly filling and delicious. You won't even miss meat.
+Surprisingly filling and delicious. You won't even miss meat. Not authentic
 
 Ingredients
 ===========

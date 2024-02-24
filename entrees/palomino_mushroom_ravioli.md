@@ -2,7 +2,7 @@
 title: Palomino's Mushroom Ravioli
 source: Best Guess
 img:
-tags: entree, pasta, mushroom
+tags: italian, pasta, mushroom
 category: entrees
 ---
 

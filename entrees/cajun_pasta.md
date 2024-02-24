@@ -6,7 +6,7 @@ tags: cajun, pasta, spicy
 category: entrees
 ---
 
-Pretty delicious the first try. Going to have to expand on this.
+Not authenic in the slightest. But its pretty delicious.
 
 Ingredients
 ===========

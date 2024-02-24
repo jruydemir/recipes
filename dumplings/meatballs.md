@@ -1,10 +1,10 @@
 ---
 title: Meatballs
-source: jruydemir
+source: ruydemir
 cooking time: 1 hour
 servings: 8
 tags: meat, italian
-category: entree
+category: dumpling
 ---
 
 These are a great thing to make ahead and have an easy meal later. I usually double this recipe and freeze the meatballs. They only need about 10-15 min to cook.

@@ -2,7 +2,7 @@
 title: Restaurant Style Chow Mein
 source: Allrecipes I think?
 img:
-tags: chinese, entree, noodles
+tags: chinese, easy, noodles
 category: Entree
 ---
 

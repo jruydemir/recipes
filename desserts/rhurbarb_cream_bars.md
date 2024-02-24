@@ -1,7 +1,8 @@
 ---
 title: Rhurbarb Cream Bars
 source: Madmoiselle Karina
-img: N/A
+cooking time: 1 hour
+servings: 10
 tags: spring, dessert
 category: dessert
 ---

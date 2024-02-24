@@ -4,7 +4,7 @@ source: seasonsandsuppers.ca
 cooking time: 1 hour
 servings: 6
 tags: canadian, fries, gravy
-category: dessert
+category: entrees
 ---
 
 We had a potluck where the theme was hangover food. Thought this would be perfect. Not healthy, but oh so good.

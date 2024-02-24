@@ -3,7 +3,7 @@ title: Arayes
 source: The Pantry - Arab Comfort Food - Nadia
 cooking time: 30 min
 servings: 6
-tags: arab, class
+tags: arab, class, bbq
 category: dumplings
 ---
 

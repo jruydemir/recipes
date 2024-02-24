@@ -3,7 +3,7 @@ title: Hot Wings
 source: Myself
 cooking time: 40 minutes
 servings: 2
-tags: spicy, appetizer, chicken
+tags: spicy, appetizer, chicken, wings
 category: Entrees
 ---
 

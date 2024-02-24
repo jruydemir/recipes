@@ -1,7 +1,8 @@
 ---
 title: Ube Roll
 source: https://www.youtube.com/watch?v=7pkle3lmMj8
-img: N/A
+cooking time: 90 min
+servings: 8
 tags: ube, cake, swiss roll
 category: dessert
 ---

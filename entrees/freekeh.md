@@ -3,7 +3,7 @@ title: Freekeh
 source: Adalet
 cooking time: 2 hours
 servings: 8
-tags: arab, chicken, nuts
+tags: arab, chicken, nuts, freekeh
 category: entrees
 ---
 

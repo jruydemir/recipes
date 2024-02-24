@@ -1,10 +1,10 @@
 ---
 title: Gnocchi alla Sorrentina
 source: Serious Eats
-cooking time:
-servings:
-tags: any, tags, for, this, recipe
-category: dessert
+cooking time: 30 min
+servings: 2-4
+tags: easy, italian, vegetarian
+category: entree
 ---
 
 Took this from trader joes frozen meal of the same name. It's so good and so simple to make. 

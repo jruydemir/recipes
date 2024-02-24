@@ -2,7 +2,7 @@
 title: Lahmacun
 source: Kinda on the fly
 img:
-tags: Turkish, Middle Eastern, healthy
+tags: turkish, healthy, bread
 category: entree
 ---
 

@@ -3,7 +3,7 @@ title: Chinese Braised Pork Belly
 source: Polo
 cooking time: 3 hours
 servings: 4
-tags: chinese, pork, tender, rice
+tags: chinese, pork, rice, braised
 category: entrees
 ---
 

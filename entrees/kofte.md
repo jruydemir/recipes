@@ -3,7 +3,7 @@ title: Köfte
 source: ruydemir
 cooking time: 1 hour
 servings: 8
-tags: meat, italian
+tags: meat, arab, bbq
 category: entree
 ---
 

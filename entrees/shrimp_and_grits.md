@@ -2,8 +2,8 @@
 title: Shrimp & Grits
 source: https://www.simplyrecipes.com/recipes/shrimp_and_grits/
 img:
-tags: southern food, shrimp, cheese
-category: Entree
+tags: cajun, shrimp, cheese
+category: entrees
 ---
 
 Surprisingly delicious.

@@ -1,7 +1,8 @@
 ---
 title: Chocolate Birthday Cake
 source: https://www.bonappetit.com/recipe/easiest-chocolate-birthday-cake
-img:
+cooking time: 1 hour
+servings: 10
 tags: cake, chocolate, tarik
 category: dessert
 ---

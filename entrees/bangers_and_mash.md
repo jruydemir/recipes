@@ -3,7 +3,7 @@ title: Bangers and Mach
 source: 
 cooking time: 1 hour
 servings: 4
-tags: quick, easy, entree
+tags: english, sausage
 category: entree
 ---
 

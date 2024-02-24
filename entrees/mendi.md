@@ -3,7 +3,7 @@ title: Mendi
 source: breakingbreadwithbayan
 cooking time: 6 hours
 servings: 10
-tags: arab, yemeni, lamb, 
+tags: arab, yemeni, lamb, rice
 category: entree
 ---
 

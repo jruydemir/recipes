@@ -3,7 +3,7 @@ title: Lentil Chili over Sweet Potatos
 source: Mixed
 cooking time: 2 hours
 servings: 8-10
-tags: lentils, healthy, mealprep, vegetarian
+tags: lentils, healthy, mealprep
 category: entrees
 ---
 

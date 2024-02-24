@@ -1,7 +1,8 @@
 ---
 title: Basic Pizzelles
 source: the Wilson family
-img: N/A
+cooking time: 1 hour
+servings: 10
 tags: dessert, italian, cookie
 category: dessert
 ---

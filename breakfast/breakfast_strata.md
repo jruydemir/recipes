@@ -1,9 +1,10 @@
 ---
 title: Breakfast Strata Lorraine
-source:
-img: an\_image.png
-tags: any, tags, for, this, recipe
-category: dessert
+source: ruydemir
+cooking time: 2 hours
+servings: 8
+tags: bread, bacon, casserole
+category: breakfast
 ---
 
 This would be the description of the recipe. Any info or history about the recipe goes here

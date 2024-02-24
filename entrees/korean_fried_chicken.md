@@ -3,7 +3,7 @@ title: Kkanpunggi - Korean Spicy Garlic Fried Chicken
 source: https://www.maangchi.com/recipe/kkanpunggi
 cooking time: 1 hour
 servings: 2-3
-tags: spicy, fried, korean
+tags: spicy, fried, korean, chicken
 category: Entrees
 ---
 

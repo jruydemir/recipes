@@ -3,7 +3,7 @@ title: Cold Soba Noodles
 source: foodiecrush.com
 cooking time: 20 min
 servings: 3
-tags: sesame, asian, delicious
+tags: sesame, japanese, easy, vegetarian
 category: entrees
 ---
 

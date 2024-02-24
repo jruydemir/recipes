@@ -1,7 +1,8 @@
 ---
 title: Oatmeal Cookies
 source: Madmoiselle Karina
-img: N/A
+cooking time: 1 hour min
+servings: 12
 tags: cookies, dried fruits
 category: dessert
 ---

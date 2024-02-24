@@ -1,7 +1,8 @@
 ---
 title: Sour Cream Coffee Cake
 source: Madmoiselle Karina
-img: N/A
+cooking time: 90 min
+servings: 10
 tags: bundt, berries, cake
 category: dessert
 ---
