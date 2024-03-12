@@ -37,4 +37,6 @@ Preparation
 Notes
 =====
 
+Using 2/3 the spice mix. It's better.
+
 Best when served with [braised lamb shanks](../entrees/braised_lamb_shanks.md).

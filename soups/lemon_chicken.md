@@ -20,7 +20,7 @@ Ingredients
 * [ ] 1 teaspoons crushed red pepper
 * [ ] 2 large lemon, zested
 * [ ] 2 cups pearl couscous or basmati rice
-* [ ] 1 large lemon, juiced
+* [ ] 1 1/2 large lemon, juiced
 * [ ] 1/3 cup chopped chive (optional)
 * [ ] 2 ounces crumbled feta (optional)
 * [ ] Salt and pepper

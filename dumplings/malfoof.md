@@ -14,11 +14,9 @@ Ingredients
 
 * [ ] 2 Large heads of Cabbage
 * [ ] 3 cups short or med grain Rice
-* [ ] 1 1/2 tsp Tumeric
-* [ ] 1 1/2 tsp Cumin
-* [ ] 1 1/2 tsp Pepper
+* [ ] 1 tbsp Cumin
+* [ ] 1/2 tsp Pepper
 * [ ] 1 tsp Aleppo Pepper
-* [ ] 5 tsp 7 Spice
 * [ ] 3 tsp Salt
 * [ ] 1/2 Onion, Minced
 * [ ] 20 Cloves Garlic
@@ -64,6 +62,4 @@ Preparation
 Notes
 =====
 
-Want to try different filling recipe. I feel it could be better.
-
-You can change out cabbage for grape leaves.
+Apparently don't cook this with tomato. Lemon and Garlic

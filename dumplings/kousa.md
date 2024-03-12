@@ -15,8 +15,9 @@ Ingredients
 
 * [ ] 1 tbsp olive oil
 * [ ] 1/4 large onion, minced
+* [ ] 1 tomato seeded, minced
 * [ ] 1 pound ground beef, 80/20
-* [ ] 1 tsp 7 Spice
+* [ ] 1 1/2 tsp 7 Spice (Adalet just uses cumin here)
 * [ ] 1 tsp salt 
 * [ ] 1/4 tsp black pepper
 * [ ] 1 1/2 cups long grain white rice
@@ -40,4 +41,6 @@ Preparation
 
 Notes
 =====
-Apparently you can top off the squash with a chunk of tomato before stewing. 
+Can be cooked with lamb chops.
+
+Cook with tomato, not lemon.

@@ -44,3 +44,4 @@ Preparation
 Notes
 =====
 
+Made with Beef shanks when I couldn't find lamb. Delicious
