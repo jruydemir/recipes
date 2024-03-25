@@ -16,9 +16,11 @@ Ingredients
 * [ ] 2 tbsp neutral oil
 * [ ] 1 medium onion, diced
 * [ ] 2 garlic cloves, sliced
-* [ ] 500g roma tomatoes, diced
-* [ ] 2 tbsp parsley
+* [ ] 4 roma tomatoes, diced
 * [ ] 2 chipotle peppers in adobo sauce
+* [ ] 2 tbsp parsley
+* [ ] 1 tsp oregano
+* [ ] 1/2 tsp cumin
 
 Preparation
 ===========
@@ -26,7 +28,7 @@ Preparation
 
 2. In pan, add the onion, cook for 4 minutes, add garlic and cook for another minute.
 
-3. Add tomatoes and cook for 10 minutes. Add veggies to blender, as well as chipotle and parsley. Blend until smooth. 
+3. Add tomatoes and cook for 10 minutes. Add veggies to blender, as well as chipotle, parsley, oregano, and cumin. Blend until smooth. 
 
 4. Add sauce back to pan, head over medium, add 1/2 cup of remaining chicken broth at a time. Mixing in and allow to reduce back to orignal amount. Repeat until all chicken broth is used.
 
