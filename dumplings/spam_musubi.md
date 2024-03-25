@@ -66,3 +66,5 @@ Notes
 =====
 
 * You can also serve this, deconstructed as an easy breakfast.
+
+* Sauce goes well with Salmon over a bowl of rice w/ a acid veg.

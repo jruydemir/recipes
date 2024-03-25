@@ -7,7 +7,7 @@ tags: arab, palestine, side, rice, class
 category: sides
 ---
 
-Learned this in a cooking class recently. Simple and Delicious.
+Learned this in a cooking class recently. Simple and Delicious. Can also be made **plain** without spices, veggies, and nuts
 
 Ingredients
 ===========
