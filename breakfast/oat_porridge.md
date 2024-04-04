@@ -2,7 +2,7 @@
 title: Oat Porridge (Savory Oatmeal)
 source: ruydemir
 cooking time: 2 hours
-servings: 8 meals
+servings: 16 servings
 tags: mealprep, bowl, oats, healthy, breakfast, easy, cheap, flawless
 category: breakfast
 ---
@@ -22,11 +22,14 @@ Ingredients
 
 Preparation
 ===========
-1. Mix all three in your rice cooker, cook on porridge setting until it's a the desired consistency.
+#### Pressure Cooker
+1. Mix all ingredients in your rice cooker, pressure cook for 11 minutes and let depressure naturally.
+2. Mix well & store in a sealed container. You've got breakfast for two weeks
 
-2. Store in a sealed container. You've got food all week.
+#### Stovetop
+1. Add water and boullion to pot and bring to a boil. Add oats, lower heat, and cover. Stir occasionally for 20-30 minutes or longer until tender.
 
 Notes
 =====
 
-
+* If you really just want sweet oats follow the same instructions but omit the boullion. Sub half the water for milk. Add sugar or other sweet ingredients at the end.
