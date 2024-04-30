@@ -14,7 +14,7 @@ Ingredients
 
 * [ ] 2 tbsp evoo
 * [ ] 1 lb. large shrimp, peeled, deveined, sliced in half long way
-* [ ] 6 oz andouille sausage or smoked sausage, sliced
+* [ ] 6 oz andouille sausage or smoked sausage, sliced (optional)
 * [ ] 1 lb fettuccine pasta
 * [ ] 1/2 yellow onion, sliced
 * [ ] 1 red/green bell pepper, sliced

@@ -2,7 +2,7 @@
 title: Köfte
 source: ruydemir
 cooking time: 1 hour
-servings: 8
+servings: 4
 tags: meat, arab, bbq
 category: entree
 ---
@@ -12,22 +12,20 @@ category: entree
 Ingredients
 ===========
 
-* [ ] 1 large yellow onion, coursely chopped
+* [ ] 2 medium yellow onion, coursely chopped
 * [ ] 1 bunch parsley, coursely chopped
 * [ ] 3 cloves garlic, coursely chopped
-* [ ] 2 lb ground beef, 20% fat
-* [ ] 1 lg egg
-* [ ] 1 tsp 7 spice
-* [ ] 1 tsp cinnamon
-* [ ] 1 tsp cardamom
+* [ ] 1 lb ground beef, 20% fat
+* [ ] 1 lb ground lamb, 20% fat
+* [ ] 1/4 tsp 7 spice
 * [ ] 1/4 tsp fresh ground black pepper
-* [ ] 1 1/4 tsp salt
+* [ ] 1 1/2 tsp salt
 * [ ] pinch msg
 
 Preparation
 ===========
 1. In a food processor, mince chopped onion. Scrape sides several times. Squeeze out excess onion juices. Add parsley and garlic, and continue to mince veggies.
-2. In a large mixing bowl add beef, minced aromatics, and all remaining ingredients. Mix by hand until homogenous. Cover and let sit in fridge for 20 minutes.
+2. In a large mixing bowl add beef, minced aromatics, and all remaining ingredients. Mix by hand until tacky. You want ot overmix here to get it to stick to the kabab. Cover and let sit in fridge for 20 minutes.
 3. Form into designated shape and grill at around 500 degrees.
 
 Notes
