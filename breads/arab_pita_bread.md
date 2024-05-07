@@ -12,7 +12,7 @@ Learned this in class. It was tender and tasted amazing.
 Ingredients
 ===========
 
-* [ ] 1 1/2 tsp dry active yeast
+* [ ] 1 tsp dry active yeast, extra 1/2 tsp if in a hurry
 * [ ] 1 tsp sugar
 * [ ] 1 1/3 cup lukewarm water
 * [ ] 500 g ap flour

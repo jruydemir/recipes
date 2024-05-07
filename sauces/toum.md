@@ -1,7 +1,7 @@
 ---
 title: Toum
 source: Family
-cooking time: 15 min
+cooking time: 30 min
 servings: 6
 tags: lebanese, garic, vegan, best, sauces
 category: sauces
@@ -15,7 +15,7 @@ Ingredients
 * [ ] 1/2 cup garlic cloves, peeled
 * [ ] 1 teaspoon kosher salt
 * [ ] 3 tablespoons fresh lemon juice
-* [ ] 1 1/2 cups neutral oil (sunflower, vegetable, canola, etc.)
+* [ ] 1 cups neutral oil (sunflower, vegetable, canola, etc.)
 
 Preparation
 ===========
