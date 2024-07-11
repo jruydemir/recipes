@@ -18,18 +18,18 @@ Ingredients
 * [ ] 2 tbsp pomegranate molasses
 * [ ] 1/4 cup evoo
 * [ ] 1/2 onion, grated
-* [ ] 2 tbsp tomato paste
-* [ ] 2 tbsp red pepper paste
-* [ ] 1 tsp alepo pepper
+* [ ] 1 1/2 tbsp tomato paste
+* [ ] 1 1/2 tbsp red pepper paste
+* [ ] 1 tsp aleppo pepper
 * [ ] 1 tsp salt
 * [ ] 1/4 tsp cumin
 * [ ] 1/4 tsp pepper 
-* [ ] 1/2 bunch parsley, minced
+* [ ] 1/3 bunch parsley, minced
 * [ ] 3 stalks green onion, minced
 
 * [ ] 1 head romaine lettuce
 * [ ] 1 tomato, diced
-* [ ] 1 persan cucumber, julienned
+* [ ] 1 persian cucumber, julienned
 
 
 Preparation
