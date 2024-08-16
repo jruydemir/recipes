@@ -39,3 +39,7 @@ Preparation
 
 Notes
 =====
+* Great served with basmati rice
+* Can add a few thai chilies with the ginger for some heat
+* Tried with soaked dry chickpeas. Needs to cook for over an hour but was also great
+* Accidentally over cooked the kale, and it's surprisingly good
