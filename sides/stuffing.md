@@ -14,12 +14,12 @@ Ingredients
 
 * [ ] 1 loaf chewey bread, diced small and dried
 * [ ] 1 cup unsalted butter
-* [ ] 3 cups onion, diced
+* [ ] 3 cups onion, diced (dont do too much)
 * [ ] 2 cups celery, diced
 * [ ] 6 garlic cloves, minced
 * [ ] kosher salt and pepper
-* [ ] 2 tablespoons chopped fresh sage
-* [ ] 2 tablespoons chopped fresh oregano
+* [ ] 2 tablespoons chopped **fresh** sage
+* [ ] 2 tablespoons chopped **fresh** oregano
 * [ ] 1/4 cup chopped fresh parlsey
 * [ ] 2.5 cups chicken or vegetable stock
 * [ ] 2 large eggs
