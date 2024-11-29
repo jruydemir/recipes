@@ -20,12 +20,12 @@ CASSEROLE
 * [ ] 10 tbsp butter
 * [ ] 8 cloves garlic, minced
 * [ ] 16 oz cremini mushrooms, sliced
-* [ ] 1 teaspoon salt
-* [ ] 1 teaspoon pepper
-* [ ] 1/4 cup spice mix
-* [ ] 90g all-purpose flour
-* [ ] 4 cups broth
-* [ ] 4 cups half & half
+* [ ] 1/2 tsp salt
+* [ ] 1/2 tsp pepper
+* [ ] 2 tbsp spice mix
+* [ ] 55g all-purpose flour
+* [ ] 2 cups broth
+* [ ] 2 cups half & half
 * [ ] 2 tbsp sherry vinegar
 
 * [ ] 1 large onion, sliced (alton uses 1.2 kg)
