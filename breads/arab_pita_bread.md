@@ -37,3 +37,4 @@ Notes
 =====
 
 * If bread isn't splitting, look for steam coming out a hole in the bread. Cover the hole. The bread might split. But sometimes it still doesn't. Can't help it.
+* Used 1/3 milk and 2/3 water and 20% whole wheat flour. Needed some extra water but it was GREAT.
