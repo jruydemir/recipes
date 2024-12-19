@@ -3,7 +3,7 @@ title: Spiced Chickpea Stew With Coconut and Turmeric
 source:  Alison Roman @ New York Times
 cooking time: 1 hour
 servings: 6
-tags: chickpea, vegan, soup
+tags: chickpea, vegan, soup, flawless
 category: soups
 ---
 

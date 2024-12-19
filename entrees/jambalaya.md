@@ -3,7 +3,7 @@ title: Jambalaya
 source: Many
 cooking time: 1 hour
 servings: 12
-tags: cajun, rice, bowl, easy, mealprep
+tags: cajun, rice_dish, bowl, easy, mealprep
 category: entree
 ---
 

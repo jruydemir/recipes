@@ -1,9 +1,9 @@
 ---
 title: Turkish Meat Stew
-source: Recipe's source
+source: Özdemir
 cooking time: 2 hours
-servings: 6-8
-tags: turkish, beef
+servings: 8
+tags: turkish, beef, mushroom, flawless
 category: entree
 ---
 

@@ -16,4 +16,9 @@ A curated list of Recipes approved/created/modified by Josh and Tarik Ruydemir.
 + [Soups](soups) :stew:
 + [Spice Mixes](spice_mix) :fire:
 
-**NOTE**: Most of our recipes begin as someone elses. I've tried to give credit where it's due.
+## Special
++ [Thanksgiving](thanksgiving) :fallen_leaf:
+
+## NOTE: 
+* Most of our recipes begin as someone elses. I've tried to give credit where it's due.
+* Recipes tagged `flawless` are concidered finished for now.
