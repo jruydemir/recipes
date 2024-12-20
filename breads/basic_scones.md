@@ -23,7 +23,7 @@ Ingredients
 
 Preparation
 ===========
-1. Combind flour, sugar, baking powder, baking soda, and salt. Add butter and combined until a sandy mixture.
+1. Combined flour, sugar, baking powder, baking soda, and salt. Add butter and combined until a sandy mixture.
 2. In small bowl mix cream, yolk, and vanilla.
 3. Fold wet ingredients into dry.
 4. Gently fold together. Then gently knead on counter.
@@ -33,6 +33,6 @@ Preparation
 Notes
 =====
 
-* Blueberry, cardimom
+* Blueberry, cardamom
 * poppy seed, lemon
 * Raspberry, orange peel

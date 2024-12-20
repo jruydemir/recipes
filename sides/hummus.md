@@ -31,7 +31,7 @@ Preparation
 
 4. Now to get rid of the husks. Stir the chickpeas gently, and pour off the water. This should flush out a lot of the husks. Refill with water, stir, and pour off again. Repeat until you're satisfied. The less husk that remain the smoother the hummus will come out.
 
-5. You should have roughly 600g now. Place the chickpeasm garlic, lemon juice, and salt in a food processor bowl. Blend until you get a stiff paste. 
+5. You should have roughly 600g now. Place the chickpeas, garlic, lemon juice, and salt in a food processor bowl. Blend until you get a stiff paste. 
 
 6. With the machine still running, add the tahini paste. Finally, slowly drizzle ice & water and allow it to mix until you get a very smooth and creamy paste. Taste a small bit and adjust salt, lemon, and water to your preference.
 

@@ -27,7 +27,7 @@ Ingredients
 * [ ] neutral oil
 * [ ] 2 cups long grain rice/farro, washed & drained
 * [ ] 6 cups chicken broth
-* [ ] 1 lb andoulli sausage, sliced into half moons
+* [ ] 1 lb andouille sausage, sliced into half moons
 * [ ] 1/2 lb frozen okra
 * [ ] 4 stalks green onion, sliced
 

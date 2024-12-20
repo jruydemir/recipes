@@ -37,7 +37,7 @@ Preparation
 4. Melt butter and add mushrooms brown mushrooms well. Add spice mix, salt, pepper.
 5. Make roux. Add stock, half & half. Heat to form gravy.
 6. Pour gravy into green beans. Mix well place in baking dish.
-5. Coat onions in flour, dust excess off. Fry until cripy and brown.
+5. Coat onions in flour, dust excess off. Fry until crispy and brown.
 6. Mix half of fried onions into casserole, sprinkle other half over the top.
 9. Bake for 30 minutes at 350F
 

@@ -24,7 +24,7 @@ Preparation
 ===========
 1. Mix together labneh and yogurt until smooth.
 2. Add onions, walnuts, parsley and salt. Mix together well.
-3. Refridgerate for 30 minutes. 
+3. Refrigerate for 30 minutes. 
 4. Serve with a drizzle of olive oil. Eat with bread or just on it's own.
 
 Notes

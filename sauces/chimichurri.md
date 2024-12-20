@@ -7,7 +7,7 @@ tags: latin, meat, marinade
 category: sauces
 ---
 
-Quite a delicous chimmichurri recipe. it's an amazing recipe for flank or skirt steak.
+Quite a delicious chimmichurri recipe. it's an amazing recipe for flank or skirt steak.
 
 Ingredients
 ===========

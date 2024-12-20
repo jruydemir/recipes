@@ -25,7 +25,7 @@ Preparation
 2. Add vanilla & anise. Mix well again scraping sides.
 3. Add flour, slowly mixing until consistent.
 4. Pour dough onto flat surface. Form into log about the diameter of a half dollar. Wrap in plastic wrap. Chill for a minimum of 30 minutes.
-5. Preheat oven to 350. Line a baking sheet with parchement paper. Using a sharp knive cut the logs into disk about the width of a pen.
+5. Preheat oven to 350. Line a baking sheet with parchment paper. Using a sharp knife cut the logs into disk about the width of a pen.
 6. Bake for 12 minutes. Top of cookies should be dry and slightly domed. Edges should just be starting to brown.
 
 Notes

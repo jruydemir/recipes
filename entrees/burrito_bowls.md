@@ -13,9 +13,9 @@ Ingredients
 ===========
 
 ##### Rice
-* [ ] 3 cups brown rice, rinced
+* [ ] 3 cups brown rice, rinsed
 * [ ] 4 cups water (do the finger trick)
-* [ ] 1 1/2 tbsp boullion
+* [ ] 1 1/2 tbsp bouillon
 * [ ] 1 lime, juiced
 * [ ] 1/2 bunch cilantro, minced
 * [ ] salt to taste
@@ -34,10 +34,10 @@ Ingredients
 * [ ] 1 tsp cumin
 * [ ] 1 tsp chile powder
 * [ ] 1/4 tsp ground pepper
-* [ ] 1 can sweet corn, rinced
-* [ ] 1 can black beans, rinced
-* [ ] 1 can chickpeas, rinced
-* [ ] 1 can sliced olives, rinced
+* [ ] 1 can sweet corn, rinsed
+* [ ] 1 can black beans, rinsed
+* [ ] 1 can chickpeas, rinsed
+* [ ] 1 can sliced olives, rinsed
 * [ ] salt to taste
 
 ##### Toppings
@@ -47,7 +47,7 @@ Ingredients
 Preparation
 ===========
 ##### Rice
-In a hot pan, fry rice for a few minutes until you see some browning on the some of the kernels. Add to rice cooker with water and boullion. Mix a little. Cook in rice cooker on proper rice settings.
+In a hot pan, fry rice for a few minutes until you see some browning on the some of the kernels. Add to rice cooker with water and bouillon. Mix a little. Cook in rice cooker on proper rice settings.
 
 When done, add lime and cilantro. Store in sealed container, in fridge.
 
@@ -60,7 +60,7 @@ In a hot pan, cook ground chicken with chipotle, adobo, and spices. Fully cook. 
 Remove from heat, add remaining canned ingredients. Mix well. Store in sealed container in fridge.
 
 ##### Serving
-Add 1/8 of the rice and meat mixure in a bowl. Reheat in microwave til hot. Mix.
+Add 1/8 of the rice and meat mixture in a bowl. Reheat in microwave til hot. Mix.
 
 Top with pico, cabbage, and hot sauce. Serve.
 

@@ -58,7 +58,7 @@ Preparation
 ##### Fry the chicken
 
 1. Heat up 3 cups of cooking oil in a 12 inch skillet or frying pan for 3-4 minutes over high heat (335-350°F).
-2. Fry chicken in batches. Use tongs to split the clumped up chicken. When lighlty browned, remove chicken and set in a paper towel lined bowl.
+2. Fry chicken in batches. Use tongs to split the clumped up chicken. When lightly browned, remove chicken and set in a paper towel lined bowl.
 3. When all the chicken is fried, return pan with veggies to heat. Add the sauce and allow to thicken. Add chicken and coat evenly.
 
 Serve hot with short grain white rice!

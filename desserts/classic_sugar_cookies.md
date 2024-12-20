@@ -29,7 +29,7 @@ Preparation
 3. Hand knead dry ingredients into the wet.
 4. Wrap tightly and refrigerate at least 1 hour.
 5. Roll out dough to 1/2 cm thickness. Cut out shapes.
-6. Bakine at 350 for 12-15 minutes.
+6. Bake at 350 for 12-15 minutes.
 
 Notes
 =====

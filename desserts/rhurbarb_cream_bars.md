@@ -20,7 +20,7 @@ Ingredients
 ##### Filling
 * [ ] 6 tbsp      Flour
 * [ ] 3/4 tsp     Salt
-* [ ] 4 1/2 cups  Rhurbarb, diced
+* [ ] 4 1/2 cups  rhurbarb, diced
 * [ ] 1 1/2 cups  Sugar
 * [ ] 3           Eggs
 
@@ -33,7 +33,7 @@ Ingredients
 Preparation
 ===========
 1. Mix flour, powdered sugar and softened butter into streusel. Prest into 9x13 lined cookie sheet. Bake at 350 for 14 minutes.
-2. Whisk together flour, salt, sugar, eggs. Fold in Rhurbarb. Then pour over cooled crust.
+2. Whisk together flour, salt, sugar, eggs. Fold in rhurbarb. Then pour over cooled crust.
 3. Mix flour, cinnamon, sugar, and butter into another streusel. Crumble over rhurbarb mixture.
 4. Bake at 350 for 45 minutes.
 

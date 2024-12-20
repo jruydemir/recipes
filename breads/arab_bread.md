@@ -17,7 +17,7 @@ Ingredients
 * [ ] 1 tsp salt
 * [ ] 1 tsp instant yeast
 * [ ] 320 g water (1 1/2 cup)
-* [ ] 2 tbps EVOO
+* [ ] 2 tbp EVOO
 
 
 Preparation
@@ -32,7 +32,7 @@ Notes
 =====
 
 * To make Manakeesh - once the dough is rolled out, poke with then end of a fork. Add toppings right after placing on the pan.
-  * Cheese mixuture is 1 part feta/akawi to 1.5 part fresh mozz
+  * Cheese mixture is 1 part feta/akawi to 1.5 part fresh mozz
 * Can sub milk powder and water for 1 cup of whole milk + necessary water to reach weight.
 * Can partially proof for an hour then divide into 100g balls. Cover and Freeze.
 

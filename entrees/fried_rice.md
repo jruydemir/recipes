@@ -12,7 +12,7 @@ The trick to a good fried rice is a pan that's hotter than hell. Get the fan goi
 Ingredients
 ===========
 
-* [ ] 3 tbsps oil, divided
+* [ ] 3 tbsp oil, divided
 * [ ] 3 eggs, whisked
 * [ ] 1 1/2 cup frozen mixed veggies
 * [ ] salt and white pepper

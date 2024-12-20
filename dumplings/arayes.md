@@ -32,11 +32,11 @@ Preparation
 ===========
 1. In a food processor, chop onion. Squeeze out the juice and add pulp back to food processor.
 2. Add tomatoes, garlic, jalapeno. Process into a paste.
-3. Add meat and veggie paste to a bowl. Add salt, pepper, 7 spice, and alepo pepper. Mix by hand until evenly incorperated. If you're not about to cook them cover at this point and keep in the fridge. 
+3. Add meat and veggie paste to a bowl. Add salt, pepper, 7 spice, and aleppo pepper. Mix by hand until evenly incorporated. If you're not about to cook them cover at this point and keep in the fridge. 
 4. Add pomegranate molasses and parsley. Mix evenly.
-5. Scoop 1/4-1/3 cup of meat into the pita pocket. Smash down gently to fill in the full pita pocke to the edges. Meat should be 5-8mm thick.
+5. Scoop 1/4-1/3 cup of meat into the pita pocket. Smash down gently to fill in the full pita pocket to the edges. Meat should be 5-8mm thick.
 6. Brush outside of pitas with evoo.
-7. Bake in oven (425F), or preferrably over grill untl cripy on the outside and fully cooked in the center.
+7. Bake in oven (425F), or preferably over grill until crispy on the outside and fully cooked in the center.
 
 Serve hot with [fattoush](../salads/fattoush.md), [tabbouleh](../salads/tabbouleh.md), or another salad. 
 

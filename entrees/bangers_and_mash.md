@@ -30,7 +30,7 @@ Preparation
 2. Remove the sausages, then add the onions. Saute until nicely browned. The longer the better, but at least 15 minutes. Add the garlic and saute for another 30 seconds.
 3. Add flour and pepper stir over low heat for 2 minutes. Add broth and stir until thick.
 4. Add the sausage back to the pot. Stir occasionally for 15 minutes. Add more water if gravy gets too thick.
-5. Serve sausages over the mashed potatos with a nice scoop of gravy. Maybe a sides of peas!
+5. Serve sausages over the mashed potatoes with a nice scoop of gravy. Maybe a sides of peas!
 
 Notes
 =====

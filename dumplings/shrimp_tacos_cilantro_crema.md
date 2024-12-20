@@ -24,7 +24,7 @@ Ingredients
 * [ ] 1 cup greek yogurt
 * [ ] 2 tbsp EVOO
 * [ ] 1 clove garlic
-* [ ] 1 small jalapino, seeded
+* [ ] 1 small jalapeno, seeded
 * [ ] 1/2 bunch cilantro leaves
 * [ ] 1/4 tsp salt
 * [ ] 1 lg lime, zested and juiced
@@ -32,13 +32,13 @@ Ingredients
 ##### All else
 * [ ] 10 corn tortillas
 * [ ] 2 cups shredded cabbage
-* [ ] avacados or pico de gallo, optional
+* [ ] avocadoes or pico de gallo, optional
 
 Preparation
 ===========
-1. Marinate shrimp in spices and oil. Covor & place in fridge for 30 minutes to an hour.
+1. Marinate shrimp in spices and oil. Cover & place in fridge for 30 minutes to an hour.
 2. In blender, add all the sauce ingredients. Blend until smooth.
-3. Skewer shirimp. Grill over high heat. Also lightly cook tortillas.
+3. Skewer shrimp. Grill over high heat. Also lightly cook tortillas.
 
 Notes
 =====

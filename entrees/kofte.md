@@ -10,9 +10,9 @@ category: entree
 Ingredients
 ===========
 
-* [ ] 2 medium yellow onion, coursely chopped
-* [ ] 1 bunch parsley, coursely chopped
-* [ ] 3 cloves garlic, coursely chopped
+* [ ] 2 medium yellow onion, coarsely chopped
+* [ ] 1 bunch parsley, coarsely chopped
+* [ ] 3 cloves garlic, coarsely chopped
 * [ ] 1 lb ground beef, 20% fat
 * [ ] 1 lb ground lamb, 20% fat
 * [ ] 1/4 tsp 7 spice
@@ -24,7 +24,7 @@ Preparation
 ===========
 
 1. In a food processor, mince chopped onion. Scrape sides several times. Squeeze out excess onion juices. Add parsley and garlic, and continue to mince veggies.
-2. In a large mixing bowl add beef, minced aromatics, and all remaining ingredients. Mix by hand until tacky. You want ot overmix here to get it to stick to the kabab. Cover and let sit in fridge for 20 minutes.
+2. In a large mixing bowl add beef, minced aromatics, and all remaining ingredients. Mix by hand until tacky. You want ot over-mix here to get it to stick to the kebab. Cover and let sit in fridge for 20 minutes.
 3. Form into designated shape and grill at around 500 degrees.
 
 Notes

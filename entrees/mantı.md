@@ -18,13 +18,13 @@ Ingredients
 * [ ] 1 tsp salt
 * [ ] 3 tbsp olive oil
 * [ ] 1 tsp mint
-* [ ] 1 tsp aleppo/maraş pepper (optional)
+* [ ] 1 tsp aleppo pepper (optional)
 
 Preparation
 ===========
-1. Bring a lighly salted pot of water to a boil.
+1. Bring a lightly salted pot of water to a boil.
 2. Combined yogurt, garlic, and salt in a large bowl.
-3. Cook the mantı in the water until tender. Taste it to make sure it's soft enough, mine generally needs a few extra mintues.
+3. Cook the mantı in the water until tender. Taste it to make sure it's soft enough, mine generally needs a few extra minutes.
 4. Reserve 1 cup of the starchy water, strain the rest when the mantı is ready.
 5. Mix in 1/2 of the reserved water to the yogurt. Add more to get to desired consistency.
 6. Heat oil in a small pan. Add mint leaves before it gets hot. Once they start to bubble pull off heat and add pepper flakes.

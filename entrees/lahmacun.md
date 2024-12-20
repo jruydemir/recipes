@@ -21,7 +21,7 @@ Ingredients
 * [ ] 1 medium onion
 * [ ] 3 cloves garlic
 * [ ] 1 tomato
-* [ ] 1 annehiem pepper
+* [ ] 1 anaheim pepper
 * [ ] 1/2 bunch parsley
 * [ ] 1/2 lb ground lamb
 * [ ] 3/2 tsp salt

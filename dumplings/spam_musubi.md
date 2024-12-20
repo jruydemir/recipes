@@ -20,7 +20,7 @@ Ingredients
 * [ ] 1 tbsp furikake seasoning (optional, but encouraged)
 
 ##### Musubi
-* [ ] 1 12oz can Spam (preferr 25% less sodium version)
+* [ ] 1 12oz can Spam (prefer 25% less sodium version)
 * [ ] 3 tbsp oyster sauce
 * [ ] 3 tbsp soy sauce
 * [ ] 3 tbsp sugar
@@ -37,11 +37,11 @@ Ingredients
 Preparation
 ===========
 ##### Rice
-1. Rince the rice until the water is clear. Allow to soak for 20 minutes. Cook rice in rice cooker.
+1. Rinse the rice until the water is clear. Allow to soak for 20 minutes. Cook rice in rice cooker.
 2. Combine the rice vinegar, sugar and salt in a small bowl and heat in the microwave on high for 30 to 45 seconds. Add the vinegar mixture, and furikake to the rice. Fold thoroughly to combine and coat each grain of rice with the mixture. Allow to cool to room temperature before using to form musubi.
 
 ##### Musubi
-1. Slice the SPAM into about 10 slices and put in a Ziplock bag. Rince out the can an keep it.
+1. Slice the SPAM into about 10 slices and put in a Ziplock bag. Rinse out the can an keep it.
 2. Mix oyster sauce, soy sauce and sugar until sugar is dissolved and add to the bag with the SPAM. Marinate for 15-30 minutes. You can move on to the tamagoyaki while waiting.
 3. Drain off marinade and fry SPAM on each side over medium heat until slightly crispy or until desired doneness. Some people like to glaze the SPAM with the marinade/sauce AFTER frying, either way tastes great!
 
@@ -58,7 +58,7 @@ Preparation
 
 ##### Assembly
 1. Place a sheet of plastic wrap on the counter.
-2. Add about 1/3 cup Sushi Rice to the middle of the platic wrap. Press into roughly the shape of the SPAM can. Layer with egg (optional), and spam. 
+2. Add about 1/3 cup Sushi Rice to the middle of the plastic wrap. Press into roughly the shape of the SPAM can. Layer with egg (optional), and spam. 
 3. Wrap the plastic wrap around the rice and spam. Then place into the spam can press down on the bottom of the can to form the shape.
 4. Unwrap the musubi and wrap the nori around the outside (shiny side out). 
 

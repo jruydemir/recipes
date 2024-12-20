@@ -7,7 +7,7 @@ tags: arab, lamb, meat, main, class
 category: entree
 ---
 
-This lamb comes out tender and so so rich. Truely a beautiful dish. Serve with [Ouzi Rice](../sides/ouzi_rice.md).
+This lamb comes out tender and so so rich. Truly a beautiful dish. Serve with [Ouzi Rice](../sides/ouzi_rice.md).
 
 Ingredients
 ===========

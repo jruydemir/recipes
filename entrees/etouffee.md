@@ -16,7 +16,7 @@ Ingredients
 * [ ] 1/2 cup flour
 * [ ] 2 tbsp tomato paste
 * [ ] 1 tbsp [cajun spice mix](../spice_mix/cajun_spice_mix.md)
-* [ ] 1/4 tsp cayanne pepper
+* [ ] 1/4 tsp cayenne pepper
 * [ ] 1/4 tsp black pepper
 * [ ] 2 medium onions, diced
 * [ ] 2 green peppers, diced
@@ -27,7 +27,7 @@ Ingredients
 * [ ] 2 bay leaves
 * [ ] 2 lbs shrimp, chopped
 * [ ] 1/4 tsp tabasco
-* [ ] worchestershire sauce
+* [ ] worcestershire sauce
 
 Preparation
 ===========
@@ -35,7 +35,7 @@ Preparation
 2. Add tomato paste and spices to the roux. Stir for 30 seconds.
 3. Add trinity. Stir until vegetables are soft. Add garlic and whites of the green onions. Stir another 2 minutes.
 4. Add seafood stock and bay leaves. Simmer for 30 minutes.
-5. Remove the bay leaves. Add shrimp, tabasco, and worchestershire. Cook for 5 minutes. Add green onions.
+5. Remove the bay leaves. Add shrimp, tabasco, and worcestershire. Cook for 5 minutes. Add green onions.
 
 Serve over rice
 

@@ -25,7 +25,7 @@ Ingredients
 
 Preparation
 ===========
-1. Bring salted water to a boil. Boil the chicken breast for 20 minutes. Allow to cool. Shread.
+1. Bring salted water to a boil. Boil the chicken breast for 20 minutes. Allow to cool. Shred.
 2. In mixing bowl add all ingredients. Mix well.
 3. Cover and set in fridge for 1 hour.
 4. Service on bread, or crackers.

@@ -25,4 +25,4 @@ Preparation
 
 Notes
 =====
-* So I rinced my olives beforehand to make them a little less salty. Should play with this more.
+* So I rinsed my olives beforehand to make them a little less salty. Should play with this more.

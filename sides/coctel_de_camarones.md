@@ -29,7 +29,7 @@ Ingredients
 Preparation
 ===========
 1. In a large bowl, whisk ketchup, v8, horseradish sauce, lime juice, and hot sauce.
-2. Mix in onion, jalapeno, cucumber, tomato, cilantro, and avacado.
+2. Mix in onion, jalapeno, cucumber, tomato, cilantro, and avocado.
 3. Cut shrimp into bite sized pieces. Stir into bowl.
 4. Cover and chill in the fridge for 2-3 hours.
 Serve with chips.

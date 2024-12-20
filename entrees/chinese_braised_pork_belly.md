@@ -26,7 +26,7 @@ Preparation
 ===========
 1. Combined all ingredients except Pork Belly. Bring to a boil in a large pot.
 2. Once boiling, add Pork Belly (skin side up). Braise on low heat for 2 1/2 hours.
-3. Once tender, score the skin and broil for a crispy exterior. Base with brasing liquid a few times.
+3. Once tender, score the skin and broil for a crispy exterior. Base with braising liquid a few times.
 4. Serve with rice, and leafy vegetables.
 
 Notes

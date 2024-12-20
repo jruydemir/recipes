@@ -27,8 +27,8 @@ Ingredients
 
 Preparation
 ===========
-1. Rince and soak the rice for 20 minutes.
-2. Mix salt, allspice, cardamom, blackpepper, cinnamon, and clove. Set aside.
+1. Rinse and soak the rice for 20 minutes.
+2. Mix salt, allspice, cardamom, black pepper, cinnamon, and clove. Set aside.
 3. Add half the oil to a pan. Add frozen veggies and saute for 5 minutes. Add half the spice mixture and saute for another minute. Set aside.
 4. In the same pan add the rest of the oil. Add the drained rice and remaining spices. Saute for a few minutes, careful not to brown.
 5. Add rice and boiling water to rice cooker. Cook. Add veggies in the last 10 minutes.

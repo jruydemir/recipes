@@ -7,7 +7,7 @@ tags: beef, japanese, soup, cozy, healthy
 category: soups
 ---
 
-Effectivly this give the same cozy feeling as beef stew. However it's so much better.
+Effectively this give the same cozy feeling as beef stew. However it's so much better.
 
 Ingredients
 ===========
@@ -31,7 +31,7 @@ Preparation
 1. Heat butter and oil in the Dutch oven over medium high heat til sputtering.
 2. Add the beef and brown nicely. Add onions and cook til softened. Stir in potatoes and carrots to combine. After a few minutes add the shredded apple.
 3. Cover with water about 7 cups. Bring to a boil and keep on a strong simmer for 45 minutes.
-4. Add diakon, and continue to simmer for another 15 minutes or until the beef is tender.
+4. Add dikon, and continue to simmer for another 15 minutes or until the beef is tender.
 5. Mix in curry roux cubes to taste, then reduce to desired consistency. Season with soy sauce to taste.
 
 Serve with either rice or udon.

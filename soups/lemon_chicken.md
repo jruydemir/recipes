@@ -28,10 +28,10 @@ Ingredients
 
 Preparation
 ===========
-1. In a pot add chickent and chicken broth. Bring to a boil. Lower to a simmer for 45 minutes.
+1. In a pot add chicken and chicken broth. Bring to a boil. Lower to a simmer for 45 minutes.
 2. Place the olive oil in a large pan over high heat. Once the oil is hot, saute the onion for 3-4 minutes to soften, add garlic and crushed red pepper then saute for another 30 seconds.
 3. After the chicken has been simmering for 20 min, add onion mixture and lemon zest.
-4. After 45 minutes, check if chicken is ready by pulling apart with two forks. If it gives you much resistence pull into 4-6 large chunks and cook further checking every 5 minutes until it's easy to shread.
+4. After 45 minutes, check if chicken is ready by pulling apart with two forks. If it gives you much resistance pull into 4-6 large chunks and cook further checking every 5 minutes until it's easy to shred.
 5. Remove the chicken and add the couscous/rice. Simmer another 10-15 minutes until tender. 
 4. Add chicken back in the pot along with lemon juice and chive. Add salt and pepper as needed. Serve warm with feta.
 

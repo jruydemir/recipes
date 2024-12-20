@@ -31,7 +31,7 @@ Preparation
 6. Take loaves out of oven. Allow them to cool for about 5 minutes. 
 7. Then gently and using a serrated knife, saw them on the short side at about 3/4 inch thick.
 8. Place each biscotti back on sheet tray with as much spacing at you can while still getting the entire batch on a single sheet tray.
-9. Bake again for 12-15 mintues. Until hard and golden brown.
+9. Bake again for 12-15 minutes. Until hard and golden brown.
 10. Let cool. Serve with coffee, tea, or warm milk.
 
 Notes

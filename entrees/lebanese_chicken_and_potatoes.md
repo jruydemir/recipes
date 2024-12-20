@@ -3,7 +3,7 @@ title: Lebanese Chicken and Potatoes
 source: Tarik's Aunt Nabila
 cooking time: 2 hours
 servings: 6
-tags: Lebanese, chicken, easy
+tags: Lebanese, chicken, easy, rice_dish
 category: entree
 ---
 

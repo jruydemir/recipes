@@ -26,7 +26,7 @@ Ingredients
 Preparation
 ===========
 1. Beat the egg and salt together in a bowl until well mixed. In a separate bowl, combine the corn flour with the cold water and stir to dissolve.
-2. Bring the chicken broth, ginger, and garlic to a full rolling boil, remove from the heat, and stir in the dissolved tapioca starch. Boil until the soup has thickened and is no longer cloudy, about 1 minute; remove from the heat. Pour the egg into the soup in a thin line, and gently stir the egg in a figure 8 shape, making sure not to overmix the egg too much. Sprinkle the soup with the chopped onions, sesame oil, and white pepper, and serve.
+2. Bring the chicken broth, ginger, and garlic to a full rolling boil, remove from the heat, and stir in the dissolved tapioca starch. Boil until the soup has thickened and is no longer cloudy, about 1 minute; remove from the heat. Pour the egg into the soup in a thin line, and gently stir the egg in a figure 8 shape, making sure not to over-mix the egg too much. Sprinkle the soup with the chopped onions, sesame oil, and white pepper, and serve.
 
 Notes
 =====

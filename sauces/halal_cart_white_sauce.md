@@ -24,7 +24,7 @@ Ingredients
 
 Preparation
 ===========
-1. Mix toghether all ingredients. Cover and chill in fridge for 30 min.
+1. Mix together all ingredients. Cover and chill in fridge for 30 min.
 
 Notes
 =====

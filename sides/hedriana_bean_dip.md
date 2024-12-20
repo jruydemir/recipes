@@ -32,7 +32,7 @@ Preparation
 1. Brown Chorizo in oiled pan. Add Onion, Jalapeno, and Chipotle. Cook for 4 minutes. Add spices and garlic. Cook for 1 min
 2. Add broth and beans. Bring to a boil and cook for 5 minutes.
 3. Mash beans to achieve desired consistently. 
-4. Pour into pirex, sprinkle with tomatoes and cheese. Bake at 425 for 30 min.
+4. Pour into pyrex, sprinkle with tomatoes and cheese. Bake at 425 for 30 min.
 5. Top with green onions. Serve with chips 
 
 Notes

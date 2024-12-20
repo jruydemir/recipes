@@ -7,7 +7,7 @@ tags: dessert, bread, banana
 category: dessert
 ---
 
-Simple Banana bread recipe. BUT have you tried grilling it with a little bit of butter in a pan??? One of lifes little gifts.
+Simple Banana bread recipe. BUT have you tried grilling it with a little bit of butter in a pan??? One of life's little gifts.
 
 Ingredients
 ===========

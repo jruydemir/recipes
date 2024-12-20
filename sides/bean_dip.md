@@ -17,8 +17,8 @@ Ingredients
 * [ ] 2 cups sour cream
 * [ ] 4 roma tomatoes, seeded, diced
 * [ ] 1/4 medium onion, finely diced
-* [ ] 1/2 jalapino, seed, minced
-* [ ] 3 large avacados
+* [ ] 1/2 jalapeno, seed, minced
+* [ ] 3 large avocados
 * [ ] 1 lime
 * [ ] 1 tsp salt
 * [ ] 1/5 bunch cilantro
@@ -26,10 +26,10 @@ Ingredients
 
 Preparation
 ===========
-1. In a medium pot, heat refried beans. Add fat and a few tbsps of water to thin it out. Once fat has fully incorperated, spread beans at the bottom of a pyrex. Set in a fridge to cool.
-2. In a bowl, whisk two tbsps water with the sour cream. Set in fridge.
-3. In a mixing bowl mix tomatoes, onion, jalapinos, and salt. Set in fridge.
-4. Mash avacados, lime, salt, and cilantro. Cover and set in fridge.
+1. In a medium pot, heat refried beans. Add fat and a few tbsp of water to thin it out. Once fat has fully incorporated, spread beans at the bottom of a pyrex. Set in a fridge to cool.
+2. In a bowl, whisk two tbsp water with the sour cream. Set in fridge.
+3. In a mixing bowl mix tomatoes, onion, jalapenos, and salt. Set in fridge.
+4. Mash avocados, lime, salt, and cilantro. Cover and set in fridge.
 5. Layer sour cream over the beans, then add the guac layer. Sprinkle pico on top, then finally top with green onions. Serve with chips.
 
 Notes

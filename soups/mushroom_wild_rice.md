@@ -30,7 +30,7 @@ Ingredients
 Preparation
 ===========
 1. In a piping hot pan, add a little bit of oil and brown the mushrooms evenly. If using chicken, brown the cubes separately.
-2. Preheat an instant pot, add remaining veggies. Saute until onions are tranparent.
+2. Preheat an instant pot, add remaining veggies. Saute until onions are transparent.
 3. Add mushrooms, chicken, rice, herbs, spices, and stock. Close instant pot and pressure cook for 45 minutes. Vent pressure when done.
 4. In pan, melt butter, add flour and whisk for 10 minutes over med-high heat to make a blond roux. 
 5. Add roux and whole milk to soup, heat for another 5 minutes to allow soup to thicken.

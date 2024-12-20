@@ -3,7 +3,7 @@ title: Thai Mango Slaw
 source: Bee
 cooking time: 30 min
 servings: 
-tags: thai, healhy, vegetarian, vegan, mango
+tags: thai, healthy, vegetarian, vegan, mango
 category: salad
 ---
 

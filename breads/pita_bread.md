@@ -21,12 +21,12 @@ Ingredients
 
 Preparation
 ===========
-1. Dissolve yeast and sugar in 1/3 cup of the warm water. Set aside for 10 mintues.
+1. Dissolve yeast and sugar in 1/3 cup of the warm water. Set aside for 10 minutes.
 2. In a mixer or lg bowl mix flour and salt. 
 3. Start mixing the dry ingredients, and add the yeast mixture. Rinse out the cup with the remaining water and slowly add to the dry ingredients. Knead for 5 minutes.
-4. When thuroughly mixed knead on surface by hand for 2 mintues.
+4. When thoroughly mixed knead on surface by hand for 2 minutes.
 5. Form the dough into a log and divide into 10-14 pieces. Place on a tray, cover. Allow to sit for 45-60 min.
-6. On lightly floured surface press dough ball into small disk with your hands. Roll out with rolling pin, in up down motion. Turn the disk 90 degrees, and use rolling pin up and down again. Repead about 5 times until dough is about 2mm thick.
+6. On lightly floured surface press dough ball into small disk with your hands. Roll out with rolling pin, in up down motion. Turn the disk 90 degrees, and use rolling pin up and down again. Repeat about 5 times until dough is about 2mm thick.
 7. Place between tea towels and repeat with the remaining dough. Rest again for 15-20 minutes.
 8. Heat up cast iron or thick non-stick skillet. Place dough, top side down, directly on hot pan. Let rise until you start to see small bubbles forming (~20 seconds). Gently flip to the other side and wait another 20-ish seconds. Flip again. The dough should start to split and puff up. Let puff to all edges. Flip at least one more time to brown on both sides.
 9. Place dough in a bowl lined with towels and cover. Repeat with remaining dough. 

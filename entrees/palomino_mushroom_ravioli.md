@@ -51,7 +51,7 @@ Preparation
 ##### Mushroom Filling
 1. Heat a 1 tbsp of olive oil in a medium-sized pan, once hot add the finely chopped shallots and saute until soft and translucent.
 2. Add the chopped mushrooms and cook down until reduced in size and softened. Add the garlic and thyme and a good pinch of salt and pepper, fry for 1-2 minutes. Set aside and let cool for 5 minutes.
-3. Add the cooled mushroom mixture to a food processor with parmesan and ricotta. Blitz intil smooth and pate like.
+3. Add the cooled mushroom mixture to a food processor with parmesan and ricotta. Blitz until smooth and pate like.
 
 ##### Gorganzola Sauce
 1. Melt butter in saucepan, add garlic and cook for 30 seconds.

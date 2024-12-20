@@ -25,11 +25,11 @@ Ingredients
 
 Preparation
 ===========
-1. Bring a medium pot of water to a boil. Add the dried chiles and serranos.
+1. Bring a medium pot of water to a boil. Add the dried chiles and serrano.
 
 UNFINISHED
 
 Notes
 =====
 
-Especially good with battered fried prawns, corn torillas, pico, and shredded red cabbage.
+Especially good with battered fried prawns, corn tortillas, pico, and shredded red cabbage.

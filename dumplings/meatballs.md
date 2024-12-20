@@ -12,9 +12,9 @@ These are a great thing to make ahead and have an easy meal later. I usually dou
 Ingredients
 ===========
 
-* [ ] 1 yellow onion, coursely chopped
-* [ ] 1/2 bunch parsley, coursely chopped
-* [ ] 4 cloves garlic, coursely chopped
+* [ ] 1 yellow onion, coarsely chopped
+* [ ] 1/2 bunch parsley, coarsely chopped
+* [ ] 4 cloves garlic, coarsely chopped
 * [ ] 1 lb ground beef, 15% fat
 * [ ] 1 lb italian sausage
 * [ ] 1 lg egg

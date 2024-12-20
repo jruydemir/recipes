@@ -3,7 +3,7 @@ title: Spamwiches - Spam Sandwiches
 source: Self developed after trying at Marination
 cooking time: 30 min
 servings: 3
-tags: spam, hawiian, sandwich, slaw
+tags: spam, hawaiian, sandwich, slaw
 category: dumpling
 ---
 
@@ -13,7 +13,7 @@ Ingredients
 ===========
 
 * [ ] 1 can Spam (25% less Sodium)
-* [ ] 1 12 pack hawiian sweet rolls
+* [ ] 1 12 pack Hawaiian sweet rolls
 * [ ] 1/2 small cabbage, shredded
 * [ ] 1 lg carrot, shredded
 * [ ] 1 small dikon radish, shredded
@@ -33,7 +33,7 @@ Preparation
 4. In a small bowl mix mayo and siracha
 5. In a hot pan fry up spam. Brown nicely on each side. 
 6. Take 2-4 squares of rolls at a time. Fry them on the hot pan until lightly browned. 
-7. Assemble sandwiches in the following order. Two attached squares of hawiian roll (bottom), siracha mayo, slice of spam, generous pile of slaw, top of hawiian roll.
+7. Assemble sandwiches in the following order. Two attached squares of hawaiian roll (bottom), siracha mayo, slice of spam, generous pile of slaw, top of hawaiian roll.
 
 ENJOY
 

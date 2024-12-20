@@ -7,7 +7,7 @@ tags: irish, potatoes, side dish
 category: sides
 ---
 
-Colcannon are irish buttery mashed potatoes with greens. Celery root isn't traditonal, but it's a fun additional flavor.
+Colcannon are irish buttery mashed potatoes with greens. Celery root isn't traditional, but it's a fun additional flavor.
 
 Ingredients
 ===========
@@ -26,7 +26,7 @@ Preparation
 ===========
 1. In a large pot, cover potatoes and celery root with water and season generously with salt. Bring to a boil and cook until totally soft, 10 to 15 minutes. Drain and add to mixing bowl.
 2. Meanwhile, melt 4 tablespoons butter in a large pot. Add green onions and garlic and cook until beginning to soften and smell fragrant, about 2 minutes. Add shredded kale. Let cook 4 minutes, mixing often until kale wilts.
-3. Mash the potato mixture adding remaing butter, milk, and cream. Once smooth, add sauted vegetables and mix well.
+3. Mash the potato mixture adding remaining butter, milk, and cream. Once smooth, add sauted vegetables and mix well.
 
 Notes
 =====

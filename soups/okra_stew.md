@@ -30,7 +30,7 @@ Ingredients
 Preparation
 ===========
 1. Generously salt and pepper the beef. Heat up pressure cooker. Add oil and working in batches, brown the beef on all sides.
-2. Saute onions, and once done degaze the pot with a bit of broth. Add beef back to pot, with all remaining ingredients except the okra.
+2. Saute onions, and once done deglaze the pot with a bit of broth. Add beef back to pot, with all remaining ingredients except the okra.
 3. Pressure cook for 1 hour. Take off heat and allow to release naturally for up to 30 minutes.
 4. Add the okra. Remaining heat should be enough to cook it, but feel free to put on medium heat.
 5. Serve with rice.

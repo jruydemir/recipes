@@ -21,8 +21,8 @@ Ingredients
 Preparation
 ===========
 1. In a small saucepan heat butter and milk just until butter is melted.
-2. In mixing bowl combind flour, yeast, salt, and sugar.
-3. Mix wet ingredients into dry. Combind and knead for 5 minutes. Form into a ball, lightly grease.
+2. In mixing bowl combined flour, yeast, salt, and sugar.
+3. Mix wet ingredients into dry. Combined and knead for 5 minutes. Form into a ball, lightly grease.
 4. Cover and let rise for 1 hour.
 5. Punch dough down. Divide into 4 equal pieces and divide each of those into 5 pieces.
 6. Form into tight balls and placed on a parchment lined cookie sheet. 4 rows of 5 spaced about an 3/4" apart.

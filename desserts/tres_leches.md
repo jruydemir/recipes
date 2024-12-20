@@ -41,9 +41,9 @@ Preparation
 8. Pour the sponge cake batter into the pan and toss into the oven set at 350F for 25-30 minutes then cool completely.
 9. For the evaporated milk, lightly simmer whole milk, stirring occasionally, in a medium saucepan for 25 minutes. Once reduced, strain into a separate container.
 10. In a medium size bowl, combine sweetened condensed milk, evaporated milk, vanilla bean, and heavy cream. Whisk together.
-11. Using a fork, poke holes across the cold spong cake and pour on the milk mixture across the whole cake. Cover with plastic wrap and fridge for 1 hour to overnight.
+11. Using a fork, poke holes across the cold sponge cake and pour on the milk mixture across the whole cake. Cover with plastic wrap and fridge for 1 hour to overnight.
 12. For the dulce de leche, combine whole milk with granulated sugar. Simmer over medium heat. Reduce to medium-low once simmering. Heat and stir often for 90 minutes until thickened and cool at room temperature.
-13. Remove the spong cake from the fridge, cover evenly across the top with the dulce de leche.
+13. Remove the sponge cake from the fridge, cover evenly across the top with the dulce de leche.
 14. *Optional*: Whip heavy cream with granulated sugar until a fluffy whipped cream. Spread across the cake and sprinkle with ground cinnamon. 
 
 Notes

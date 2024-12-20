@@ -32,11 +32,10 @@ Ingredients
 ##### All else
 * [ ] 12 street tortillas
 * [ ] 2 cups shredded cabbage (1/2 a small head)
-* [ ] avacados, pico de gallo, optional
+* [ ] avocados, pico de gallo, optional
 
 Preparation
 ===========
-1. Marinate fish in spices and oil. Covor & place in fridge for 30 minutes to an hour.
 2. In blender, add all the sauce ingredients. Blend until smooth.
 3. Grill fish or fry in pan on high heat getting little bit of char. Also lightly cook tortillas. 
 

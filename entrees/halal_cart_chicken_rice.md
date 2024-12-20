@@ -40,7 +40,7 @@ Use either Kofte or the Kebab.
 * [ ] 1/2 tsp cinnamon
 * [ ] 1/4 tsp allspice
 * [ ] 1/4 tsp cloves
-* [ ] 1/2 tsp alepo pepper
+* [ ] 1/2 tsp aleppo pepper
 * [ ] 1/2 tsp paprika
 * [ ] pinch cayenne pepper
 * [ ] 1 egg
@@ -68,20 +68,20 @@ Use either Kofte or the Kebab.
 Preparation
 ===========
 1. Combined all ingredients for the kofte or kebabs in a bowl. Cover and rest in fridge.
-2. Rince the rice. Then in a hot pan melt the ghee. Add the drained rice, tumeric, cumin, and salt. Fry in hot pan until lightly toasted.
-3. Add rice to rice cooker with necessary ammount of broth.
+2. Rinse the rice. Then in a hot pan melt the ghee. Add the drained rice, tumeric, cumin, and salt. Fry in hot pan until lightly toasted.
+3. Add rice to rice cooker with necessary amount of broth.
 4. Make [white sauce](../sauces/halal_cart_white_sauce.md).
 5. For the salad, mix together all ingredients in bowl. Add more lemon, oil, and salt to taste. Cover and rest in fridge.
 6. For Kofte
     1. On a baking sheet divide kofte mix into 16 pieces (~80g). Roll between hands into 6" logs, then flatten on the parchment paper. 
-    2. Freeze any that you won't use today. Cook in air fryer for 10 min at 400 F. degrees. I suggest to start by cooking them on the parchment paper, remove the paper half way throught he cook, turning to brown evenly.
+    2. Freeze any that you won't use today. Cook in air fryer for 10 min at 400 F. degrees. I suggest to start by cooking them on the parchment paper, remove the paper half way through the cook, turning to brown evenly.
 6. For Kebab
     1. Skewer the chicken and grill.
 
 Notes
 =====
 
-Getting very close on the purportions
+Getting very close on the proportions
 
 Does the kebab recipe need yogurt?
 

@@ -30,7 +30,7 @@ Preparation
 
 3. Add tomatoes and cook for 10 minutes. Add veggies to blender, as well as chipotle, parsley, oregano, and cumin. Blend until smooth. 
 
-4. Add sauce back to pan, head over medium, add 1/2 cup of remaining chicken broth at a time. Mixing in and allow to reduce back to orignal amount. Repeat until all chicken broth is used.
+4. Add sauce back to pan, head over medium, add 1/2 cup of remaining chicken broth at a time. Mixing in and allow to reduce back to original amount. Repeat until all chicken broth is used.
 
 5. Shred chicken. Add to sauce.
 

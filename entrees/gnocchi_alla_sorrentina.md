@@ -26,7 +26,7 @@ https://www.seriouseats.com/gnocchi-alla-sorrentina
 
 Preparation
 ===========
-1. In a 3-quart saucepan or saucier, heat oil with garlic over medium heat, and cook until garlic is golden all over, 3 to 5 minutes. Add passata and basil; if passata is very thick like ketchup, stir in 1/2 cup (120ml) water. Bring to a gentle simmer, then lower heat to mantain bare simmer and cook for 10 minutes. Season lightly with salt and discard garlic and basil. Set aside.
+1. In a 3-quart saucepan or saucier, heat oil with garlic over medium heat, and cook until garlic is golden all over, 3 to 5 minutes. Add passata and basil; if passata is very thick like ketchup, stir in 1/2 cup (120ml) water. Bring to a gentle simmer, then lower heat to maintain bare simmer and cook for 10 minutes. Season lightly with salt and discard garlic and basil. Set aside.
 
 Notes
 =====

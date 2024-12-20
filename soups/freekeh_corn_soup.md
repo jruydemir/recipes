@@ -16,7 +16,7 @@ Ingredients
 * [ ] 1/3 cup evoo
 * [ ] 1 lg onion, diced
 * [ ] 4 garlic cloves, sliced
-* [ ] 1 1/4 cup freekeh, rinced
+* [ ] 1 1/4 cup freekeh, rinsed
 * [ ] 1 tsp aleppo pepper
 * [ ] 1 tsp cumin
 * [ ] 1 tsp dried marjoram

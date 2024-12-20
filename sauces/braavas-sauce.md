@@ -16,7 +16,7 @@ Ingredients
 * [ ] 2 tsp garlic, grated
 * [ ] 1 tsp smoked sweet paprika
 * [ ] 1/2 tsp salt
-* [ ] 1/2 tsp cayanne pepper
+* [ ] 1/2 tsp cayenne pepper
 * [ ] 1/4 cup tomato paste
 * [ ] 1/2 cup water
 * [ ] 2 tsp sherry vinegar

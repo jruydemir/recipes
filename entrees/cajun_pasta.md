@@ -38,11 +38,11 @@ Optional Step: In a small pot heat the shrimp shells for a few minutes. Add the 
 
 3. Drizzle pan with a little more olive oil, add sausage and brown until nicely caramelized on both sides, about 4 - 5 minutes. Set aside.
 
-4. Add a bit more olive oil to the pan, add the onion, bell pepper. Saute until soft and slighlty browned. Lower heat to medium. Add cajun seasoning, and garlic. Cook until fragrant, about 30 seconds. 
+4. Add a bit more olive oil to the pan, add the onion, bell pepper. Saute until soft and slightly browned. Lower heat to medium. Add cajun seasoning, and garlic. Cook until fragrant, about 30 seconds. 
 
 5. Add flour to the pan and saute for a few minutes to cook the flour.
 
-6. Add chicken broth mix and scrape to deglase pan. Add tomatoes. Heat until thicc.
+6. Add chicken broth mix and scrape to deglaze pan. Add tomatoes. Heat until thicc.
 
 7. Cook pasta in boiling water according to directions.
 

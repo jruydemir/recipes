@@ -31,4 +31,4 @@ Preparation
 Notes
 =====
 
-Serve with bluecheese dressing.
+Serve with blue cheese dressing.

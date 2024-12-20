@@ -20,7 +20,7 @@ Ingredients
 * [ ] 6 cloves Garlic
 * [ ] 2 dried Arbol Chiles
 * [ ] 2 dried Bay Leaves
-* [ ] 1 quart Beef or chicken Broth, preferrably homemade, match light or dark meat
+* [ ] 1 quart Beef or chicken Broth, preferably homemade, match light or dark meat
 
 ##### For the Sauce
 * [ ] 4 dried New Mexico Chiles
@@ -100,7 +100,7 @@ Chicken Verde Tamales
 * 1 scant cups (180g) lard
 * 2 1/2 cups (300g) masa
 * 1/2 tsp baking powder
-* < 3 cups chicken broth (use cooking liquid, add boullion)
+* < 3 cups chicken broth (use cooking liquid, add bouillon)
 * salt
 
 1. Cover the chicken with water, add onions, garlic and salt. Cook 40.

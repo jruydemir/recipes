@@ -1,6 +1,6 @@
 ---
 title: Brown Butter Vanilla Cake
-source: Polo Hedriana
+source: Hedriana
 cooking time:
 servings: 12
 tags: cake, polo, best,

@@ -22,14 +22,14 @@ Ingredients
 * [ ] 1 bunch green onion, chopped
 * [ ] 2 small cans roasted green chiles
 * [ ] 14 oz monterey jack cheese, shredded
-* [ ] 20 corn torillas, cut in half
+* [ ] 20 corn tortillas, cut in half
 
 Preparation
 ===========
 1. Preheat oven to 350F.
 2. In a large bowl whisk eggs until smooth. Add cumin, pepper, and salt. Mix in sour cream, then mix in verde enchilada sauce. Set aside.
 3. In a small bowl mix together cilantro, green onions, and roasted chiles.
-4. In a hot pan, spray a little bit of oil down. Working in batches lightly toast torillas in the pan. This is an optional step, but I do think it improves the flavor.
+4. In a hot pan, spray a little bit of oil down. Working in batches lightly toast tortillas in the pan. This is an optional step, but I do think it improves the flavor.
 5. Lightly oil the bottom and sides of a pyrex. Place a layer of tortillas (should take 10 halves). Sprinkle a quarter of the cilantro mix and a quarter of the cheese. Pour about a quarter of the egg mixture. Then repeat for 3 more layers.
 6. Bake for 45 minutes. Until top is lightly browned and middle is fully cooked.
 

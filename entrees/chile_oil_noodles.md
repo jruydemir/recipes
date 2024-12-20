@@ -7,7 +7,7 @@ tags: noodle, asian, viral, spicy
 category: entree
 ---
 
-This is a simple recipe from tiktok that is quick, easy-to-make, delisous.
+This is a simple recipe from tiktok that is quick, easy-to-make, delicious.
 
 Ingredients
 ===========

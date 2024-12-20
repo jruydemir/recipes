@@ -24,7 +24,7 @@ Preparation
 ===========
 1. Heat Coconut Cream in saucepan. Add half of the heavy cream. Add the sugar.
 2. Mix Gelatin with remaining cream and let set for 5 minutes.
-3. When pan mixture is at a slight boil add the gelatin mixture. Mix gently. Pour into ramikins.
+3. When pan mixture is at a slight boil add the gelatin mixture. Mix gently. Pour into ramekins.
 
 Notes
 =====

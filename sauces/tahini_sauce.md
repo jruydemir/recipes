@@ -26,7 +26,7 @@ Preparation
 Notes
 =====
 
-Preferrably made a few hours ahead of time to allow flavors to mix and settle.
+Preferably made a few hours ahead of time to allow flavors to mix and settle.
 
 Great when served over [köfte](../entrees/kofte.md).
 

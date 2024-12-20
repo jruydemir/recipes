@@ -31,6 +31,6 @@ Preparation
 Notes
 =====
 
-* Blueberry, cardimom
+* Blueberry, cardamom
 * poppy seed, lemon
 * Raspberry, orange peel

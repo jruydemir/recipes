@@ -2,7 +2,7 @@
 title: American Goulash
 source: Beazer Family
 img:
-tags: family, easy, tomatos
+tags: family, easy, tomatoes
 category: Entrees
 ---
 

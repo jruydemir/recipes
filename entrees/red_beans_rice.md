@@ -12,11 +12,11 @@ Simple easy recipe. Kind of a set it and forget it.
 Ingredients
 ===========
 
-* [ ] 2 tbsps olive oil
+* [ ] 2 tbsp olive oil
 * [ ] 1 large onion, roughly chopped
 * [ ] 1 green bell pepper, chopped
 * [ ] 2 stalks celery, chopped
-* [ ] 2 tbsps garlic, minced
+* [ ] 2 tbsp garlic, minced
 * [ ] 1 tsp kosher salt
 * [ ] 1/4 tsp cayenne pepper
 * [ ] 1 tsp dried thyme
@@ -28,7 +28,7 @@ Ingredients
 * [ ] 1 pound dry red beans, rinsed*
 * [ ] meaty ham bone or ham hock
 * [ ] 2 bay leaves
-* [ ] 1 lb andoulle sausage, sliced
+* [ ] 1 lb andouille sausage, sliced
 * [ ] 6 cups hot cooked rice, or more
 
 Preparation

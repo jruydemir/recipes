@@ -6,7 +6,7 @@ tags: rice, mushroom, gruyere
 category: sides
 ---
 
-Beautiful dish. Especially with chantrelles and homemade chicken stock.
+Beautiful dish. Especially with chanterelles and homemade chicken stock.
 
 Ingredients
 ===========
@@ -35,4 +35,4 @@ Preparation
 Notes
 =====
 
-Another great variation is sliced asparigus instead of mushrooms and Thyme
+Another great variation is sliced asparagus instead of mushrooms and Thyme

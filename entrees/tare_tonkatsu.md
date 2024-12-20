@@ -32,7 +32,7 @@ Preparation
 4. Cut pork loin into 6 pieces. Using a mallet or rolling pin, hammer pork between ziplock bag layers. Hammer to about 4 mm thick. Cut each piece in half again, once flattened.
 5. Dip each piece in the batter, scrape along the sides until a thin layer stays on. You should be able to see most of the meat. Then cover in panko. Place on a cooling rack to rest.
 6. Heat up 3-4 cups of oil in a wok. Once a wooden stick bubbles when dipped, it's ready. Cook 4 pieces of pork at a time. Flip at least once. You're looking for a just past golden color on the breading. Place on clean cooling rack and repeat.
-7. To serve: Fill a bowl with rice. Dip each piece of katsu in the tare sauce for a few seconds. Let the excess tare drip onto the rice. Each bowl should have 3-4 pieces. Pour a small ammount of the tare into a bowl to eat along side the Katsu. 
+7. To serve: Fill a bowl with rice. Dip each piece of katsu in the tare sauce for a few seconds. Let the excess tare drip onto the rice. Each bowl should have 3-4 pieces. Pour a small amount of the tare into a bowl to eat along side the Katsu. 
 
 Notes
 =====

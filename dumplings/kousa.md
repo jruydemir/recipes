@@ -33,7 +33,7 @@ Preparation
 ===========
 1. Wash and drain rice. Mix together all stuffing ingredients.
 2. On each squash, wash, slice off the top, and core the squash. Keep the walls of the squash pretty thin (~2m). The walls of the squash should bend a little under the pressure when squeezed.
-3. Crumble up the suffing mixture into the sqash. IMPORTANT: Do not press the suffing into the squash. You can shake it a little to let it pack down. Fill up to 1/4" under the top of the squash.
+3. Crumble up the stuffing mixture into the squash. IMPORTANT: Do not press the stuffing into the squash. You can shake it a little to let it pack down. Fill up to 1/4" under the top of the squash.
 4. In a large pot, add the oil, tomato paste, garlic, salt & pepper. Allow paste to fry for a minute. Add the chicken broth, bring to a boil.
 5. Place the squash in the sauce. Cover. Bring to a boil. Lower the heat to medium. Simmer for 45 minutes.
 6. Remove lid. Lower heat to low. Let thicken for 30 minutes. 
