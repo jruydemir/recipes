@@ -1,7 +1,8 @@
 ---
 title: Shrimp & Grits
 source: https://www.simplyrecipes.com/recipes/shrimp_and_grits/
-img:
+cooking time: 2 hours
+servings: 6
 tags: cajun, shrimp, cheese
 category: entrees
 ---

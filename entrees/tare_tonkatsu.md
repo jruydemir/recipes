@@ -12,20 +12,16 @@ We accidentally had this for our first meal in Tokyo, and were blown away. We ha
 Ingredients
 ===========
 
-* [ ] 4 scoops koshihikari rice (3 cup)
-
+* [ ] 4 scoops rice (3 cups)
 * [ ] 90 g water
 * [ ] 80 g hon-mirin
 * [ ] 90 g soy sauce
 * [ ] 45 g sugar
 * [ ] 4 g dashi
-
 * [ ] 60 g flour
 * [ ] 50 g water
 * [ ] 1 egg
-
 * [ ] 2 cup panko
-
 * [ ] 800 g pork loin (1.8 lbs)
 
 Preparation
@@ -40,5 +36,6 @@ Preparation
 
 Notes
 =====
+
 
 https://www.youtube.com/watch?v=oWYBsPNNq_A

@@ -7,8 +7,6 @@ tags: meat, arab, bbq
 category: entree
 ---
 
-
-
 Ingredients
 ===========
 
@@ -24,6 +22,7 @@ Ingredients
 
 Preparation
 ===========
+
 1. In a food processor, mince chopped onion. Scrape sides several times. Squeeze out excess onion juices. Add parsley and garlic, and continue to mince veggies.
 2. In a large mixing bowl add beef, minced aromatics, and all remaining ingredients. Mix by hand until tacky. You want ot overmix here to get it to stick to the kabab. Cover and let sit in fridge for 20 minutes.
 3. Form into designated shape and grill at around 500 degrees.

@@ -1,7 +1,8 @@
 ---
 title: Lahmacun
 source: Kinda on the fly
-img:
+cooking time: 1 hour
+servings: 6
 tags: turkish, healthy, bread
 category: entree
 ---

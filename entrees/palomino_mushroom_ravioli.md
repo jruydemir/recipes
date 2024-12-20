@@ -1,7 +1,8 @@
 ---
 title: Palomino's Mushroom Ravioli
 source: Best Guess
-img:
+cooking time: 1 hour
+servings: 6
 tags: italian, pasta, mushroom
 category: entrees
 ---

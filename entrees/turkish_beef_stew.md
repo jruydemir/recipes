@@ -14,7 +14,7 @@ Ingredients
 
 * [ ] 2 lbs beef chuck, cleaned and cubed small
 * [ ] 1/2 tsp salt
-* [ ] 1/4 tsp beef
+* [ ] 1/4 tsp pepper
 * [ ] 2 cups water
 * [ ] 1 lb sliced crimini mushrooms
 * [ ] 1 lg onion, diced
@@ -22,7 +22,7 @@ Ingredients
 * [ ] 6 cloves garlic
 * [ ] 1/2 tsp cumin
 * [ ] 1/2 tsp paprika
-* [ ] 1 tsp pepper paste
+* [ ] 1 tsp pepper paste (optional, but adds the authentic flavor)
 * [ ] 1 tsp tomato paste
 * [ ] 2 tbsp flour
 * [ ] 1 tsp oregano

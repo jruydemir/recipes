@@ -3,7 +3,7 @@ title: Butter chicken
 source: the Kitchen Paper
 cooking time: 3 hours
 servings: 6
-tags: indian, chicken, cream, rice
+tags: indian, chicken, cream, rice_dish
 category: entrees
 ---
 

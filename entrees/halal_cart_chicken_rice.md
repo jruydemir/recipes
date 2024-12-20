@@ -3,7 +3,7 @@ title: Halal Cart Chiken & Rice
 source: Golden Balance
 cooking time: 2 hours
 servings: 8
-tags: mealprep, healthy, chicken
+tags: mealprep, healthy, chicken, flawless
 category: entrees
 ---
 

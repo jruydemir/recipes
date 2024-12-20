@@ -3,7 +3,7 @@ title: Etouffee
 source: Multiple
 cooking time: 1 hour
 servings: 8
-tags: rice, shrimp, cajun, spicy
+tags: rice_dish, shrimp, cajun, spicy
 category: entrees
 ---
 

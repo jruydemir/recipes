@@ -3,7 +3,7 @@ title: Bazella (Lebanese Peas and Beef)
 source: https://everylittlecrumb.com/bazella/
 cooking time: 90 minutes
 servings: 10
-tags: arab, lebanese, healthy
+tags: arab, lebanese, healthy, rice_dish
 category: entree
 ---
 

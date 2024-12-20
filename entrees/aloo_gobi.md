@@ -2,7 +2,7 @@
 title: Aloo Gobi
 source: Madhur Jaffrey
 img:
-tags: vegan, vegetarian, indian
+tags: vegan, vegetarian, indian, rice_dish
 category: entrees
 ---
 

@@ -3,7 +3,7 @@ title: Burrito Bowls
 source: ruydemir
 cooking time: 1 1/2 hour
 servings: 8 meals
-tags: mealprep, healthy, rice, mexican, bowl
+tags: mealprep, healthy, rice_dish, mexican, bowl
 category: entree
 ---
 

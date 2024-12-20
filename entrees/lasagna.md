@@ -51,4 +51,4 @@ Preparation
 Notes
 =====
 
-Butter/flour/milk ratio is not perfected yet.
+This last time we swapped out the olives for chopped up, browned fennel and it was AMAZING.
