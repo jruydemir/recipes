@@ -1,34 +1,35 @@
 ---
 title: Egg Drop Soup
-source: https://www.allrecipes.com/recipe/199091/one-egg-egg-drop-soup/
+source: woksoflife
 cooking time: 30 min
 servings: 4
 tags: asian, egg, sick
 category: soups
 ---
 
-This is a work in progress
+One of my favorite simple meals to eat.
 
 Ingredients
 ===========
 
-* [ ] 1 egg
-* [ ] 1/4 teaspoon salt
-* [ ] 2 tablespoons corn flour
-* [ ] 1/4 cup cold water
-* [ ] 4 cups chicken broth
-* [ ] 1/8 teaspoon ground ginger
-* [ ] 1/8 teaspoon minced fresh garlic
-* [ ] 2 tablespoons chopped green onion
-* [ ] 1/4 teaspoon sesame oil
-* [ ] 1 pinch white pepper
+* [ ] 4 cups chicken stock
+* [ ] 1/2 tsp sesame oil
+* [ ] 3/4 tsp salt
+* [ ] 1/8 tsp sugar
+* [ ] 1/8 tsp white pepper
+* [ ] 1/4 tsp turmeric
+* [ ] 3 tbsp cornstarch (mixed with 1/3 cup water)
+* [ ] 3 eggs
+* [ ] 1 scallion
+* [ ] 1/4 tsp MSG 
 
 Preparation
 ===========
-1. Beat the egg and salt together in a bowl until well mixed. In a separate bowl, combine the corn flour with the cold water and stir to dissolve.
-2. Bring the chicken broth, ginger, and garlic to a full rolling boil, remove from the heat, and stir in the dissolved tapioca starch. Boil until the soup has thickened and is no longer cloudy, about 1 minute; remove from the heat. Pour the egg into the soup in a thin line, and gently stir the egg in a figure 8 shape, making sure not to over-mix the egg too much. Sprinkle the soup with the chopped onions, sesame oil, and white pepper, and serve.
+
+1. Beat the egg in a bowl until well mixed. In a separate bowl, combine the corn starch with the cold water and stir to dissolve.
+2. Bring the chicken stock to a simmer in a medium soup pot. Stir in the sesame oil, salt, sugar, white pepper, MSG, and tumeric.
+3. Add the cornstarch and water mixture. Stir the soup continuously as you drizzle in the slurry. Use more or less starch if you like a thicker or thinner soup.
+4. Lightly whisk the egg so that some whites are still visible. Give the soup a stir, stop stirring and slowly pour in egg a little bit at a time. Count to 3, stir and repeat until all egg is added.
 
 Notes
 =====
-
-Any personal annotations and advises go here
