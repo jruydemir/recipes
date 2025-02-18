@@ -20,7 +20,7 @@ Ingredients
 * [ ] 1 tbsp tomato paste
 * [ ] 1 tbsp pepper paste
 * [ ] 1 tsp salt
-* [ ] 3 tbsp mint
+* [ ] 3 tsp mint
 * [ ] 2 tsp cumin
 * [ ] 1/2 tsp tumeric
 * [ ] 1 1/2 cup red lentils, rinsed
