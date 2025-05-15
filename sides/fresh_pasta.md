@@ -12,19 +12,23 @@ This recipe is specifically for my pasta maker.
 Ingredients
 ===========
 
-* [ ] 250g flour
-* [ ] 250g semolina
-* [ ] 2 eggs
-* [ ] water
+* [ ] 200g flour
+* [ ] 200g semolina
+* [ ] 190g egg yolks
+* [ ] 80g water
+* [ ] 4g salt
 
 Preparation
 ===========
-1. Mix together flour and semolina. 
-2. Tare out a bowl on the scale. Add eggs and whisk well. Add water until the wet ingredients weigh 190g
-3. Mix all ingredients together OR follow instructions on pasta maker.
-4. Onces mixed, rest for at least 15 minutes before extruding. 
+1. Mix together flour, semolina, and salt. 
+2. Tare out a bowl on the scale. Add eggs and whisk well. Add water.
+3. Mix all ingredients together, rest for at least 15 minutes before rolling out. Roll down to the lowest setting for what Tarik wants.
 
 Notes
 =====
 
-Any personal annotations and advises go here
+Pasta maker ingredients are:
+250g Flour
+250g Semolina
+2 eggs
+water - combined with eggs to weigh 190g
