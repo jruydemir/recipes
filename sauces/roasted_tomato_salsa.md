@@ -15,7 +15,7 @@ Ingredients
 * [ ] 500g roma tomatoes
 * [ ] 1/2 medium yellow/white onion, 1 cm slices
 * [ ] 4 cloves garlic
-* [ ] 1 serrano, destemmed
+* [ ] 1 jalapeno
 * [ ] 1 small bunch cilantro
 * [ ] 1/2 lime juice
 * [ ] 1/4 tsp cumin
@@ -25,7 +25,7 @@ Ingredients
 
 Preparation
 ===========
-1. In a dry hot pan, sear tomatoes, onions, garlic (with peels still on), serrano pepper. Turn each until blackend on all sides. Remove skins from garlic.
+1. In a dry hot pan, sear tomatoes, onions, garlic (with peels still on), serrano pepper. Turn each until lightly charred on all sides. Remove skins from garlic.
 
 2. Place veggies in blender, add cilantro, lime, cumin, and salt. Blend to desired chunkiness.
 
@@ -34,4 +34,4 @@ Preparation
 Notes
 =====
 
-* Deseed serrano pepper after roasting if you want a milder salsa.
+* Slightly deseed jalapeno after roasting if you want a milder salsa.

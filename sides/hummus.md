@@ -16,9 +16,9 @@ Ingredients
 * [ ] 250g	dried chickpeas
 * [ ] 2 tsp	baking soda
 * [ ] 270g	light tahini paste
-* [ ] 4 tbsp	lemon juice
+* [ ] 4 tbsp lemon juice
 * [ ] 4	garlic cloves, crushed
-* [ ] 100ml	ice water
+* [ ] 100ml	ice
 * [ ] 1 1/2 tsp salt
 
 Preparation
@@ -33,7 +33,7 @@ Preparation
 
 5. You should have roughly 600g now. Place the chickpeas, garlic, lemon juice, and salt in a food processor bowl. Blend until you get a stiff paste. 
 
-6. With the machine still running, add the tahini paste. Finally, slowly drizzle ice & water and allow it to mix until you get a very smooth and creamy paste. Taste a small bit and adjust salt, lemon, and water to your preference.
+6. With the machine still running, add the tahini paste. Finally, slowly add ice and allow it to mix until you get a very smooth and creamy paste. Taste a small bit and adjust salt, lemon, and water to your preference. If making a day ahead, add a little extra water. Soft peaks should sink slightly.
 
 7. Let the hummus rest in the fridge at least 30 minutes before eating. Ideally let it sit overnight. Serve with a drizzle of good olive oil and a pinch of sumac.
 
