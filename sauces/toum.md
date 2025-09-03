@@ -15,7 +15,7 @@ Ingredients
 * [ ] 1/2 cup garlic cloves, peeled
 * [ ] 1 teaspoon kosher salt
 * [ ] 3 tablespoons fresh lemon juice
-* [ ] 1 cups neutral oil (sunflower, vegetable, canola, etc.)
+* [ ] 3/4 cups neutral oil (sunflower, vegetable, canola, etc.)
 
 Preparation
 ===========
@@ -26,6 +26,7 @@ Preparation
 
 Notes
 =====
+Might need a touch more oil.
 
 * This is an emulsion and fairly technical as far as cooking goes. It can split (not form the emulsion) if you don't take it slow. I suggest folks look up videos on youtube if they're unfamiliar.
 * A food processor makes this fairly easy, but you can also use an immersion blender or normal blender (look up instructions on youtube for those instructions).

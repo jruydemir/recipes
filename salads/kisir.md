@@ -12,7 +12,7 @@ Wonderfully fresh and tangy dish.
 Ingredients
 ===========
 
-* [ ] 3/4 cup bulgur
+* [ ] 1 cup bulgur
 * [ ] 1 cup water, boiling
 * [ ] 2 tbsp lemon juice
 * [ ] 2 tbsp pomegranate molasses

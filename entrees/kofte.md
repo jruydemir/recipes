@@ -12,10 +12,8 @@ Ingredients
 
 * [ ] 2 medium yellow onion, coarsely chopped
 * [ ] 1 bunch parsley, coarsely chopped
-* [ ] 3 cloves garlic, coarsely chopped
-* [ ] 1 lb ground beef, 20% fat
-* [ ] 1 lb ground lamb, 20% fat
-* [ ] 1/4 tsp 7 spice
+* [ ] 3 lb ground lamb, 20% fat
+* [ ] 1/4 tsp cinnamon
 * [ ] 1/4 tsp fresh ground black pepper
 * [ ] 1 1/2 tsp salt
 * [ ] pinch msg
