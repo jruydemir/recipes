@@ -25,7 +25,7 @@ Ingredients
 * [ ] Salt & Pepper to taste
 * [ ] 1 can diced tomato
 * [ ] neutral oil
-* [ ] 2 cups long grain rice/farro, washed & drained
+* [ ] 2 1/2 cups long grain rice/farro, washed & drained
 * [ ] 6 cups chicken broth
 * [ ] 1 lb andouille sausage, sliced into half moons
 * [ ] 1/2 lb frozen okra
@@ -34,7 +34,7 @@ Ingredients
 Preparation
 ===========
 1. Brine the chicken.
-2. Heat the oil in a kettle or large saucepan with a heavy bottom over medium heat. Add the flour, and cook, stirring constantly, until lightly browned. Do not burn.
+2. Heat the oil in a kettle or large saucepan with a heavy bottom over medium heat. Add the flour, and cook, stirring constantly, until dark brown. It should look like melted chocolate.
 3. Add the onion, green pepper, celery. Cook, stirring, until wilted. 
 4. Add garlic, cajun spice mix, thyme, oregano, salt, and pepper. Stir for a minute.
 5. Add the tomatoes, and broth, bring to a boil. 

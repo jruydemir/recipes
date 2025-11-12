@@ -7,19 +7,19 @@ tags: mexican, rice, sides
 category: sides
 ---
 
-Mexican white rice does not get the star treatment it deserves. It's really good.
+Mexican white rice does not get the star treatment it deserves. It's really good, but very flexible. Play with the ingredients.
 
 Ingredients
 ===========
 
-* [ ] 3 cups (810g) long grain white rice
-* [ ] 1/3 medium (72g) onion
-* [ ] 3 small cloves garlic
+* [ ] 2 cups long grain white rice
+* [ ] 1/4 medium onion
+* [ ] 2 small cloves garlic
 * [ ] 1/2 cup (120ml) water
-* [ ] 6 tbsp butter or lard
-* [ ] 4 cups water
-* [ ] 3 bullion cubes
-* [ ] 2 cups frozen mixed veggies
+* [ ] 2 tbsp butter or lard
+* [ ] 2 2/3 cups water
+* [ ] 2 tsp bouillon
+* [ ] 1 1/2 cups frozen mixed veggies (optional)
 
 Preparation
 ===========
@@ -36,3 +36,4 @@ Notes
 * Can also blend in half a serrano pepper for spice/extra flavor.
 * Fresh cilantro and/or lime at end of cooking.
 * Leftovers make a really good fried rice with a some eggs and soy sauce.
+

@@ -14,7 +14,7 @@ Ingredients
 
 * [ ] 230g flour
 * [ ] 3 eggs
-* [ ] 1/4 tsp salt
+* [ ] 1/2 tsp salt
 * [ ] 1 tsp vanilla, optional
 * [ ] 1 tsp sugar
 * [ ] 250 ml milk
