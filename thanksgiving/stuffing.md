@@ -12,7 +12,7 @@ This is about as close as I've gotten to what everyone imagines as stuffing. Not
 Ingredients
 ===========
 
-* [ ] 1 loaf chewey bread, diced small and dried
+* [ ] 1 loaf bread, diced small and dried (not too large a loaf)
 * [ ] 1 cup unsalted butter
 * [ ] 3 cups onion, diced (don't do too much)
 * [ ] 2 cups celery, diced

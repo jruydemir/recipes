@@ -33,13 +33,15 @@ CASSEROLE
 
 Preparation
 ===========
-2. Blanch the greenbeans in boiling water for 5 minutes. Strain and rinse under cold water.
-4. Melt butter and add mushrooms brown mushrooms well. Add spice mix, salt, pepper.
-5. Make roux. Add stock, half & half. Heat to form gravy.
-6. Pour gravy into green beans. Mix well place in baking dish.
+1. Blanch the greenbeans in boiling water for 5 minutes. Strain and rinse under cold water.
+2. Melt butter and add mushrooms brown mushrooms well. Add spice mix, salt, pepper.
+3. Make roux. Add stock, half & half. Heat to form gravy.
+4. Pour gravy into green beans. Mix well place in baking dish.
 5. Coat onions in flour, dust excess off. Fry until crispy and brown.
-6. Mix half of fried onions into casserole, sprinkle other half over the top.
-9. Bake for 30 minutes at 350F
+6. Mix half of fried onions into casserole.
+7. Bake for 15 minutes at 350F.
+8. Sprinkle the other half of the onions over the casserole.
+9. Bake for another 13 minutes.
 
 Notes
 =====
