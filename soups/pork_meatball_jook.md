@@ -1,13 +1,13 @@
 ---
 title: Pork Meatball Jook
-source: Recipe's source
+source: https://cooking.nytimes.com/recipes/1016651-thai-rice-soup-with-pork-cilantro-meatballs
 cooking time: 1 hour
 servings: 6
 tags: rice, congee, jook, pork, comfort
 category: soup
 ---
 
-This would be the description of the recipe. Any info or history about the recipe goes here
+Jook is another word for congee (rice porridge)
 
 Ingredients
 ===========
@@ -36,7 +36,7 @@ Preparation
 3. Form into meatballs with about the diameter of a nickel.
 4. At this point the rice should be soft. Use a whisk to break the rice, stirring quickly for about 1 minute. Turn heat down to low.
 5. Separate the greens of the bok choi from the stems. Slice the leaves about a 1/4 inch thick. Slice the stems about 1/8th in thick. 
-6. Add the meatballs gently to the porrage, let cook for 2 minutes then add the sliced up stems. Gently stir. Let cook for another 5 minutes, then add the leaves and green onions.
+6. Add the meatballs gently to the porridge, let cook for 2 minutes then add the sliced up stems. Gently stir. Let cook for another 5 minutes, then add the leaves and green onions.
 
 Notes
 =====

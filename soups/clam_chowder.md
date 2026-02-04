@@ -12,7 +12,7 @@ Is there anything better on a rainy, cold day than a thick bowl of clam chowder 
 Ingredients
 ===========
 
-* [ ] 1 pkg bacon, sliced
+* [ ] 1 lb bacon, sliced
 * [ ] 1 cup celery, finely diced
 * [ ] 2 cup leeks, finely sliced
 * [ ] 3/4 cup all-purpose flour
@@ -23,7 +23,7 @@ Ingredients
 * [ ] 3/4 Tbsp thyme
 * [ ] 4 bay leaves
 * [ ] 4 cans clams
-* [ ] 2 1/2 cups heavy cream
+* [ ] 2 cups heavy cream
 
 Preparation
 ===========
@@ -37,5 +37,3 @@ Notes
 =====
 Serve with Bread or Oyster crackers.
 A vinegarette salad also pares well with this.
-
-Can increase flour and broth to feed more folks.

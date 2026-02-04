@@ -25,7 +25,7 @@ Ingredients
 
 Preparation
 ===========
-1. In a dry hot pan, sear tomatoes, onions, garlic (with peels still on), serrano pepper. Turn each until lightly charred on all sides. Remove skins from garlic.
+1. In a dry hot pan, sear tomatoes, onions, garlic (with peels still on), serrano pepper. Do not bake or airfry. Turn each until lightly charred on all sides. Remove skins from garlic.
 
 2. Place veggies in blender, add cilantro, lime, cumin, and salt. Blend to desired chunkiness.
 
