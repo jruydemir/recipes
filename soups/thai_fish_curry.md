@@ -22,7 +22,7 @@ Ingredients
 * [ ] 1 green bell pepper, diced
 * [ ] 1/2 onion, diced
 * [ ] 1 carrot, julienned
-* [ ] 600 g fresh cod
+* [ ] 700 g fresh cod
 * [ ] fresh coriander
 * [ ] chile oil and lime wedges
 

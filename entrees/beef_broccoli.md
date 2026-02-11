@@ -1,10 +1,10 @@
 ---
 title: Beef & Broccoli
-source: Recipe's source
-cooking time:
-servings:
-tags: any, tags, for, this, recipe
-category: dessert
+source: https://cooking.nytimes.com/recipes/1019262-beef-and-broccoli
+cooking time: 1 hour
+servings: 4
+tags: chinese, rice, beef, bowl, comfort
+category: entree
 ---
 
 Very much a work in progress. This is the base recipe, but I've had a lot of success thus far.
@@ -21,8 +21,6 @@ Ingredients
 * [ ] ½ cup plus 1 tbsp neutral oil
 * [ ] 3 small heads broccoli
 * [ ] 2 tbsp unsalted butter
-
-
 
 Preparation
 ===========
