@@ -33,4 +33,4 @@ Preparation
 Notes
 =====
 
-This sauce was very tasty, but needed to be thicker.
+**This sauce was very tasty, but needed to be thicker.**

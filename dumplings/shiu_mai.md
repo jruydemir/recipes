@@ -36,6 +36,8 @@ Preparation
 Notes
 =====
 
+Needs more flavor try dried shrimp (toasted & ground), 
+
 Serve with fresh ginger, chile oil, soy sauce, and dark vinegar.
 
 * Integrate with https://www.youtube.com/watch?v=d2pv97NYdFQ and https://healthynibblesandbits.com/cantonese-shumai-siu-mai/
