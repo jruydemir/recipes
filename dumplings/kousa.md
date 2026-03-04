@@ -44,3 +44,12 @@ Notes
 Can be cooked with lamb chops.
 
 Cook with tomato, not lemon.
+
+
+2 cups rice (soaked 10 min)
+1 tbsp olive oil
+1/2 onion, diced
+.9 lbs ground lamb
+1/4 tsp cinnamon
+1/4 tsp pepper
+2 tsp salt

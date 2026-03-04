@@ -21,7 +21,7 @@ Ingredients
 * [ ] 1 tsp cumin
 * [ ] 1 tsp dried marjoram
 * [ ] 1/4 tsp pepper
-* [ ] 2 tsp corn
+* [ ] 2 tsp salt
 * [ ] 2 tbsp flour
 * [ ] 7 cups chicken stock
 * [ ] 2 cups cream
