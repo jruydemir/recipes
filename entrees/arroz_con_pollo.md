@@ -3,8 +3,8 @@ title: Arroz con Pollo
 source: 
 cooking time: 90 min
 servings: 6-8
-tags: mexican, C&R, spicy
-category: dessert
+tags: mexican, C&R, spicy, mealprep
+category: entree
 ---
 
 Starting this recipe off strong
