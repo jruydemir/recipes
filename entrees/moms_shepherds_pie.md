@@ -17,11 +17,10 @@ Ingredients
 * [ ] 3 garlic cloves, minced
 * [ ] 2 carrot, finely chopped
 * [ ] 2 rib celery, finely chopped
-* [ ] 2 tsp each dried thyme, oregano, rosemary
+* [ ] 1 tsp each dried thyme, oregano, rosemary
 * [ ] 1 lb ground beef
 * [ ] 1/2 cup flour, plain/all purpose
-* [ ] ¼ cup tomato paste
-* [ ] 1 heaping tbsp nutritional yeast
+* [ ] 2 tbsp tomato paste
 * [ ] 1/2 tsp fennel seed, ground
 * [ ] 2 cups beef broth, sub 1/2 cup red wine
 * [ ] 1 beef bouillon cube, crumbled
