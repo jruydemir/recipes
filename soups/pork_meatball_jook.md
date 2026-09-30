@@ -22,9 +22,10 @@ Ingredients
 * [ ] 1 lb ground pork
 * [ ] 1 tbsp oyster sauce
 * [ ] 1 tsp soy sauce
+* [ ] 1/2 tsp sesame oil
 * [ ] 2 garlic cloves
 * [ ] 1/2 tsp white pepper, ground
-* [ ] 2 tbsp cilantro, minced
+* [ ] 2 tbsp cilantro, minced (optional)
 
 * [ ] 7 baby bok choi
 * [ ] green onions, sliced
