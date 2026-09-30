@@ -27,7 +27,7 @@ Ingredients
 * [ ] 1/2 tsp white pepper, ground
 * [ ] 2 tbsp cilantro, minced (optional)
 
-* [ ] 7 baby bok choi
+* [ ] 7 baby bok choi (5 if large)
 * [ ] green onions, sliced
 
 Preparation
